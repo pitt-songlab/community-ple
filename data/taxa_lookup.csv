@@ -1,0 +1,2279 @@
+taxon_id,taxon_name,class
+BACILLARIOCSP,Bacillariophyceae sp.,Bacillariophyceae
+BATRACHOSPFSP,Batrachospermaceae sp.,Rhodophyceae
+CHLOROPHYTASP,Chlorophyta sp.,NA
+NEONDREX10019,Aulacoseira italica (Ehrenberg) Simonsen,Bacillariophyceae
+NEONDREX1010,Achnanthidium minutissimum (Kützing) Czarnecki,Bacillariophyceae
+NEONDREX1024,Achnanthidium exiguum (Grunow) Czarnecki,Bacillariophyceae
+NEONDREX110005,Encyonema silesiacum (Bleisch) Mann,Bacillariophyceae
+NEONDREX12031,Caloneis schumanniana (Grunow) Cleve,Bacillariophyceae
+NEONDREX155009,Planothidium delicatulum (Kützing) Round et Bukhtiyarova,Bacillariophyceae
+NEONDREX155017,Planothidium frequentissimum (Lange-Bertalot) Lange-Bertalot,Bacillariophyceae
+NEONDREX16004,Cocconeis placentula Ehrenberg,Bacillariophyceae
+NEONDREX172005,Staurosira construens var. binodis (Ehrenberg) Hamilton,Bacillariophyceae
+NEONDREX172006,Staurosira construens var. venter (Ehrenberg) Hamilton,Bacillariophyceae
+NEONDREX175005,Staurosirella pinnata (Ehrenberg) Williams et Round,Bacillariophyceae
+NEONDREX245001,Ulnaria ulna (Nitzsch) Compère,Bacillariophyceae
+NEONDREX245005,Ulnaria acus (Kützing) Aboal,Bacillariophyceae
+NEONDREX32003,Epithemia adnata (Kützing) Brébisson,Bacillariophyceae
+NEONDREX32004,Epithemia turgida (Ehrenberg) Kützing,Bacillariophyceae
+NEONDREX33185,Eunotia bilunaris (Ehrenberg) Souza,Bacillariophyceae
+NEONDREX34006,Fragilaria capucina Desmazières,Bacillariophyceae
+NEONDREX34017,Fragilaria crotonensis Kitton,Bacillariophyceae
+NEONDREX34098,Fragilaria capucina var. gracilis (Østrup) Hustedt,Bacillariophyceae
+NEONDREX34212,Fragilaria sepes Ehrenberg,Bacillariophyceae
+NEONDREX34237,Fragilaria mesolepta Rabenhorst,Bacillariophyceae
+NEONDREX37002,Gomphonema affine Kützing,Bacillariophyceae
+NEONDREX37007,Gomphonema gracile Ehrenberg,Bacillariophyceae
+NEONDREX37010,Gomphonema parvulum (Kützing) Kützing,Bacillariophyceae
+NEONDREX37022,Gomphonema truncatum Ehrenberg,Bacillariophyceae
+NEONDREX37029,Gomphonema subclavatum (Grunow) Grunow,Bacillariophyceae
+NEONDREX37168,Gomphonema micropus Kützing,Bacillariophyceae
+NEONDREX37302,Gomphonema drutelingense Reichardt,Bacillariophyceae
+NEONDREX45005,Meridion lineare Williams,Bacillariophyceae
+NEONDREX455000,Oedogonium sp.,Chlorophyceae
+NEONDREX46056,Navicula radiosa Kützing,Bacillariophyceae
+NEONDREX46504,Navicula veneta Kützing,Bacillariophyceae
+NEONDREX46649,Navicula recens (Lange-Bertalot) Lange-Bertalot,Bacillariophyceae
+NEONDREX467000,Pediastrum duplex Meyen,Chlorophyceae
+NEONDREX48004,Nitzschia amphibia Grunow,Bacillariophyceae
+NEONDREX48013,Nitzschia frustulum (Kützing) Grunow,Bacillariophyceae
+NEONDREX48023,Nitzschia linearis (Agardh) Smith,Bacillariophyceae
+NEONDREX48025,Nitzschia palea (Kützing) Smith,Bacillariophyceae
+NEONDREX48032,Nitzschia sublinearis Hustedt,Bacillariophyceae
+NEONDREX48122,Nitzschia inconspicua Grunow,Bacillariophyceae
+NEONDREX48165,Nitzschia paleacea Grunow,Bacillariophyceae
+NEONDREX48177,Nitzschia sigmoidea (Nitzsch) Smith,Bacillariophyceae
+NEONDREX48340,Nitzschia incognita Legler et Krasske,Bacillariophyceae
+NEONDREX52009,Pinnularia appendiculata (Agardh) Cleve,Bacillariophyceae
+NEONDREX543001,Stigeoclonium lubricum (Dillwyn) Kützing,Chlorophyceae
+NEONDREX58001,Rhopalodia gibba (Ehrenberg) Müller,Bacillariophyceae
+NEONDREX58012,Rhopalodia operculata (Agardh) Håkansson,Bacillariophyceae
+NEONDREX6001,Amphipleura pellucida (Kützing) Kützing,Bacillariophyceae
+NEONDREX73001,Pseudostaurosira brevistriata (Grunow) Williams et Round,Bacillariophyceae
+NEONDREX803001,Anabaena sp.,Myxophyceae
+NEONDREX820006,Chroococcus sp.,Myxophyceae
+NEONDREX850006,Heteroleibleinia sp.,Myxophyceae
+NEONDREX8942001,Eolimna minima (Grunow) Lange-Bertalot,Bacillariophyceae
+NEONDREX897003,Pseudanabaena sp.,Myxophyceae
+NEONDREX9098005,Halamphora montana (Krasske) Levkov,Bacillariophyceae
+SELPUP,Sellaphora pupula (Kützing) Mereschkovsky,Bacillariophyceae
+STEMEN,"Stephanocyclus meneghinianus (Kützing) Kulikovskiy, Genkal & Kociolek",Coscinodiscophyceae
+COCPLA,Cocconeis placentula sensu lato Ehrenberg,Bacillariophyceae
+NEONDREX155003,Planothidium lanceolatum (Brébisson ex Kützing) Lange-Bertalot,Bacillariophyceae
+NEONDREX16003,Cocconeis placentula var. lineata (Ehrenberg) Van Heurck,Bacillariophyceae
+NEONDREX261004,Ankistrodesmus sp.,Chlorophyceae
+NEONDREX30001,Diploneis elliptica (Kützing) Cleve,Bacillariophyceae
+NEONDREX32006,Epithemia sorex Kützing,Bacillariophyceae
+NEONDREX40002,Hantzschia amphioxys (Ehrenberg) Grunow,Bacillariophyceae
+NEONDREX44073,Melosira varians Agardh,Bacillariophyceae
+NEONDREX45002,Meridion circulare var. constrictum (Ralfs) Van Heurck,Bacillariophyceae
+NEONDREX48008,Nitzschia dissipata (Kützing) Grunow,Bacillariophyceae
+NEONDREX481003,Pleurotaenium trabecula (Ehrenberg) Nägeli,Chlorophyceae
+NEONDREX48126,Nitzschia perminuta (Grunow) Peragallo,Bacillariophyceae
+NEONDREX510001,Scenedesmus quadricauda (Turpin) Brébisson,Chlorophyceae
+NEONDREX510103,Scenedesmus microspina Chodat,Chlorophyceae
+NEONDREX62008,Stauroneis kriegeri Patrick,Bacillariophyceae
+NEONDREX65002,Surirella angusta Kützing,Bacillariophyceae
+NEONDREX7001,Amphora ovalis (Kützing) Kützing,Bacillariophyceae
+NEONDREX9105001,Prestauroneis integra (W. Smith) Bruder,Bacillariophyceae
+NEONDREX197003,Diadesmis gallica Smith,Bacillariophyceae
+NEONDREX316008,Closterium sp.,Chlorophyceae
+NEONDREX327012,Cosmarium granatum Brébisson ex Ralfs,Chlorophyceae
+NEONDREX467001,Pediastrum boryanum (Turpin) Meneghini,Chlorophyceae
+NEONDREX48011,Nitzschia fonticola (Grunow) Grunow,Bacillariophyceae
+NEONDREX510007,Scenedesmus bicaudatus (Hansgirg) Chodat,Chlorophyceae
+NEONDREX7075,Amphora copulata (Kützing) Schoeman et Archibald,Bacillariophyceae
+NEONDREX860004,Lyngbya martensiana Meneghini ex Gomont,Myxophyceae
+NEONDREX990000,Phacus sp.,Euglenophyceae
+NEONDREX110004,Encyonema minutum (Hilse) Mann,Bacillariophyceae
+NEONDREX170014,Sellaphora seminulum (Grunow) Mann,Bacillariophyceae
+NEONDREX188001,Lemnicola hungarica (Grunow) Round et Basson,Bacillariophyceae
+NEONDREX33362,Eunotia sp.,Bacillariophyceae
+NEONDREX37001,Gomphonema acuminatum Ehrenberg,Bacillariophyceae
+NEONDREX37003,Gomphonema angustatum (Kützing) Rabenhorst,Bacillariophyceae
+NEONDREX37156,Gomphonema insigne Gregory,Bacillariophyceae
+NEONDREX37178,Gomphonema minutum (Agardh) Agardh,Bacillariophyceae
+NEONDREX45001,Meridion circulare (Greville) Agardh,Bacillariophyceae
+NEONDREX46014,Navicula cryptocephala Kützing,Bacillariophyceae
+NEONDREX46527,Navicula cryptotenella Lange-Bertalot,Bacillariophyceae
+NEONDREX46774,Navicula trivialis Lange-Bertalot,Bacillariophyceae
+NEONDREX48002,Nitzschia acicularis (Kützing) Smith,Bacillariophyceae
+NEONDREX48006,Nitzschia capitellata Hustedt,Bacillariophyceae
+NEONDREX48015,Nitzschia gracilis Hantzsch,Bacillariophyceae
+NEONDREX48029,Nitzschia recta Hantzsch ex Rabenhorst,Bacillariophyceae
+NEONDREX48284,Nitzschia radicula Hustedt,Bacillariophyceae
+NEONDREX48347,Nitzschia acidoclinata Lange-Bertalot,Bacillariophyceae
+NEONDREX48383,Nitzschia fossilis (Grunow) Grunow,Bacillariophyceae
+NEONDREX1212000,Tribonema sp.,Tribophyceae
+NEONDREX37065,Gomphonema olivaceum (Lyngbye) Kützing,Bacillariophyceae
+NEONDREX37473,Gomphonema sp.,Bacillariophyceae
+NEONDREX46648,Navicula erifuga Lange-Bertalot,Bacillariophyceae
+NEONDREX467002,Pediastrum tetras (Ehrenberg) Ralfs,Chlorophyceae
+NEONDREX48045,Nitzschia tropica Hustedt,Bacillariophyceae
+NEONDREX48119,Nitzschia graciliformis Lange-Bertalot et Simonsen,Bacillariophyceae
+NEONDREX510002,Scenedesmus ecornis (Ralfs) Chodat,Chlorophyceae
+NEONDREX52159,Pinnularia gibba (Ehrenberg) Ehrenberg,Bacillariophyceae
+NEONDREX57002,Rhoicosphenia abbreviata (Agardh) Lange-Bertalot,Bacillariophyceae
+NEONDREX73010,Pseudostaurosira parasitica (Smith) Morales,Bacillariophyceae
+NEONDREX12001,Caloneis bacillum (Grunow) Cleve,Bacillariophyceae
+NEONDREX1212002,Tribonema bombycinum (Agardh) Derbes et Solier,Tribophyceae
+NEONDREX186004,Psammothidium lauenburgianum (Hustedt) Bukhtiyarova et Round,Bacillariophyceae
+NEONDREX194005,Placoneis elginensis (Gregory) Cox,Bacillariophyceae
+NEONDREX441014,Microspora amoena var. crassior (Kützing) Hansgirg,Chlorophyceae
+NEONDREX467013,Pediastrum duplex var. clathratum (Braun) Lagerheim,Chlorophyceae
+NEONDREX48417,Nitzschia archibaldii Lange-Bertalot,Bacillariophyceae
+NEONDREX510003,Scenedesmus acutus Meyen,Chlorophyceae
+NEONDREX7043,Amphora pediculus (Kützing) Grunow,Bacillariophyceae
+NEONDREX885004,Nostoc sp.,Myxophyceae
+NEONDREX155018,Planothidium rostratum (Østrup) Lange-Bertalot,Bacillariophyceae
+NEONDREX186002,Psammothidium grischunum f. daonensis (Lange-Bertalot) Bukhtiyarova and Round,Bacillariophyceae
+NEONDREX211006,Mayamaea excelsa (Krasske) Lange-Bertalot,Bacillariophyceae
+NEONDREX25001,Denticula elegans Kützing,Bacillariophyceae
+NEONDREX25005,Denticula valida (Pedicino) Grunow,Bacillariophyceae
+NEONDREX37197,Gomphonema kobayasii Kociolek et Kingston,Bacillariophyceae
+NEONDREX48024,Nitzschia microcephala Grunow,Bacillariophyceae
+NEONDREX538005,Staurastrum punctulatum Brébisson,Chlorophyceae
+NEONDREX970000,Euglena sp.,Euglenophyceae
+NEONDREX995007,Trachelomonas hispida (Perty) Stein emend. Deflandre,Euglenophyceae
+NEONDREX995009,Trachelomonas volvocina Ehrenberg,Euglenophyceae
+NEONDREX204002,Adlafia minuscula (Grunow) Lange-Bertalot,Bacillariophyceae
+NEONDREX30004,Diploneis oblongella (Nägeli ex Kützing) Ross,Bacillariophyceae
+NEONDREX34030,Fragilaria vaucheriae (Kützing) Petersen,Bacillariophyceae
+NEONDREX34105,Fragilaria tenera (Smith) Lange-Bertalot,Bacillariophyceae
+NEONDREX46401,Navicula tenelloides Hustedt,Bacillariophyceae
+NEONDREX46749,Navicula cryptotenelloides Lange-Bertalot,Bacillariophyceae
+NEONDREX890025,Phormidium sp.,Myxophyceae
+NEONDREX9098013,Halamphora veneta (Kützing) Levkov,Bacillariophyceae
+NEONDREX995092,Trachelomonas hispida var. duplex Deflandre,Euglenophyceae
+MYXOPHYCEAESP,Myxophyceae sp.,Myxophyceae
+NEONDREX46324,Navicula cincta (Ehrenberg) Ralfs,Bacillariophyceae
+NEONDREX46542,Navicula libonensis Schoeman,Bacillariophyceae
+NEONDREX52058,Pinnularia stomatophora (Grunow) Cleve,Bacillariophyceae
+NEONDREX62015,Stauroneis phoenicenteron (Nitzsch) Ehrenberg,Bacillariophyceae
+NEONDREX863016,Leptolyngbya sp.,Myxophyceae
+NEONDREX23005,Cymbella cistula (Ehrenberg) Kirchner,Bacillariophyceae
+NEONDREX264000,Aphanochaete repens Braun,Chlorophyceae
+NEONDREX298000,Chlamydomonas sp.,Chlorophyceae
+NEONDREX309000,Cladophora glomerata (Linnaeus) Kützing,Chlorophyceae
+NEONDREX52071,Pinnularia viridis (Nitzsch) Ehrenberg,Bacillariophyceae
+NEONDREX58018,Rhopalodia constricta (Smith) Krammer,Bacillariophyceae
+NEONDREX37084,Gomphonema brebissonii Kützing,Bacillariophyceae
+NEONDREX441003,Microspora sp.,Chlorophyceae
+NEONDREX65048,Surirella minuta Brébisson,Bacillariophyceae
+NEONDREX1160009,Ophiocytium parvulum Braun,Tribophyceae
+NEONDREX23814,Cymbella subturgidula Krammer,Bacillariophyceae
+NEONDREX261000,Ankistrodesmus falcatus (Corda) Ralfs,Chlorophyceae
+NEONDREX444000,Mougeotia sp.,Chlorophyceae
+NEONDREX46169,Navicula cari Ehrenberg,Bacillariophyceae
+NEONDREX48157,Nitzschia linearis var. tenuis (Smith) Grunow,Bacillariophyceae
+NEONDREX828002,Cylindrospermum sp.,Myxophyceae
+NEONDREX893002,Pleurocapsa minor Hansgirg,Myxophyceae
+NEONDREX48027,Nitzschia pumila Hustedt,Bacillariophyceae
+NEONDREX48425,Nitzschia liebetruthii var. major Grunow,Bacillariophyceae
+NEONDREX125001,Karayevia clevei (Grunow) Bukhtiyarova,Bacillariophyceae
+NEONDREX155010,Planothidium robustum (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX192001,Fragilariforma bicapitata (Mayer) Williams et Round,Bacillariophyceae
+NEONDREX25004,Denticula subtilis Grunow,Bacillariophyceae
+NEONDREX2508001,Platessa conspicua (Mayer) Lange-Bertalot,Bacillariophyceae
+NEONDREX46269,Navicula kotschyi Grunow,Bacillariophyceae
+NEONDREX46390,Navicula salinicola Hustedt,Bacillariophyceae
+NEONDREX510005,Scenedesmus spinosus Chodat,Chlorophyceae
+NEONDREX890046,Phormidium formosum (Bory ex Gomont) Anagnostidis et Komárek,Myxophyceae
+NEONDREX995061,Trachelomonas lemmermannii Woloszynska emend Deflandre,Euglenophyceae
+NEONDREX210003,Geissleria decussis (Østrup) Lange-Bertalot et Metzeltin,Bacillariophyceae
+NEONDREX33168,"Eunotia implicata Nörpel, Alles et Lange-Bertalot",Bacillariophyceae
+NEONDREX441005,Microspora tumidula Hazen,Chlorophyceae
+NEONDREX172001,Staurosira construens Ehrenberg,Bacillariophyceae
+NEONDREX30014,Diploneis parma Cleve,Bacillariophyceae
+NEONDREX48225,Nitzschia sociabilis Hustedt,Bacillariophyceae
+NEONDREX52194,Pinnularia interrupta Smith,Bacillariophyceae
+NEONDREX170107,Sellaphora sp.,Bacillariophyceae
+NEONDREX350000,Dictyosphaerium ehrenbergianum Nägeli,Chlorophyceae
+NEONDREX37310,Gomphonema exilissimum (Grunow) Lange-Bertalot et Reichardt,Bacillariophyceae
+NEONDREX990002,Phacus orbicularis Hübner emend. Zakrys et Kosmala,Euglenophyceae
+NEONDREX211010,Mayamaea permitis (Hustedt) Bruder et Medlin,Bacillariophyceae
+NEONDREX33183,Eunotia minor (Kützing) Grunow,Bacillariophyceae
+NEONDREX52148,Pinnularia acrosphaeria (Brébisson) Smith,Bacillariophyceae
+NEONDREX210007,Geissleria kriegeri (Krasske) Lange-Bertalot,Bacillariophyceae
+NEONDREX200006,Tabularia gaillonii (Bory) Bukhtiyarova,Bacillariophyceae
+NEONDREX458011,Oocystis elliptica W. West,Chlorophyceae
+NEONDREX48026,Nitzschia palea var. tenuirostris Grunow,Bacillariophyceae
+NEONDREX73002,Pseudostaurosira pseudoconstruens (Marciniak) Williams et Round,Bacillariophyceae
+NEONDREX1036,Achnanthidium rivulare Potapova et Ponader,Bacillariophyceae
+NEONDREX186005,Psammothidium marginulatum (Grunow) Bukhtiyarova et Round,Bacillariophyceae
+NEONDREX213001,"Hippodonta capitata (Ehrenberg) Lange-Bertalot, Metzeltin et Witkowski",Bacillariophyceae
+NEONDREX37311,Gomphonema parvulius (Lange-Bertalot et Reichardt) Lange-Bertalot et Reichardt,Bacillariophyceae
+NEONDREX45004,Meridion sp.,Bacillariophyceae
+NEONDREX48156,Nitzschia liebethruthii Rabenhorst,Bacillariophyceae
+NEONDREX62007,Stauroneis smithii Grunow,Bacillariophyceae
+NEONDREX155008,Planothidium daui (Foged) Lange-Bertalot,Bacillariophyceae
+NEONDREX360002,Draparnaldia sp.,Chlorophyceae
+NEONDREX46373,Navicula menisculus Schumann,Bacillariophyceae
+NEONDREX46389,Navicula salinarum Grunow,Bacillariophyceae
+NEONDREX47066,Neidium ampliatum (Ehrenberg) Krammer,Bacillariophyceae
+NEONDREX7010,Amphora inariensis Krammer,Bacillariophyceae
+NEONDREX130002,Luticola mutica (Kützing) Mann,Bacillariophyceae
+NEONDREX25011,Denticula sp.,Bacillariophyceae
+NEONDREX48093,Nitzschia angustata (Smith) Grunow,Bacillariophyceae
+NEONDREX48377,Nitzschia lacuum Lange-Bertalot,Bacillariophyceae
+NEONDREX1265002,Cryptomonas sp.,Cryptophyceae
+NEONDREX1265003,Cryptomonas ovata Ehrenberg,Cryptophyceae
+NEONDREX1292001,Rhodomonas minuta Skuja,Cryptophyceae
+NEONDREX20009,Cyclotella ocellata Pantocsek,Bacillariophyceae
+NEONDREX21015,Craticula molestiformis (Hustedt) Mayama,Bacillariophyceae
+NEONDREX37300,Gomphonema americobtusatum Reichardt et Lange-Bertalot,Bacillariophyceae
+NEONDREX46905,Navicula aquaedurae Lange-Bertalot,Bacillariophyceae
+NEONDREX899003,Rhabdoderma lineare Schmidle et Lauterborn,Myxophyceae
+NEONDREX37126,Gomphonema clavatum Ehrenberg,Bacillariophyceae
+NEONDREX46573,Navicula concentrica Carter et Bailey-Watts,Bacillariophyceae
+NEONDREX48198,Nitzschia communis Rabenhorst,Bacillariophyceae
+NEONDREX990007,Phacus caudatus Hübner,Euglenophyceae
+NEONDREX995039,Trachelomonas pulchella Deflandre,Euglenophyceae
+NEONDREX995004,Trachelomonas abrupta Swirenko emend. Deflandre,Euglenophyceae
+NEONDREX25008,Denticula kuetzingii Grunow,Bacillariophyceae
+NEONDREX12024,Caloneis macedonica Hustedt,Bacillariophyceae
+NEONDREX21004,Craticula cuspidata (Kützing) Mann,Bacillariophyceae
+NEONDREX33039,Eunotia pectinalis (Kützing) Rabenhorst,Bacillariophyceae
+NEONDREX888010,Oscillatoria sp.,Myxophyceae
+NEONDREX995000,Trachelomonas sp.,Euglenophyceae
+NEONDREX2506002,Discostella pseudostelligera (Hustedt) Houk et Klee,Bacillariophyceae
+NEONDREX30019,Diploneis puella (Schumann) Cleve,Bacillariophyceae
+NEONDREX46832,Navicula oblonga Østrup,Bacillariophyceae
+NEONDREX48040,Nitzschia alpina Hustedt,Bacillariophyceae
+NEONDREX9098003,Halamphora coffeaeformis (Agardh) Levkov,Bacillariophyceae
+NEONDREX990003,Phacus longicauda (Ehrenberg) Dujardin,Euglenophyceae
+NEONDREX995034,Trachelomonas abrupta var. minor Deflandre,Euglenophyceae
+ODOMES2,Odontidium mesodon (Ehrenberg) Kützing,Bacillariophyceae
+NEONDREX12010,Caloneis silicula (Ehrenberg) Cleve,Bacillariophyceae
+NEONDREX170001,Sellaphora laevissima (Kützing) Mann,Bacillariophyceae
+NEONDREX245012,Ulnaria ulna var. spathulifera (Grunow) Aboal,Bacillariophyceae
+NEONDREX27013,Diatoma vulgaris Bory,Bacillariophyceae
+NEONDREX48017,Nitzschia hantzschiana Rabenhorst,Bacillariophyceae
+NEONDREX23073,Cymbella affinis Kützing,Bacillariophyceae
+NEONDREX328002,Crucigenia tetrapedia (Kirchner) W. West et G.S. West,Chlorophyceae
+NEONDREX33036,Eunotia naegelii Migula,Bacillariophyceae
+NEONDREX46661,Navicula capitatoradiata Germain,Bacillariophyceae
+NEONDREX65068,Surirella brebissonii Krammer et Lange-Bertalot,Bacillariophyceae
+NEONDREX65064,Surirella brebissonii var. kuetzingii Krammer et Lange-Bertalot,Bacillariophyceae
+NEONDREX186008,Psammothidium subatomoides (Hustedt) Bukhtiyarova et Round,Bacillariophyceae
+NEONDREX316000,Closterium moniliferum (Bory) Ehrenberg,Chlorophyceae
+NEONDREX446000,Monoraphidium contortum (Thuret) Komárková-Legnerová,Chlorophyceae
+NEONDREX48228,Nitzschia palea var. debilis (Kützing) Grunow,Bacillariophyceae
+NEONDREX110063,Encyonema sp.,Bacillariophyceae
+NEONDREX316026,Closterium parvulum Nägeli,Chlorophyceae
+CYMBELLASP,Cymbella sp.,Bacillariophyceae
+NEONDREX34024,Fragilaria nitzschioides Grunow,Bacillariophyceae
+NEONDREX48153,Nitzschia intermedia Hantzsch ex Cleve et Grunow,Bacillariophyceae
+NEONDREX48387,Nitzschia leistikowii Lange-Bertalot,Bacillariophyceae
+NEONDREX52068,Pinnularia sudetica (Hilse) Peragallo,Bacillariophyceae
+NEONDREX23077,Cymbella leptoceros (Ehrenberg) Kützing,Bacillariophyceae
+NEONDREX37118,Gomphonema minusculum Krasske,Bacillariophyceae
+NEONDREX52025,Pinnularia divergens Smith,Bacillariophyceae
+NEONDREX58007,Rhopalodia brebissonii Krammer,Bacillariophyceae
+NEONDREX186011,Psammothidium chlidanos (Hohn et Hellerman) Lange-Bertalot,Bacillariophyceae
+NEONDREX48312,Nitzschia supralitorea Lange-Bertalot,Bacillariophyceae
+NEONDREX8021,Anomoeoneis sphaerophora Pfitzer,Bacillariophyceae
+NEONDREX37317,Gomphonema innocens Reichardt,Bacillariophyceae
+NEONDREX200002,Tabularia fasciculata (Agardh) Williams et Round,Bacillariophyceae
+NEONDREX2509006,Pseudostaurosiropsis sp.,Bacillariophyceae
+NEONDREX48124,Nitzschia subacicularis Hustedt,Bacillariophyceae
+NEONDREX533000,Spirogyra sp.,Chlorophyceae
+NEONDREX16005,Cocconeis placentula var. euglypta (Ehrenberg) Grunow,Bacillariophyceae
+NEONDREX103107,Pinnularia sp.,Bacillariophyceae
+NEONDREX1110003,Dinobryon sertularia Ehrenberg,Chrysophyceae
+NEONDREX211002,Mayamaea asellus (Weinhold) Lange-Bertalot,Bacillariophyceae
+NEONDREX401000,Gongrosira sp.,Chlorophyceae
+NEONDREX46753,Navicula incertata Lange-Bertalot,Bacillariophyceae
+NEONDREX852004,Homoeothrix janthina (Bornet et Flahault) Starmach,Myxophyceae
+NEONDREX185024,Tryblionella hungarica (Grunow) Frenguelli,Bacillariophyceae
+NEONDREX22001,Cymatopleura solea (Brébisson) W. Smith,Bacillariophyceae
+NEONDREX48378,Nitzschia solita Hustedt,Bacillariophyceae
+NEONDREX33015,Eunotia exigua (Brébisson) Rabenhorst,Bacillariophyceae
+NEONDREX213003,"Hippodonta lueneburgensis (Grunow) Lange-Bertalot, Metzeltin et Witkowski",Bacillariophyceae
+NEONDREX37304,Gomphonema parvulum f. saprophilum Lange-Bertalot et Reichardt,Bacillariophyceae
+NEONDREX46003,Navicula arvensis Hustedt,Bacillariophyceae
+NEONDREX8942004,"Eolimna subminuscula (Manguin) Moser, Lange-Bertalot et Metzeltin",Bacillariophyceae
+NEONDREX510006,Scenedesmus acuminatus (Lagerheim) Chodat,Chlorophyceae
+NEONDREX110016,Encyonema triangulum (Ehrenberg) Kützing,Bacillariophyceae
+NEONDREX46084,Navicula tridentula Krasske,Bacillariophyceae
+NEONDREX48123,Nitzschia pusilla Grunow,Bacillariophyceae
+NEONDREX40038,Hantzschia sp.,Bacillariophyceae
+NEONDREX48087,Nitzschia sigma (Kützing) Smith,Bacillariophyceae
+MAYAMAEASP,Mayamaea sp.,Bacillariophyceae
+NEONDREX1212004,Tribonema minus (Wille) Hazen,Tribophyceae
+NEONDREX170135,Sellaphora nigri (De Notaris) Wetzel et Ector,Bacillariophyceae
+NEONDREX847001,Geitlerinema splendidum (Greville) Anagnostidis,Myxophyceae
+NEONDREX130015,Luticola muticopsis (Van Heurck) Mann,Bacillariophyceae
+NEONDREX37094,Gomphonema hebridense Gregory,Bacillariophyceae
+NEONDREX52011,Pinnularia biceps Gregory,Bacillariophyceae
+NEONDREX115001,Fallacia pygmaea (Kützing) Stickle et Mann,Bacillariophyceae
+NEONDREX995027,Trachelomonas oblonga Lemmermann,Euglenophyceae
+NEONDREX194008,Placoneis gastrum (Ehrenberg) Mereschkowsky,Bacillariophyceae
+NEONDREX510023,Scenedesmus armatus (Chodat) G. M. Smith,Chlorophyceae
+NEONDREX170134,Sellaphora saugerresii (Desmazieres) Wetzel et Mann,Bacillariophyceae
+NEONDREX170133,Sellaphora atomoides (Grunow) Wetzel et Van de Vijver,Bacillariophyceae
+NEONDREX37338,Gomphonema cymbelliclinum Reichardt et Lange-Bertalot,Bacillariophyceae
+NEONDREX852007,Homoeothrix varians Geitler,Myxophyceae
+NEONDREX186001,Psammothidium bioretii (Germain) Bukhtiyarova et Round,Bacillariophyceae
+NEONDREX186017,Psammothidium scoticum (Flower et Jones) Bukhtiyarova et Round,Bacillariophyceae
+NEONDREX442002,Microthamnion kuetzingianum Nägeli ex Kützing,Chlorophyceae
+NEONDREX47060,Neidium hercynicum Mayer,Bacillariophyceae
+NEONDREX819003,Chamaesiphon sp.,Myxophyceae
+NEONDREX9098006,Halamphora normanii (Rabenhorst) Levkov,Bacillariophyceae
+NEONDREX218002,Fistulifera saprophila (Lange-Bertalot et Bonik) Lange-Bertalot,Bacillariophyceae
+NEONDREX33267,Eunotia mucophila (Lange-Bertalot et Nörpel-Schempp) Lange-Bertalot,Bacillariophyceae
+NEONDREX34248,Fragilaria sp.,Bacillariophyceae
+NEONDREX46095,Navicula leptostriata Jørgensen,Bacillariophyceae
+NEONDREX48274,Nitzschia agnita Hustedt,Bacillariophyceae
+NEONDREX48638,Nitzschia sp.,Bacillariophyceae
+NEONDREX819001,Chamaesiphon incrustans Grunow,Myxophyceae
+NEONDREX93383,Navicula sp.,Bacillariophyceae
+NEONDREX194022,Placoneis symmetrica (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX327001,Cosmarium sp.,Chlorophyceae
+NEONDREX1406001,Gymnodinium sp.,Dinophyceae
+NEONDREX193001,"Stauroforma exiguiformis (Lange-Bertalot) Flower, Jones et Round",Bacillariophyceae
+NEONDREX212006,Chamaepinnularia soehrensis (Krasske) Lange-Bertalot et Krammer,Bacillariophyceae
+NEONDREX30006,Diploneis subovalis Cleve,Bacillariophyceae
+NEONDREX37334,Gomphonema longilineare Reichardt,Bacillariophyceae
+NEONDREX46317,Navicula canalis Patrick,Bacillariophyceae
+NEONDREX52059,Pinnularia subcapitata Gregory,Bacillariophyceae
+NEONDREX38004,Gyrosigma spencerii (Smith) Griffith et Henfrey,Bacillariophyceae
+NEONDREX1046,Achnanthidium eutrophilum (Lange-Bertalot) Lange-Bertalot,Bacillariophyceae
+NEONDREX110090,Encyonema appalachianum Potapova,Bacillariophyceae
+NEONDREX12075,Caloneis sp.,Bacillariophyceae
+NEONDREX213002,"Hippodonta hungarica (Grunow) Lange-Bertalot, Metzeltin et Witkowski",Bacillariophyceae
+NEONDREX27025,Diatoma sp.,Bacillariophyceae
+NEONDREX458000,Oocystis solitaria Wittrock,Chlorophyceae
+NEONDREX327096,Cosmarium botrytis var. mediolaeve W. West,Chlorophyceae
+NEONDREX48118,Nitzschia umbonata (Ehrenberg) Lange-Bertalot,Bacillariophyceae
+NEONDREX48207,Nitzschia paleaeformis Hustedt,Bacillariophyceae
+NEONDREX1457003,Peridinium inconspicuum Lemmermann,Dinophyceae
+NEONDREX62002,Stauroneis anceps Ehrenberg,Bacillariophyceae
+NEONDREX48237,Nitzschia valdecostata Lange-Bertalot et Simonsen,Bacillariophyceae
+NEONDREX12046,Caloneis budensis (Grunow) Krammer,Bacillariophyceae
+NEONDREX210001,Geissleria acceptata (Hustedt) Lange-Bertalot et Metzeltin,Bacillariophyceae
+NEONDREX12013,Caloneis tenuis (Gregory) Krammer,Bacillariophyceae
+NEONDREX58011,Rhopalodia rupestris (Smith) Krammer,Bacillariophyceae
+NEONDREX875000,Merismopedia tenuissima Lemmermann,Myxophyceae
+NEONDREX190005,Cymbopleura naviculiformis (Auerswald) Krammer,Bacillariophyceae
+NEONDREX389004,Gloeocystis sp.,Chlorophyceae
+NEONDREX1160002,Ophiocytium sp.,Tribophyceae
+NEONDREX327204,Cosmarium repandum Nordstedt,Chlorophyceae
+NEONDREX389000,Gloeocystis gigas (Kützing) Lagerheim,Chlorophyceae
+NEONDREX115006,Fallacia omissa (Hustedt) Mann,Bacillariophyceae
+NEONDREX52045,Pinnularia microstauron (Ehrenberg) Cleve,Bacillariophyceae
+NEONDREX175001,Staurosirella leptostauron (Ehrenberg) Williams et Round,Bacillariophyceae
+NEONDREX847009,Geitlerinema sp.,Myxophyceae
+NEONDREX2230,Achnanthes ricula Hohn et Hellerman,Bacillariophyceae
+AMPHORASPP,Amphora spp.,Bacillariophyceae
+BACILLARIOCSPP,Bacillariophyceae spp.,Bacillariophyceae
+CENTRALESSP,Centrales sp.,Bacillariophyceae
+CHRSP,Chrysococcus sp.,Chrysophyceae
+ENCYONEMASPP,Encyonema spp.,Bacillariophyceae
+EPITHEMIASPP,Epithemia spp.,Bacillariophyceae
+FRAGILARIASPP,Fragilaria spp.,Bacillariophyceae
+GOMPHONEMASPP,Gomphonema spp.,Bacillariophyceae
+NAVICULASPP,Navicula spp.,Bacillariophyceae
+NEONDREX73013,Pseudostaurosira trainorii Morales,Bacillariophyceae
+NEONDREX99004,Achnanthidium sp.,Bacillariophyceae
+NITZSCHIASPP,Nitzschia spp.,Bacillariophyceae
+ULNARIASP,Ulnaria sp.,Bacillariophyceae
+AULACOSEIRASPP,Aulacoseira spp.,Bacillariophyceae
+EUCMIC,Eucapsis microscopica (Komárková-Legnerová & G.Cronberg) Komárek & Hindák,Myxophyceae
+NEONDREX16035,Cocconeis sp.,Bacillariophyceae
+NEONDREX34272,Fragilaria rumpens (Kützing) Carlson,Bacillariophyceae
+NEONDREX57004,Rhoicosphenia sp.,Bacillariophyceae
+ACHNANTHIDIUMSPP,Achnanthidium spp.,Bacillariophyceae
+NEONDREX10084,Aulacoseira sp.,Bacillariophyceae
+NEONDREX1052002,Chrysochromulina sp.,Prymnesiophyceae
+NEONDREX299000,Chlorella sp.,Chlorophyceae
+NEONDREX37399,Gomphonema duplipunctatum Lange-Bertalot et Reichardt,Bacillariophyceae
+NEONDREX38003,Gyrosigma obtusatum (Sullivant) Boyer,Bacillariophyceae
+NEONDREX38030,Gyrosigma sp.,Bacillariophyceae
+NEONDREX73006,Pseudostaurosira robusta (Fusey) Williams et Round,Bacillariophyceae
+NEONDREX807001,Aphanocapsa sp.,Myxophyceae
+NEONDREX808000,Aphanothece sp.,Myxophyceae
+CALLAN,Caloneis lancettula (Schulz) Lange-Bertalot & Witkowski,Bacillariophyceae
+NEONDREX190001,Cymbopleura cuspidata (Kützing) Krammer,Bacillariophyceae
+NEONDREX37062,Gomphonema olivaceoides Hustedt,Bacillariophyceae
+NEONDREX446016,Monoraphidium arcuatum (Koršikov) Hindák,NA
+NEONDREX53012,Surirella sp.,Bacillariophyceae
+NEONDREX58021,Rhopalodia sp.,Bacillariophyceae
+PLANKTOLYNGBYASP,Planktolyngbya sp.,Myxophyceae
+DIATOMASPP,Diatoma spp.,Bacillariophyceae
+NEONDREX38001,Gyrosigma acuminatum (Kützing) Rabenhorst,Bacillariophyceae
+NEONDREX446003,Monoraphidium sp.,Chlorophyceae
+NEONDREX46017,Navicula difficillima Hustedt,Bacillariophyceae
+NEONDREX7161,Amphora sp.,Bacillariophyceae
+NEONDREX73011,Pseudostaurosira parasitica var. subconstricta (Grunow) Morales,Bacillariophyceae
+CHROOCOCCALESSP,Chroococcales sp.,Myxophyceae
+NEONDREX172026,Staurosira sp.,Bacillariophyceae
+NEONDREX37005,Gomphonema consector Hohn et Hellerman,Bacillariophyceae
+NEONDREX37520,Gomphonema graciledictum Reichardt,NA
+NEONDREX48579,Nitzschia bulnheimiana (Rabenhorst) H.L. Smith,Bacillariophyceae
+NEONDREX48664,Nitzschia tenuis W. Smith,NA
+NEONDREX23083,Cymbella turgidula Grunow,Bacillariophyceae
+NEONDREX37314,Gomphonema capitatum Ehrenberg,Bacillariophyceae
+NEONDREX58006,Rhopalodia musculus (Kützing) Müller,Bacillariophyceae
+NEONDREX170136,Sellaphora crassulexigua (Reichardt) C.E. Wetzel & Ector,Bacillariophyceae
+NEONDREX204001,"Adlafia bryophila (Petersen) Moser, Lange-Bertalot et Metzeltin",Bacillariophyceae
+NEONDREX245008,Ulnaria delicatissima (W. Smith) Aboal et Silva,Bacillariophyceae
+NEONDREX46892,Navicula vilaplanii (Lange-Bertalot et Sabater) Lange-Bertalot et Sabater,Bacillariophyceae
+NEONDREX62163,Stauroneis gracilis Ehrenberg,Bacillariophyceae
+NEONDREX37203,Gomphonema amoenum Lange-Bertalot,Bacillariophyceae
+NEONDREX52151,Pinnularia lundii Hustedt,Bacillariophyceae
+NEONDREX52173,Pinnularia subgibba Krammer,Bacillariophyceae
+NEONDREX7176,Amphora minutissima W. Smith,Bacillariophyceae
+NEONDREX9188004,"Pseudofallacia monoculata (Hustedt) Liu, Kociolek et Wang",NA
+NEONDREX46044,Navicula notha Wallace,Bacillariophyceae
+NEONDREX155014,Planothidium granum (Hohn et Hellerman) Lange-Bertalot,Bacillariophyceae
+NEONDREX30031,Diploneis separanda Lange-Bertalot,Bacillariophyceae
+NEONDREX130014,Luticola nivalis (Ehrenberg) Mann,Bacillariophyceae
+NEONDREX103180,Pinnularia neomajor Krammer,NA
+NEONDREX175037,Staurosirella sp.,Bacillariophyceae
+NEONDREX37522,Gomphonema subcapitatum (Grunow) E.Reichardt & Levkov,NA
+NEONDREX1772,Nitzschia soratensis Morales et Vis,Bacillariophyceae
+NEONDREX21022,Craticula buderi (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX30040,Diploneis sp.,Bacillariophyceae
+NEONDREX1145000,Mallomonas sp.,Synurophyceae
+NEONDREX37194,Gomphonema pumilum var. rigidum Reichardt et Lange-Bertalot,Bacillariophyceae
+NEONDREX543002,Stigeoclonium sp.,Chlorophyceae
+NEONDREX327008,Cosmarium impressulum Elfving,Chlorophyceae
+NEONDREX10067,Aulacoseira pusilla (Meister) Tuji et Houki,Bacillariophyceae
+NEONDREX58005,Rhopalodia gibberula (Ehrenberg) Müller,Bacillariophyceae
+NEONDREX9098054,Halamphora oligotraphenta (Lange-Bertalot) Levkov,NA
+NEONDREX10012,Aulacoseira lirata (Ehrenberg) Ross,Bacillariophyceae
+NEONDREX192008,Fragilariforma virescens (Ralfs) Williams et Round,Bacillariophyceae
+NEONDREX212027,Chamaepinnularia sp.,Bacillariophyceae
+NEONDREX62112,Stauroneis separanda Lange-Bertalot et Werum,NA
+CHLOROPHYTASPP,Chlorophyta spp.,NA
+CRYPTOPHYTASP,Cryptophyta sp.,NA
+CYCLOTELLASPP,Cyclotella spp.,Bacillariophyceae
+LEPNOS,Leptolyngbya nostocorum (Bornet ex Gomont) Anagn. et Komárek,Myxophyceae
+MALLOMONASSPP,Mallomonas spp.,Synurophyceae
+NEONDREX186030,Psammothidium sp.,Bacillariophyceae
+NEONDREX27008,Diatoma moniliformis Kützing,Bacillariophyceae
+NEONDREX34264,Fragilaria saxoplanctonica Lange-Bertalot et Ulrich,NA
+NEONDREX48276,Nitzschia draveillensis Coste et Ricard,Bacillariophyceae
+NEONDREX8034,Anomoeoneis sp.,Bacillariophyceae
+PALSP,Palmodictyon sp.,Chlorophyceae
+PENNALESSP,Pennales sp.,Bacillariophyceae
+PLANOTHIDIUMSPP,Planothidium spp.,Bacillariophyceae
+PSEUDOSTAUGSPP,Pseudostaurosira spp.,Bacillariophyceae
+STAUROSIRASPP,Staurosira spp.,Bacillariophyceae
+ULNARIASPP,Ulnaria spp.,Bacillariophyceae
+UNKALG,Unknown Algae,NA
+COCCONEISSPP,Cocconeis spp.,Bacillariophyceae
+NEONDREX264001,Aphanochaete sp.,Chlorophyceae
+CALONEISSPP,Caloneis spp.,Bacillariophyceae
+CYANOPHYTASPP,Cyanophyta spp.,NA
+EUNOTIASPP,Eunotia spp.,Bacillariophyceae
+FRAGRA,Fragilaria gracilis Østrup,Bacillariophyceae
+STAUROSIRELLASPP,Staurosirella spp.,Bacillariophyceae
+NEONDREX21049,Craticula subminuscula (Manguin) Wetzel et Ector,Bacillariophyceae
+ANABAENASPP,Anabaena spp.,Myxophyceae
+CHRSPP,Chrysococcus spp.,Chrysophyceae
+CYANOPHYTASP,Cyanophyta sp.,NA
+CYMBELLASPP,Cymbella spp.,Bacillariophyceae
+GOMAUR,Gomphonema auritum A.Braun ex Kützing,Bacillariophyceae
+NEONDREX48236,Nitzschia elegantula Grunow,Bacillariophyceae
+NEONDREX48656,Nitzschia semirobusta Lange-Bertalot,Bacillariophyceae
+NEONDREX1050,Achnanthidium reimeri (Camburn) Ponader et Potapova,Bacillariophyceae
+NEONDREX194072,Placoneis sp.,Bacillariophyceae
+NEONDREX73012,Pseudostaurosira subsalina (Hustedt) Morales,Bacillariophyceae
+NEONDREX73029,Pseudostaurosira sp.,Bacillariophyceae
+PHORMIDIUMSPP,Phormidium spp.,Myxophyceae
+PINNULARIASPP,Pinnularia spp.,Bacillariophyceae
+CRYPTOMONASSPP,Cryptomonas spp.,Cryptophyceae
+DIPLONEISSPP,Diploneis spp.,Bacillariophyceae
+EUGLENASPP,Euglena spp.,Euglenophyceae
+NEONDREX37278,Gomphonema lagenula Kützing,Bacillariophyceae
+NEONDREX863005,Leptolyngbya lagerheimii (Gomont) Anagnostidis et Komárek,Myxophyceae
+NEONDREX93229,Navicula escambia (Patrick) Metzeltin et Lange-Bertalot,Bacillariophyceae
+NITANG,Nitzschia angustiforaminata Lange-Bertalot,Bacillariophyceae
+PSESPP,Pseudokephyrion spp.,Chrysophyceae
+SELLAPHORASPP,Sellaphora spp.,Bacillariophyceae
+SELQUE,"Sellaphora queretana D.Mora, N.Abarca & J.Carmona",Bacillariophyceae
+STATAC,Staurophora tackei (Hustedt) Bahls,Bacillariophyceae
+SURIRELLASPP,Surirella spp.,Bacillariophyceae
+CHROOMONASSPP,Chroomonas spp.,Cryptophyceae
+LEPGRA,Leptolyngbya granulifera (Copel.) Anagn.,Myxophyceae
+NEONDREX204003,Adlafia minuscula var. muralis (Grunow) Lange-Bertalot,Bacillariophyceae
+NEONDREX814002,Calothrix sp.,Myxophyceae
+NITORE,Nitzschia oregona Sovereign,Bacillariophyceae
+STACIR,Stauroneis circumborealis Lange-Bertalot and Krammer,Bacillariophyceae
+SCENEDESMUSSPP,Scenedesmus spp.,Chlorophyceae
+HETEROLEIBGSPP,Heteroleibleinia spp.,Myxophyceae
+NEONDREX47007,Neidium bisulcatum (Lagerstedt) Cleve,Bacillariophyceae
+NEONDREX510010,Scenedesmus sp.,Chlorophyceae
+NEONDREX867005,Limnothrix sp.,Myxophyceae
+APHANOCAPSASPP,Aphanocapsa spp.,Myxophyceae
+NEONDREX212005,Chamaepinnularia mediocris (Krasske) Lange-Bertalot,Bacillariophyceae
+DESCOM,Desmodesmus communis (E.Hegewald) E.Hegewald,Chlorophyceae
+NEONDREX9193018,"Humidophila contenta (Grunow) Lowe, Kociolek, Johansen, Van de Vijver, Lange-Bertalot et Kopalová",NA
+NEONDREX932002,Komvophoron sp.,Myxophyceae
+STATET,Stauridium tetras (Ehrenberg) E.Hegewald,Chlorophyceae
+NEIDIUMSPP,Neidium spp.,Bacillariophyceae
+NEONDREX12023,Caloneis amphisbaena (Bory) Cleve,Bacillariophyceae
+NEONDREX32026,Epithemia sp.,Bacillariophyceae
+NEONDREX553002,Tetraedron minimum (A.Braun) Hansgirg,Chlorophyceae
+RHOPALODIASPP,Rhopalodia spp.,Bacillariophyceae
+DESSP1,Desmodesmus sp.,Chlorophyceae
+NEONDREX20095,Cyclotella sp.,Bacillariophyceae
+CYADIA,"Cyanobium diatomicola (Geitler) Komárek, J.Kopecký & Cepák",Myxophyceae
+HOMOEOTHRIXSPP,Homoeothrix spp.,Myxophyceae
+NEONDREX1284001,"Plagioselmis nannoplanctica (Skuja) Novarino, Lucas et Morrall",Cryptophyceae
+NEONDREX458004,Oocystis sp.,Chlorophyceae
+NEONDREX48038,Nitzschia fonticola Grunow,Bacillariophyceae
+PSEUDANABAENASPP,Pseudanabaena spp.,Myxophyceae
+CoelomoronSP,Coelomoron sp.,NA
+NEONDREX1158000,Ochromonas sp.,Chrysophyceae
+NEONDREX818003,Chlorogloea sp.,Myxophyceae
+NEONLIEBETRUTHII,Nitzschia liebetruthii,Bacillariophyceae
+HOMOEOTHRIXSP,Homoeothrix sp.,Myxophyceae
+LEPTOLYNGBYASPP,Leptolyngbya spp.,Myxophyceae
+NEONDREX155046,Planothidium sp.,Bacillariophyceae
+NEONDREX23048,Cymbella aspera (Ehrenberg) Cleve,Bacillariophyceae
+NEONDREX48099,Nitzschia dissipata var. media (Hantzsch) Grunow,Bacillariophyceae
+NEONDREX891005,Planktothrix sp.,Myxophyceae
+NEONDREX914002,Synechococcus sp.,Myxophyceae
+NOSTOCALESSP,Nostocales sp.,Myxophyceae
+CENTRALESSPP,Centrales spp.,Bacillariophyceae
+PENNALESSPP,Pennales spp.,Bacillariophyceae
+NEONDREX22008,Cymatopleura sp.,Bacillariophyceae
+NEONDREX34210,Fragilaria radians (Kützing) Williams et Round,Bacillariophyceae
+NEONDREX51001,Peronia fibula (Brébisson ex Kützing) Ross,Bacillariophyceae
+NEONDREX52043,Pinnularia mesolepta (Ehrenberg) Smith,Bacillariophyceae
+PLACONEISSPP,Placoneis spp.,Bacillariophyceae
+DESABU,Desmodesmus abundans (Kirchner) E.H.Hegewald,Chlorophyceae
+NEONDREX115038,Fallacia sp.,Bacillariophyceae
+NEONDREX1261002,Chroomonas sp.,Cryptophyceae
+NEONDREX8942002,"Eolimna adnata (Hustedt) Moser, Lange-Bertalot et Metzeltin",Bacillariophyceae
+SPHSP1,Sphaerellopsis sp.,Chlorophyceae
+NEONDREX18005,Brachysira brebissonii Ross,Bacillariophyceae
+NEONDREX282000,Bulbochaete sp.,Chlorophyceae
+NEONDREX327028,Cosmarium protractum (Nägeli) deBary,Chlorophyceae
+NEONDREX327085,Cosmarium amoenum (Brébisson) Ralfs,Chlorophyceae
+NEONDREX33026,Eunotia incisa Smith ex Gregory,Bacillariophyceae
+NEONDREX33035,Eunotia monodon Ehrenberg,Bacillariophyceae
+NEONDREX33051,Eunotia rhomboidea Hustedt,Bacillariophyceae
+NEONDREX33059,Eunotia sudetica Müller,Bacillariophyceae
+NEONDREX33066,Eunotia intermedia (Krasske ex Hustedt) Nörpel et Lange-Bertalot,Bacillariophyceae
+NEONDREX33245,"Eunotia subarcuatoides Alles, Nörpel et Lange-Bertalot",Bacillariophyceae
+NEONDREX35024,Frustulia crassinervia (Brébisson) Lange-Bertalot et Krammer,Bacillariophyceae
+NEONDREX35039,Frustulia krammeri Lange-Bertalot et Metzeltin,Bacillariophyceae
+NEONDREX404000,Groenbladia neglecta var. elongata Scott et Grönblad,Chlorophyceae
+NEONDREX438021,Micrasterias arcuata Bailey,Chlorophyceae
+NEONDREX481007,Pleurotaenium minutum (Ralfs) Delponte,Chlorophyceae
+NEONDREX52048,Pinnularia nodosa (Ehrenberg) Smith,Bacillariophyceae
+NEONDREX549001,Tetmemorus brebissonii (Meneghini) Ralfs,Chlorophyceae
+NEONDREX580001,Xanthidium antilopaeum (Brébisson) Kützing,Chlorophyceae
+NEONDREX582000,Zygnema sp.,Chlorophyceae
+NEONDREX63007,Stenopterobia delicatissima (Lewis) Van Heurck,Bacillariophyceae
+NEONDREX33007,Eunotia carolina Patrick,Bacillariophyceae
+NEONDREX438022,Micrasterias arcuata var. expansa (Bailey) Nordstedt,Chlorophyceae
+NEONDREX549003,Tetmemorus brebissonii var. minor deBary,Chlorophyceae
+NEONDREX273003,Bambusina borreri (Ralfs) Cleve,Chlorophyceae
+NEONDREX33004,Eunotia bidentula Smith,Bacillariophyceae
+NEONDREX33083,Eunotia paludosa Grunow,Bacillariophyceae
+NEONDREX33103,Eunotia pirla Carter et Flower,Bacillariophyceae
+NEONDREX52013,Pinnularia borealis Ehrenberg,Bacillariophyceae
+NEONDREX9001,Asterionella formosa Hassall,Bacillariophyceae
+ACTINELLASP,Actinella sp.,Bacillariophyceae
+NEONDREX10038,Aulacoseira herzogii (Lemmermann) Simonsen,Bacillariophyceae
+NEONDREX1202001,Stipitococcus sp.,Tribophyceae
+NEONDREX316005,Closterium dianae Ehrenberg,Chlorophyceae
+NEONDREX327062,Cosmarium regnellii Wille,Chlorophyceae
+NEONDREX400006,Gonatozygon pilosum Wolle,Chlorophyceae
+NEONDREX47082,Neidium binodeforme Krammer,Bacillariophyceae
+NEONDREX538129,Staurastrum distentum Wolle,Chlorophyceae
+NEONDREX33060,Eunotia tenella (Grunow) Hustedt,Bacillariophyceae
+NEONDREX33242,Eunotia nymanniana Grunow,Bacillariophyceae
+NEONDREX379026,Euastrum validum W. West et G.S. West,Chlorophyceae
+NEONDREX273001,Bambusina sp.,Chlorophyceae
+NEONDREX327022,Cosmarium angulosum Brébisson,Chlorophyceae
+NEONDREX327031,Cosmarium microsphinctum Nordstedt,Chlorophyceae
+NEONDREX35007,Frustulia pseudomagaliesmontana Camburn et Charles,Bacillariophyceae
+NEONDREX35025,Frustulia saxonica Rabenhorst,Bacillariophyceae
+NEONDREX379032,Euastrum intermedium Cleve,Chlorophyceae
+NEONDREX500000,Quadrigula lacustris (Tanner-Fullman) G. M. Smith,Chlorophyceae
+NEONDREX538064,Staurastrum bieneanum var. ellipticum Wille,Chlorophyceae
+NEONDREX538098,Staurastrum hystrix Ralfs,Chlorophyceae
+NEONDREX567000,Triploceras gracile Bailey,Chlorophyceae
+NEONDREX820014,Chroococcus minor (Kützing) Nägeli,Myxophyceae
+NEONDREX849001,Hapalosiphon sp.,Myxophyceae
+NEONDREX327100,Cosmarium contractum var. minutum (Delponte) W. West et G.S. West,Chlorophyceae
+NEONDREX327121,Cosmarium pseudopyramidatum Lundell,Chlorophyceae
+NEONDREX379004,Euastrum denticulatum (Kirchner) Gay,Chlorophyceae
+NEONDREX418000,Hyalotheca dissiliens (Smith) Brébisson ex Ralfs,Chlorophyceae
+NEONDREX450003,Netrium digitus (Ehrenberg) Itzigson et Rothe,Chlorophyceae
+NEONDREX327048,Cosmarium ornatum Ralfs,Chlorophyceae
+NEONDREX379020,Euastrum sinuosum Lenormand,Chlorophyceae
+NEONDREX438011,Micrasterias truncata var. pusilla G.S. West,Chlorophyceae
+NEONDREX538110,Staurastrum excavatum W. West et G.S. West,Chlorophyceae
+NEONDREX1334001,Ceratium carolinianum Jørgensen,Dinophyceae
+NEONDREX1457002,Peridinium sp.,Dinophyceae
+NEONDREX327011,Cosmarium punctulatum Brébisson,Chlorophyceae
+NEONDREX327063,Cosmarium bireme Nordstedt,Chlorophyceae
+NEONDREX379006,Euastrum sp.,Chlorophyceae
+NEONDREX528002,Sphaerocystis sp.,Chlorophyceae
+NEONDREX537001,Staurodesmus incus (Brébisson) Teiling,Chlorophyceae
+NEONDREX33056,Eunotia soleirolii (Kützing) Rabenhorst,Bacillariophyceae
+NEONDREX35055,Frustulia sp.,Bacillariophyceae
+NEONDREX367000,Elakatothrix gelatinosa Wille,Chlorophyceae
+NEONDREX18013,Brachysira microcephala (Kützing) Compère,Bacillariophyceae
+NEONDREX1137001,Lagynion sp.,Chrysophyceae
+NEONDREX1457014,Peridinium aciculiferum Lemmermann,Dinophyceae
+NEONDREX35060,Frustulia rexii Graeff et Kociolek,Bacillariophyceae
+NEONDREX538045,Staurastrum micron W. West et G.S. West,Chlorophyceae
+NEONDREX538138,Staurastrum inconspicuum Nordstedt,NA
+NEONDREX580007,Xanthidium cristatum Brébisson ex Ralfs,Chlorophyceae
+NEONDREX212034,Chamaepinnularia rhombelliptica Lange-Bertalot,Bacillariophyceae
+NEONDREX538039,Staurastrum curvatum W. West,NA
+NEONDREX1110001,Dinobryon cylindricum Imhof,Chrysophyceae
+NEONDREX1110015,Dinobryon eurystoma (Bailey) West & West,Chrysophyceae
+NEONDREX327149,Cosmarium transitorium (Heimerl) Ducellier,Chlorophyceae
+NEONDREX379002,Euastrum insulare (Wittrock) Roy,Chlorophyceae
+NEONDREX379005,Euastrum elegans Kützing,Chlorophyceae
+NEONDREX404003,Groenbladia taylorii Scott & Grönblad,Chlorophyceae
+NEONDREX538139,Staurastrum concinnum West & West,NA
+NEONDREX33138,Eunotia monodon var. constricta Hustedt,Bacillariophyceae
+NEONDREX481017,Pleurotaenium sceptrum West & West,Chlorophyceae
+NEONDREX538016,Staurastrum margaritaceum (Ehrenberg) Meneghini,Chlorophyceae
+NEONDREX538105,Staurastrum elongatum Barker,Chlorophyceae
+NEONDREX910006,Stigonema occellatum Thuret,Myxophyceae
+NEONDREX1110002,Dinobryon sp.,Chrysophyceae
+NEONDREX379012,Euastrum binale (Turpin) Ehrenberg,Chlorophyceae
+NEONDREX1110006,Dinobryon crenulatum W. West et G.S. West,Chrysophyceae
+NEONDREX1205000,Synura sp.,Synurophyceae
+NEONDREX18043,Brachysira sp.,Bacillariophyceae
+NEONDREX820003,Chroococcus dispersus (Keissler) Lemmermann,Myxophyceae
+NEONDREX945000,Woronichinia sp.,Myxophyceae
+NEONDREX23068,Cymbella tumida (Brébisson ex Kützing) Van Heurck,Bacillariophyceae
+NEONDREX316010,Closterium gracile Brébisson,Chlorophyceae
+NEONDREX52037,Pinnularia legumen Ehrenberg,Bacillariophyceae
+NEONDREX67004,Tabellaria flocculosa (Roth) Kützing,Bacillariophyceae
+NEONDREX341008,Desmidium grevellii (Kützing) deBary,Chlorophyceae
+NEONDREX1110007,Dinobryon divergens Imhof,Chrysophyceae
+NEONDREX327029,Cosmarium contractum Kirchner,Chlorophyceae
+NEONDREX33253,Eunotia yanomami Metzeltin et Lange-Bertalot,Bacillariophyceae
+NEONDREX9002,Asterionella ralfsii var. americana Körner,Bacillariophyceae
+NEONDREX537006,Staurodesmus extensus (Borge) Teiling,Chlorophyceae
+NEONDREX327091,Cosmarium asphaerosporum var. strigosum Nordstedt,Chlorophyceae
+NEONDREX327195,Cosmarium subcucumis Schmidle,Chlorophyceae
+NEONDREX379000,Euastrum pulchellum Brébisson,Chlorophyceae
+NEONDREX47011,Neidium dubium (Ehrenberg) Cleve,Bacillariophyceae
+NEONDREX538070,Staurastrum leptocladum Nordstedt,Chlorophyceae
+NEONDREX65019,Surirella robusta Ehrenberg,Bacillariophyceae
+NEONDREX327188,Cosmarium venustum (Brébisson) Archer,Chlorophyceae
+NEONDREX379027,Euastrum crassum (Brébisson) Ralfs,Chlorophyceae
+NEONDREX46023,Navicula gregaria Donkin,Bacillariophyceae
+NEONDREX538002,Staurastrum sp.,Chlorophyceae
+NEONDREX820002,Chroococcus prescottii Drouet et Daily,Myxophyceae
+NEONDREX35036,Frustulia amphipleuroides (Grunow) Cleve-Euler,Bacillariophyceae
+NEONDREX52038,Pinnularia maior (Kützing) Rabenhorst,Bacillariophyceae
+NEONDREX910000,Stigonema sp.,Myxophyceae
+NEONDREX536000,Spondylosium sp.,Chlorophyceae
+NEONDREX538047,Staurastrum pentacerum Smith,Chlorophyceae
+NEONDREX327068,Cosmarium garrolense Roy et Bissett,Chlorophyceae
+NEONDREX1057,Achnanthidium jackii Rabenhorst,Bacillariophyceae
+NEONDREX327235,Cosmarium pseudotaxichondrum Nordstedt,Chlorophyceae
+NEONDREX47500,Neidium sp.,Bacillariophyceae
+NEONDREX470002,Penium sp.,Chlorophyceae
+NEONDREX256008,Actinotaenium cucurbitinum f. minus (W. West et G.S. West) Teiling,Chlorophyceae
+NEONDREX327243,Cosmarium abbreviatum var. minus (West et West) Krieger et Gerlof,Chlorophyceae
+NEONDREX33428,Eunotia pienitzii Lange-Bertalot,Bacillariophyceae
+NEONDREX875007,Merismopedia trolleri Bachmann,Myxophyceae
+NEONDREX256013,Actinotaenium cucurbita (Brébisson ex Ralfs) Teiling,Chlorophyceae
+NEONDREX33172,Eunotia faba (Ehrenberg) Grunow,Bacillariophyceae
+NEONDREX33368,Eunotia romanowi Siver,Bacillariophyceae
+NEONDREX65014,Surirella linearis Smith,Bacillariophyceae
+NEONDREX537008,"Staurodesmus octocornis (Ehrenberg ex Ralfs) Stastny, Skaloud et Neustupa",Chlorophyceae
+NEONDREX341001,Desmidium baileyii (Ralfs) Nordstedt,Chlorophyceae
+NEONDREX538028,Staurastrum cornutum Archer,Chlorophyceae
+NEONDREX538135,Staurastrum pseudobacillare Grönblad,Chlorophyceae
+NEONDREX538136,Staurastrum simonyi Scott & Grönblad,Chlorophyceae
+NEONDREX549004,Tetmemorus granulatus (Brébisson) Ralfs,Chlorophyceae
+NEONDREX55002,Reimeria sinuata (Gregory) Kociolek et Stoermer,Bacillariophyceae
+NEONDREX806008,Aphanizomenon sp.,Myxophyceae
+NEONDREX92023,Nupela neotropica Lange-Bertalot,Bacillariophyceae
+NEONDREX256000,Actinotaenium cucurbitinum (Bissett) Teiling,Chlorophyceae
+NEONDREX538004,Staurastrum orbiculare (Ehrenberg) Ralfs,Chlorophyceae
+NEONDREX327247,Cosmarium venustum f. minus Wille,Chlorophyceae
+NEONDREX332004,Cylindrocystis sp.,Chlorophyceae
+NEONDREX481001,Pleurotaenium sp.,Chlorophyceae
+NEONDREX538132,Staurastrum glaphyrum var. denticulatum Scott & Grönblad,Chlorophyceae
+NEONDREX1457006,Peridinium limbatum Lemmermann,Dinophyceae
+NEONDREX21016,Craticula riparia (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX47079,Neidium densestriatum (Østrup) Krammer,Bacillariophyceae
+NEONDREX65005,Surirella biseriata Brébisson,Bacillariophyceae
+NEONCURVATUM,Staurastrum curvatum,Chlorophyceae
+NEONDREX186014,Psammothidium lacus-vulcani (Lange-Bertalot et Krammer) Bukhtiyarova,Bacillariophyceae
+NEONDREX212003,Chamaepinnularia evanida (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX538141,Staurastrum lanceolatum Archer,Chlorophyceae
+NEONDREX470007,Penium polymorphum Perty,Chlorophyceae
+NEONDREX327245,Cosmarium angulosum f. rotundatum Irénée-Marie,Chlorophyceae
+NEONDREX110045,Encyonema neogracile Krammer,Bacillariophyceae
+NEONDREX379042,Euastrum cuspidatum Wolle,Chlorophyceae
+NEONDREX538131,Staurastrum diacanthum var. evolutum Scott & Grönblad,Chlorophyceae
+NEONDREX538145,Staurastrum octoverrucosum var. simplicius Scott & Grönblad,Chlorophyceae
+NEONDREX538148,Staurastrum connatum (Lundell) Roy et Bissett,Chlorophyceae
+NEONDREX256004,Actinotaenium cucurbita f. rotundatum (Krieger) Teiling,Chlorophyceae
+NEONDREX33361,Eunotia eurycephala (Grunow) Nörpel-Schempp et Lange-Bertalot,NA
+NEONDREX537009,Staurodesmus triangularis (Lagerheim) Teiling,Chlorophyceae
+NEONDREX875003,Merismopedia glauca (Ehrenberg) Kützing,Myxophyceae
+CHRYSOPHYCEAESP,Chrysophyceae sp.,Chrysophyceae
+NEONDREX536005,Spondylosium secedens (deBary) Archer,Chlorophyceae
+NEONDREX538032,Staurastrum natator W. West,Chlorophyceae
+NEONDREX538033,Staurastrum gracile Ralfs,Chlorophyceae
+NEONDREX538127,Staurastrum pinnatum Turner,Chlorophyceae
+NEONDREX538133,Staurastrum iotanum Wolle,NA
+NEONDREX580003,Xanthidium sp.,Chlorophyceae
+NEONDREX1110011,Dinobryon eurystoma (Stokes) Lemmermann,NA
+NEONDREX327074,Cosmarium phaseolus f. minus Boldt,Chlorophyceae
+NEONDREX438028,Micrasterias arcuata var. gracilis (Bailey) West & West,NA
+CHRYSOPHYTASP,Chrysophyta sp.,NA
+NEONDREX1110005,Dinobryon bavaricum Imhof,Chrysophyceae
+NEONDREX20011,Cyclotella striata (Kützing) Grunow,Bacillariophyceae
+NEONDREX21005,Craticula halophila (Grunow ex Van Heurck) Mann,Bacillariophyceae
+NEONDREX367001,Elakatothrix viridis (Snow) Printz,Chlorophyceae
+NEONDREX405001,Gonyostomum semen (Ehrenberg) Diesing,Raphidophyceae
+NEONDREX424000,Kirchneriella sp.,Chlorophyceae
+NEONDREX47034,Neidium apiculatum Reimer,Bacillariophyceae
+NEONDREX517002,Schroederia sp.,Chlorophyceae
+NEONDREX546001,Teilingia granulata (Roy et Bissett) Bourrelly,Chlorophyceae
+NEONDREX553007,Tetraedron sp.,Chlorophyceae
+NEONDREX86002,Actinocyclus normanii (Gregory) Hustedt,Bacillariophyceae
+NEONDREX1110016,Dinobryon pediforme (Lemmermann) Steinecke,NA
+NEONDREX199001,Kobayasiella subtilissima (Cleve) Lange-Bertalot,Bacillariophyceae
+NEONDREX458007,Oocystis submarina Lagerheim,Chlorophyceae
+NEONDREX1705002,Ducellieria chodatii (Cucellier) Teiling,Chlorophyceae
+NEONDREX64010,Stephanodiscus hantzschii Grunow,Bacillariophyceae
+NEONDREX438008,Micrasterias sp.,Chlorophyceae
+NEONDREX899005,Rhabdoderma sp.,Myxophyceae
+NEONDREX557002,Tetrastrum sp.,Chlorophyceae
+NEONDREX332002,Cylindrocystis brebissonii Meneghini,Chlorophyceae
+NEONDREX341005,Desmidium sp.,Chlorophyceae
+NEONDREX509001,Roya obtusa (Brébisson) W. West et G.S. West,Chlorophyceae
+NEONDREX185021,Tryblionella calida (Grunow) Mann,Bacillariophyceae
+NEONDREX327064,Cosmarium calcareum Wittrock,Chlorophyceae
+NEONDREX327250,Cosmarium ligoniforme var. crassum Förster,NA
+NEONDREX580010,Xanthidium tenuissimum (Archer) Turner,NA
+SCEBIJ,Scenedesmus bijuga (Turpin) Lagerheim,Chlorophyceae
+TRIPLOCERASSP,Triploceras sp.,Chlorophyceae
+NEONDREX418001,Hyalotheca sp.,Chlorophyceae
+CYSCOR,Cystodinium cornifax (A.J.Schilling) G.A.Klebs,Dinophyceae
+NEONDREX920001,Tolypothrix sp.,Myxophyceae
+NEONDREX875002,Merismopedia punctata Meyen,Myxophyceae
+NEONDREX807004,Aphanocapsa delicatissima W. West et G.S. West,Myxophyceae
+NEONDREX808008,Aphanothece clathrata W. West et G.S. West,Myxophyceae
+RHAELE,Rhabdogloea elenkinii (Roll) Komárek & Anagnostidis,Myxophyceae
+NEONDREX293002,Chaetosphaeridium sp.,Chlorophyceae
+NEONDREX860008,Lyngbya sp.,Myxophyceae
+NEONDREX912002,Symploca sp.,Myxophyceae
+SPIROTAENIASP,Spirotaenia sp.,Chlorophyceae
+NEONDREX1265004,Cryptomonas erosa Ehrenberg,Cryptophyceae
+NEONDREX33012,Eunotia diodon Ehrenberg,Bacillariophyceae
+NEONDREX341009,Desmidium aptogonum Brébisson,Chlorophyceae
+NEONDREX467008,Pediastrum sp.,Chlorophyceae
+PHALEN,Phacotus lenticularis (Ehrenberg) Diesing,Chlorophyceae
+GLESP,Glenodinium sp.,Dinophyceae
+NEONDREX1701001,Isthmochloron trispinatum (W. West et G.S. West) Skuja,Tribophyceae
+NEONDREX458006,Oocystis parva W. West et G.S. West,Chlorophyceae
+RHODOMONASSP,Rhodomonas sp.,Cryptophyceae
+SYNPET,Synura petersenii Korshikov,Synurophyceae
+CHLSP,Chlorochromonas sp.,Chrysophyceae
+CRUREC,Crucigenia rectangularis (Nägeli) Gay,Chlorophyceae
+DIDPLA,Didymocystis planktonica Korshikov,Chlorophyceae
+NEONDREX67002,Tabellaria fenestrata (Lyngbye) Kützing,Bacillariophyceae
+NEONDREX807011,Aphanocapsa incerta (Lemmermann) Cronberg et Komárek,Myxophyceae
+NEONDREX448002,Nephrocytium agardhianum Nägeli,Chlorophyceae
+NEONDREX458009,Oocystis lacustris Chodat,Chlorophyceae
+SCEACU1,Scenedesmus acunae Comas,Chlorophyceae
+ARTSP,Arthrodesmus sp.,Chlorophyceae
+CALCAL,Calothrix calida P.Richter,Myxophyceae
+MICJOH,Micrasterias johnsonii West & G.S.West,Chlorophyceae
+NEONDREX855000,Johannesbaptistia pellucida (Dickie) Taylor et Drouet,Myxophyceae
+NEONDREX875004,Merismopedia sp.,Myxophyceae
+NEONDREX884002,Nodularia sp.,Myxophyceae
+PLEMIN,Pleurotaenium minutum var. excavatum A.M.Scott & Prescott,Chlorophyceae
+NEONDREX341013,Desmidium graciliceps (Nordstedt) Lagerheim,Chlorophyceae
+NEONDREX67020,Tabellaria sp.,Bacillariophyceae
+NEONDREX836001,Eucapsis sp.,Myxophyceae
+RHATRA,Rhabdoderma transsylvanicum (Kol) Komárek & Anagnostidis,Myxophyceae
+POLSPI,Polyedriopsis spinulosa (Schmidle) Schmidle,Chlorophyceae
+COSDEP,Cosmarium depressum var. reniforme West & G.S. West,Chlorophyceae
+DINDIL,Dinobryon dilatatum D.G. Hilliard,Chrysophyceae
+MYXHIR,Myxobaktron hirudforme G.S. West,Myxophyceae
+NEONDREX295005,Characium pringsheimii Braun,Chlorophyceae
+NEONDREX820005,Chroococcus limneticus Lemmermann,Myxophyceae
+PHASP,Phaeaster sp.,Chrysophyceae
+NEONDREX448003,Nephrocytium sp.,Chlorophyceae
+ISTLOB,Isthmochloron lobulatum (Nägeli) Skuja,Tribophyceae
+DESGUI,Desmogonium guianense Ehrenberg,Bacillariophyceae
+DESQUA,Desmodesmus quadricaudatus Turpin,Chlorophyceae
+NEONDREX902002,Rhabdogloea sp.,Myxophyceae
+SPOSP2,Spongomonas sp.,Imbricatea
+ELAKATOTHRIXSP,Elakatothrix sp.,Chlorophyceae
+EUTPOL,Eutetramorus polycoccus (Korshikov) Komárek,Chlorophyceae
+LINDAVIASP,Lindavia sp.,Bacillariophyceae
+NEONDREX2506003,Discostella stelligera (Cleve et Grunow) Houk et Klee,Bacillariophyceae
+PLATAL,Planktolyngbya tallingii Komárek & H. Kling,Myxophyceae
+PSEVOR,Pseudanabaena voronichinii Anagnostidis,Myxophyceae
+MICICH,Microcystis ichthyoblabe (G. Kunze) Kützing,Myxophyceae
+NEONDREX341010,Desmidium coarctatum Nordstedt,Chlorophyceae
+NEONDREX438030,Micrasterias foliacea Bailey ex Ralfs,NA
+NEONDREX861002,Jaaginema sp.,Myxophyceae
+NEONDREX538122,Staurastrum arachne Ralfs et Ralfs,Chlorophyceae
+NEONDREX808007,Aphanothece stagnina (Sprengel) Braun,Myxophyceae
+OOCGLO,Oocystis gloeocystiformis Borge,Chlorophyceae
+NAVAGR,Navicula agrestis Hustedt,Bacillariophyceae
+NEONDREX155031,Planothidium haynaldii (Schaarschmidt) Lange-Bertalot,Bacillariophyceae
+NEONDREX212002,Chamaepinnularia bremensis (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX35011,Frustulia vulgaris (Thwaites) De Toni,Bacillariophyceae
+NEONDREX36010,Gomphoneis minuta (Stone) Kociolek et Stoermer,Bacillariophyceae
+NEONDREX37362,Gomphonema insigniforme Reichardt,NA
+NEONDREX10015,Aulacoseira subarctica (Müller) Haworth,Bacillariophyceae
+NEONDREX115016,Fallacia lenzii (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX46893,Navicula antonii Lange-Bertalot,Bacillariophyceae
+NEONDREX48145,Nitzschia filiformis (Smith) Van Heurck,Bacillariophyceae
+NEONDREX197002,Diadesmis contenta (Grunow ex Van Heurck) Mann,Bacillariophyceae
+NEONDREX209013,"Gomphosphenia praegnans Ress, Thomas et Kociolek",Bacillariophyceae
+NEONDREX209014,Gomphosphenia americana Kociolek et Thomas,Bacillariophyceae
+NEONDREX37513,Gomphonema caperatum Ponader et Potapova,Bacillariophyceae
+NEONDREX46538,Navicula perminuta Grunow,Bacillariophyceae
+NEONDREX46646,Navicula caterva Hohn et Hellerman,Bacillariophyceae
+NEONDREX33169,Eunotia muscicola var. tridentula Nörpel et Lange-Bertalot,Bacillariophyceae
+NEONDREX125009,Karayevia suchlandtii (Hustedt) Bukhtiyarova,Bacillariophyceae
+NEONDREX170033,Sellaphora hustedtii (Krasske) Lange-Bertalot et Werum,Bacillariophyceae
+NEONDREX46896,Navicula rostellata Kützing,Bacillariophyceae
+NEONDREX9098002,Halamphora acutiuscula (Kützing) Levkov,Bacillariophyceae
+NEONDREX46154,Navicula rhynchocephala Kützing,Bacillariophyceae
+NEONDREX46387,Navicula reinhardtii (Grunow) Grunow,Bacillariophyceae
+NEONDREX10028,Aulacoseira alpigena (Grunow) Krammer,Bacillariophyceae
+NEONDREX37055,Gomphonema productum (Grunow) Lange-Bertalot et Reichardt,Bacillariophyceae
+NEONDREX46356,Navicula hambergii Hustedt,Bacillariophyceae
+NEONDREX46647,Navicula constans Hustedt,Bacillariophyceae
+NEONDREX194007,Placoneis explanata (Hustedt) Mayama,Bacillariophyceae
+NEONDREX46663,Navicula exilis Kützing,Bacillariophyceae
+NEONDREX48604,Nitzschia kurzeana Rabenhorst,Bacillariophyceae
+NEONDREX197005,Diadesmis perpusilla (Grunow) Mann,Bacillariophyceae
+NEONDREX59001,Simonsenia delognei (Grunow) Lange-Bertalot,Bacillariophyceae
+NEONDREX185002,Tryblionella debilis Arnott ex OMeara,Bacillariophyceae
+NEONDREX48174,Nitzschia reversa Smith,Bacillariophyceae
+NEONDREX125002,Karayevia laterostrata (Hustedt) Bukhtiyarova,Bacillariophyceae
+NEONDREX316018,Closterium ehrenbergii Meneghini,Chlorophyceae
+NEONDREX195010,Cavinula variostriata (Krasske) Mann,Bacillariophyceae
+NEONDREX46066,Navicula schmassmannii Hustedt,Bacillariophyceae
+NEONDREX10008,Aulacoseira ambigua (Grunow) Simonsen,Bacillariophyceae
+NEONDREX48399,Nitzschia pseudofonticola Hustedt,Bacillariophyceae
+NEONDREX208002,Puncticulata radiosa (Lemmermann) Håkansson,Bacillariophyceae
+NEONDREX52049,Pinnularia obscura Krasske,Bacillariophyceae
+NEONDREX62040,Stauroneis thermicola (Petersen) Lund,Bacillariophyceae
+NEONDREX66016,Synedra rumpens Kützing,Bacillariophyceae
+AUDSP,Audouinella sp.,Florideophyceae
+EUNTRI,Eunotia tridentula Ehrenberg,Bacillariophyceae
+NEONDREX209012,Gomphosphenia sp.,Bacillariophyceae
+NEONDREX27003,Diatoma hyemalis (Lyngbye) Heiberg,Bacillariophyceae
+NEONDREX48137,Nitzschia clausii Hantzsch,Bacillariophyceae
+NEONDREX1026,Achnanthidium exiguum var. heterovalvum (Krasske) Czarnecki,Bacillariophyceae
+NEONDREX213014,"Hippodonta pumila Lange-Bertalot, G. Hofmann et Metzeltin",Bacillariophyceae
+NEONDREX33019,Eunotia flexuosa (Brébisson ex Kutzing) Kützing,Bacillariophyceae
+NEONDREX824002,Coelosphaerium sp.,Myxophyceae
+NEONDREX820007,Chroococcus turgidus (Kützing) Nägeli,Myxophyceae
+NEONDREX46167,Navicula aurora Sovereign,Bacillariophyceae
+NEONDREX46408,Navicula viridula (Kützing) Kützing,Bacillariophyceae
+NEONDREX23092,Cymbella lanceolata (Agardh) Agardh,Bacillariophyceae
+NEONDREX203031,Encyonopsis sp.,Bacillariophyceae
+NEONDREX47309,Navicymbula pusilla (Grunow) Krammer,NA
+ENCMIN,Encyonema minuta Hilse,Bacillariophyceae
+NEONDREX110014,Encyonema reichardtii (Krammer) Mann,Bacillariophyceae
+NEONDREX203001,Encyonopsis cesatii (Rabenhorst) Krammer,Bacillariophyceae
+NEONDREX37096,Gomphonema pumilum (Grunow) Reichardt et Lange-Bertalot,Bacillariophyceae
+NEONDREX39001,Hannaea arcus (Ehrenberg) Patrick,Bacillariophyceae
+NEONDREX130006,Luticola goeppertiana (Bleisch) Mann,Bacillariophyceae
+NEONDREX210006,Geissleria paludosa (Hustedt) Lange-Bertalot et Metzeltin,Bacillariophyceae
+NEONDREX46660,Navicula wildii Lange-Bertalot,Bacillariophyceae
+NAVMET,Navicula metareichardtiana Lange-Bertalot & Kusber,Bacillariophyceae
+NEONDREX32016,Epithemia turgida var. westermannii (Ehrenberg) Grunow,Bacillariophyceae
+NEONDREX36002,Gomphoneis eriense var. variabilis Kociolek et Stoermer,Bacillariophyceae
+NEONDREX55004,"Reimeria uniseriata Sala, Guerrero et Ferrario",Bacillariophyceae
+NEONDREX92006,Nupela lapidosa (Krasske) Lange-Bertalot,Bacillariophyceae
+NEONDREX36018,Gomphoneis geitleri Kociolek et Stoermer,Bacillariophyceae
+NEONDREX316022,Closterium littorale Gay,Chlorophyceae
+NEONDREX46104,Navicula tripunctata (Müller) Bory,Bacillariophyceae
+NEONDREX110011,Encyonema muelleri (Hustedt) Mann,Bacillariophyceae
+NEONDREX214002,"Parlibellus protracta (Grunow) Witkowski, Lange-Bertalot et Metzeltin",Bacillariophyceae
+NEONDREX28001,Diatomella balfouriana Greville,Bacillariophyceae
+NEONDREX155021,Planothidium dubium (Grunow) Round et Bukhtiyarova,Bacillariophyceae
+NEONDREX23078,Cymbella mexicana (Ehrenberg) Cleve,Bacillariophyceae
+NEONDREX34104,Fragilaria famelica (Kützing) Lange-Bertalot,Bacillariophyceae
+AUDHER,Audouinella hermannii (Roth) Duby,Florideophyceae
+HYDRURUSSPP,Hydrurus spp.,Chrysophyceae
+MERIDIONSPP,Meridion spp.,Bacillariophyceae
+NEONDREX204004,"Adlafia suchlandtii (Hustedt) Moser, Lange-Bertalot et Metzeltin",Bacillariophyceae
+NEONDREX37195,Gomphonema pygmaeum Kociolek et Stoermer,Bacillariophyceae
+RHOICOSPHENIASPP,Rhoicosphenia spp.,Bacillariophyceae
+CHAMAESIPHONSPP,Chamaesiphon spp.,Myxophyceae
+ENCYEL,Encyonema yellowstonianum Krammer,Bacillariophyceae
+GOMPHONEISSPP,Gomphoneis spp.,Bacillariophyceae
+NEONDREX1125001,Hydrurus foetidus (Villars) Trevisan,Chrysophyceae
+NEONDREX204014,Adlafia sp.,Bacillariophyceae
+NEONDREX37192,Gomphonema stoermeri (Schmidt) Kociolek et Kingston,Bacillariophyceae
+STIGEOCLONIUMSPP,Stigeoclonium spp.,Chlorophyceae
+NEONDREX9215005,Lindavia ocellata (Pantocsek) T.Nakov et al.,NA
+NEONDREX211003,Mayamaea atomus (Kützing) Lange-Bertalot,Bacillariophyceae
+NEONDREX170155,Sellaphora elorantana (Lange-Bertalot) Wetzel,NA
+NEONDREX62148,Stauroneis sp.,Bacillariophyceae
+RHOCAL,Rhoicosphenia californica Thomas & Kociolek,Bacillariophyceae
+TABELLARIASPP,Tabellaria spp.,Bacillariophyceae
+NEONDREX130049,Luticola sp.,Bacillariophyceae
+NEONDREX192024,Fragilariforma nitzschioides (Grunow) Lange-Bertalot,NA
+GOMGEI,"Gomphosinica geitleri (Kociolek & Stoermer) Kociolek, You & Wang",Bacillariophyceae
+NEONDREX16034,Cocconeis placentula var. klinoraphis Geitler,Bacillariophyceae
+NEONDREX1699,Gomphonema amerhombicum Reichardt,NA
+NEONDREX212030,Chamaepinnularia hassiaca (Krasske) Cantonati et Lange-Bertalot,Bacillariophyceae
+NEONDREX34155,Fragilaria capucina var. perminuta (Grunow) Lange-Bertalot,Bacillariophyceae
+ENCCES,Encyonema cespitosum Kützing,Bacillariophyceae
+NEONDREX245003,Ulnaria contracta (Østrup) Morales et Vis,Bacillariophyceae
+STICHOSIPHONSP,Stichosiphon sp.,Myxophyceae
+CYASP4,Cyanobium sp.,Myxophyceae
+NEONDREX30012,Diploneis boldtiana Cleve,Bacillariophyceae
+NEONDREX66060,Synedra ulna var. ramesi (Héribaud) Hustedt,Bacillariophyceae
+NEONDREX92020,Nupela fennica (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX48020,Nitzschia heufleriana Grunow,Bacillariophyceae
+PLAAMP,"Planothidium amphibium C.E.Wetzel, L.Ector & L.Pfister",Bacillariophyceae
+NEONDREX16031,Cocconeis pseudolineata (Geitler) Lange-Bertalot,Bacillariophyceae
+NEONDREX52027,Pinnularia divergentissima (Grunow) Cleve,Bacillariophyceae
+CYMBELLONIGSPP,Cymbellonitzschia spp.,Bacillariophyceae
+NEONDREX10018,Aulacoseira granulata (Ehrenberg) Simonsen,Bacillariophyceae
+NEONDREX212036,"Chamaepinnularia muscicola (Petersen) Kulikovskiy, Lange-Bertalot & Witkowski",Bacillariophyceae
+NITOLI,Nitzschia oligotraphenta (Lange-Bertalot) Lange-Bertalot,Bacillariophyceae
+NEONDREX48658,Nitzschia minuta Bleisch,Bacillariophyceae
+NEONDREX47001,Neidium affine (Ehrenberg) Pfitzer,Bacillariophyceae
+NEONDREX9193039,"Humidophila perpusilla (Grunow) Lowe, Kociolek, Johansen, Van de Vijver, Lange-Bertalot et Kopalová",NA
+CLOSTERIUMSPP,Closterium spp.,Chlorophyceae
+NEONDREX110094,Encyonema lange-bertalotii Krammer,NA
+NEONDREX170010,Sellaphora disjuncta (Hustedt) Mann,Bacillariophyceae
+NEONDREX194091,Placoneis ignorata (Schimanski) Lange-Bertalot,NA
+NEONDREX36001,Gomphoneis eriense (Grunow) Skvortzow et Meyer,Bacillariophyceae
+NEONDREX36003,Gomphoneis herculeana (Ehrenberg) Cleve,Bacillariophyceae
+NEONDREX36024,Gomphoneis sp.,Bacillariophyceae
+HANNAEASPP,Hannaea spp.,Bacillariophyceae
+HUMBRE,"Humidophila brekkaensis (Petersen) Lowe, Kociolek, Johansen, Van de Vijver, Lange-Bertalot & Kopalová",NA
+HUMGAL,"Humidophila gallica (W.Smith) Lowe, Kociolek, Q.You, Q.Wang & Stepanek",Bacillariophyceae
+MELOSIRASPP,Melosira spp.,Bacillariophyceae
+NEONDREX175007,Staurosirella leptostauron var. dubia (Grunow) Edlund,Bacillariophyceae
+NEONDREX37133,Gomphonema freesei Lowe et Kociolek,Bacillariophyceae
+NEONDREX46859,Navicula lanceolata (Agardh) Kützing,Bacillariophyceae
+STAPAR,Stauroneis parathermicola Lange-Bertalot,Bacillariophyceae
+NEONDREX197022,Diadesmis sp.,Bacillariophyceae
+NEONDREX46166,Navicula pseudoventralis Hustedt,Bacillariophyceae
+BACILLARIASP,Bacillaria sp.,Bacillariophyceae
+GOMPSE,Gomphonema pseudobohemicum Lange-Bertalot & E.Reichardt,Bacillariophyceae
+HANLIN,Hannaea linearis (Holmboe) Álvarez-Blanco & S.Blanco,Bacillariophyceae
+OEDOGONIUMSPP,Oedogonium spp.,Chlorophyceae
+CALOTHRIXSPP,Calothrix spp.,Myxophyceae
+NEONDREX16025,Cocconeis neothumensis Krammer,Bacillariophyceae
+NEONDREX48349,Nitzschia tubicola Grunow,Bacillariophyceae
+NITVER,Nitzschia vermicularoides Lange-Bertalot,Bacillariophyceae
+NEONDREX1038,Achnanthidium deflexum (Reimer) Kingston,Bacillariophyceae
+NEONDREX175031,Staurosirella martyi (Héribaud) Morales et Manoylov,Bacillariophyceae
+NEONDREX185039,Tryblionella compressa (Bailey) Poulin,Bacillariophyceae
+NEONDREX48229,Nitzschia angustatula Lange-Bertalot,Bacillariophyceae
+NEONDREX110013,Encyonema prostratum (Berkeley) Ralfs,Bacillariophyceae
+NEONDREX115007,Fallacia subhamulata (Grunow) Mann,Bacillariophyceae
+NEONDREX115008,Fallacia tenera (Hustedt) Mann,Bacillariophyceae
+NEONDREX185023,Tryblionella apiculata Gregory,Bacillariophyceae
+NEONDREX30005,Diploneis oculata (Brébisson) Cleve,Bacillariophyceae
+NEONDREX46865,Navicula parabilis Hohn et Hellerman,Bacillariophyceae
+NEONDREX48133,Nitzschia biacrula Hohn et Hellerman,Bacillariophyceae
+NEONDREX1023,Achnanthidium pyrenaicum (Hustedt) Kobayashi,Bacillariophyceae
+NEONDREX194002,Placoneis pseudanglica Cox,Bacillariophyceae
+NEONDREX203002,Encyonopsis microcephala (Grunow) Krammer,Bacillariophyceae
+NEONDREX46616,Navicula germainii Wallace,Bacillariophyceae
+NEONDREX21003,Craticula accomoda (Hustedt) Mann,Bacillariophyceae
+NEONDREX115025,Fallacia maceria (Schimanski) Lange-Bertalot,Bacillariophyceae
+NEONDREX209003,Gomphosphenia lingulatiformis (Lange-Bertalot et Reichardt) Lange-Bertalot,Bacillariophyceae
+NEONDREX37163,Gomphonema mexicanum Grunow,Bacillariophyceae
+NEONDREX38005,Gyrosigma attenuatum (Kützing) Rabenhorst,Bacillariophyceae
+NEONDREX46153,Navicula pseudolanceolata Lange-Bertalot,Bacillariophyceae
+NEONDREX47078,Neidium binodis (Ehrenberg) Hustedt,Bacillariophyceae
+NEONDREX16017,Cocconeis pseudothumensis Reichardt,Bacillariophyceae
+NEONDREX48351,Nitzschia pellucida Grunow,Bacillariophyceae
+NEONDREX155006,Planothidium biporomum (Hohn et Hellerman) Lange-Bertalot,Bacillariophyceae
+NEONDREX185026,Tryblionella levidensis Smith,Bacillariophyceae
+NEONDREX213008,"Hippodonta neglecta Lange-Bertalot, Metzeltin et Witkowski",Bacillariophyceae
+NEONDREX23811,Cymbella neocistula Krammer,Bacillariophyceae
+NEONDREX30003,Diploneis marginestriata Hustedt,Bacillariophyceae
+NEONDREX37161,Gomphonema pseudoaugur Lange-Bertalot,Bacillariophyceae
+NEONDREX37183,Gomphonema lingulatiforme Lange-Bertalot et Reichardt,Bacillariophyceae
+NEONDREX46400,Navicula symmetrica Patrick,Bacillariophyceae
+NEONDREX65020,Surirella tenera Gregory,Bacillariophyceae
+NEONDREX99010,Achnanthidium druartii Rimet and Couté,Bacillariophyceae
+STAUROPHORASP,Staurophora sp.,Bacillariophyceae
+NEONDREX218001,Fistulifera pelliculosa (Brébisson) Lange-Bertalot,Bacillariophyceae
+NEONDREX321003,Coelastrum sp.,Chlorophyceae
+NEONDREX321008,Coelastrum astroideum DeNotaris,Chlorophyceae
+NEONDREX46494,Navicula absoluta Hustedt,Bacillariophyceae
+NEONDREX48352,Nitzschia amphibia f. frauenfeldii (Grunow) Lange-Bertalot,Bacillariophyceae
+NEONDREX510008,Scenedesmus arcuatus Lemmermann,Chlorophyceae
+NEONDREX170048,Sellaphora stroemii (Hustedt) Kobayasi,Bacillariophyceae
+NEONDREX21012,Craticula citrus (Krasske) Reichardt,Bacillariophyceae
+NEONDREX48264,Nitzschia siliqua Archibald,Bacillariophyceae
+NEONDREX65092,Surirella splendida (Ehrenberg) Kützing,Bacillariophyceae
+NEONDREX2132,Achnanthes subhudsonis var. kraeuselii (Cholnoky) Cholnoky,Bacillariophyceae
+NEONDREX64022,Stephanodiscus medius Håkansson,Bacillariophyceae
+NEONDREX510009,Scenedesmus denticulatus Kirchner,Chlorophyceae
+NEONDREX1032,Achnanthidium latecephalum Kobayashi,Bacillariophyceae
+NEONDREX1134,Cocconeis disculoides Hustedt,Bacillariophyceae
+NEONDREX12056,Caloneis westii (Smith) Hendey,Bacillariophyceae
+NEONDREX20001,Cyclotella atomus Hustedt,Bacillariophyceae
+NEONDREX20085,Cyclotella tripartita Håkansson,Bacillariophyceae
+NEONDREX21014,Craticula minusculoides (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX34273,"Fragilaria pararumpens Lange-Bertalot, G. Hofmann & Werum",Bacillariophyceae
+NEONDREX38006,Gyrosigma obscurum (Smith) Griffith et Henfrey,Bacillariophyceae
+NEONDREX47181,Cymbopleura rhomboidea Krammer,Bacillariophyceae
+NEONDREX48146,Nitzschia frequens Hustedt,Bacillariophyceae
+NEONDREX54003,Pleurosigma salinarum (Grunow) Grunow,Bacillariophyceae
+NEONDREX70008,Thalassiosira weissflogii (Grunow) Fryxell et Hasle,Bacillariophyceae
+NEONDREX95001,Paralia sulcata (Ehrenberg) Cleve,Bacillariophyceae
+NEONDREX1063,Achnanthidium minutissimum var. gracillima (Meister) Bukhtiyarova,Bacillariophyceae
+NEONDREX1030,Achnanthidium catenatum (Bily et Marvan) Lange-Bertalot,Bacillariophyceae
+NEONDREX115023,Fallacia sublucidula (Hustedt) Mann,Bacillariophyceae
+NEONDREX23074,Cymbella hustedtii Krasske,Bacillariophyceae
+NEONDREX316021,Closterium libellula Focke,Chlorophyceae
+NEONDREX327087,Cosmarium undulatum var. minutum Wittrock,Chlorophyceae
+NEONDREX48272,Nitzschia desertorum Hustedt,Bacillariophyceae
+NEONDREX37193,Gomphonema patricki Kociolek et Stoermer,Bacillariophyceae
+NEONDREX1037,"Achnanthidium atomus (Hustedt) Monnier, Lange-Bertalot et Ector",Bacillariophyceae
+NEONDREX170012,Sellaphora mutata (Krasske) Lange-Bertalot,Bacillariophyceae
+NEONDREX170144,Sellaphora meridionalis Potapova et Ponader,Bacillariophyceae
+NEONDREX197001,Diadesmis confervacea Kützing,Bacillariophyceae
+NEONDREX2122,Achnanthes brevipes Agardh,Bacillariophyceae
+NEONDREX48250,Nitzschia compressa var. vexans (Grunow) Lange-Bertalot,Bacillariophyceae
+NEONDREX62010,Stauroneis livingstonii Reimer,Bacillariophyceae
+NEONDREX93563,Navicula elsoniana Patrick et Freese,Bacillariophyceae
+NEONDREX99011,Achnanthidium gracillimum Meister,Bacillariophyceae
+NEONDREX1012,Achnanthidium altergracillima (Lange-Bertalot) Round et Bukhtiyarova,Bacillariophyceae
+NEONDREX170152,Sellaphora schadei (Krasske) C.E. Wetzel et. al.,NA
+NEONDREX65055,Surirella suecica Grunow,Bacillariophyceae
+NEONDREX204007,Adlafia multnomahii Morales et M. Le,Bacillariophyceae
+NEONDREX7175,Amphora bicapitata Hohn et Hellerman,Bacillariophyceae
+NEONDREX19002,"Cyclostephanos invisitatus (Hohn et Hellerman) Theriot, Stoermer et Håkansson",Bacillariophyceae
+NEONDREX2508011,Platessa bahlsii Potapova,Bacillariophyceae
+NEONDREX66042,Synedra acus Kützing,Bacillariophyceae
+NEONDREX203008,Encyonopsis subminuta Krammer et Reichardt,Bacillariophyceae
+NEONDREX9188005,"Pseudofallacia tenera (Hustedt) Liu, Kociolek et Wang",NA
+NEONDREX9215004,Lindavia rossii (Håkansson) T. Nakov et al.,NA
+NEONDREX48034,Nitzschia subtilis (Kützing) Grunow,Bacillariophyceae
+NEONDREX893000,Pleurocapsa sp.,Myxophyceae
+NEONDREX22005,Cymatopleura solea var. apiculata (Smith) Ralfs,Bacillariophyceae
+NEONDREX194012,Placoneis paraelginensis Lange-Bertalot,Bacillariophyceae
+NEONDREX37519,"Gomphonema pelisteriense Levkov, Mitic-Kopanja & E.Reichardt",NA
+NEONDREX93453,Navicula viridulacalcis subsp. neomundana Lange-Bertalot et Rumrich,NA
+HALVAR,Halamphora vardarensis Levkov,Bacillariophyceae
+SELSUB,Sellaphora subseminulum (Hustedt) C.E. Wetzel,Bacillariophyceae
+SYNEDRASPP,Synedra spp.,Bacillariophyceae
+AULACOSEIRFSPP,Aulacoseiraceae spp.,Bacillariophyceae
+FISTULIFERASP,Fistulifera sp.,Bacillariophyceae
+NAVHEI,Navicula heimansioides Lange-Bertalot,Bacillariophyceae
+NEONDREX170046,Sellaphora joubaudii (Germain) Aboal,Bacillariophyceae
+NEONDREX2508007,Platessa sp.,Bacillariophyceae
+SYNURASPP,Synura spp.,Synurophyceae
+NEONDREX46362,Navicula ingenua Hustedt,Bacillariophyceae
+NEONDREX92032,Nupela sp.,Bacillariophyceae
+CLADOPHORASPP,Cladophora spp.,Chlorophyceae
+NAVTEX,Navicula texana R.M.Patrick,Bacillariophyceae
+STINAN,Stigeoclonium nanum (Dillwyn) Kützing,Chlorophyceae
+NEONDREX211018,Mayamaea cahabaensis Morales et Manoylov,Bacillariophyceae
+NEONDREX1056,Achnanthidium duthii (Sreenivasa) Edlund,Bacillariophyceae
+NEONDREX110067,"Encyonema leibleinii (Agardh) W. Silva, Jahn, Ludwig et Menezes",NA
+NEONDREX21010,Craticula ambigua (Ehrenberg) Mann,Bacillariophyceae
+NEONDREX48178,Nitzschia sinuata var. tabellaria (Grunow) Grunow,Bacillariophyceae
+NEONDREX48393,Nitzschia wuellerstorffii Lange-Bertalot,Bacillariophyceae
+CHROOCOCCUSSPP,Chroococcus spp.,Myxophyceae
+LYNGBYASPP,Lyngbya spp.,Myxophyceae
+NEONDREX46306,Navicula schroeteri Meister,Bacillariophyceae
+NEONDREX46665,Navicula lundii Reichardt,Bacillariophyceae
+NEONDREX48192,Nitzschia lanceolata Smith,Bacillariophyceae
+NEONDREX888020,Oscillatoria curviceps Agardh,Myxophyceae
+PSAMIC,Psammothidium microscopicum (Cholnoky) S.Blanco,Bacillariophyceae
+CYMAFF,Cymbella affiniformis Krammer,Bacillariophyceae
+NEONDREX37346,Gomphonema turgidum Ehrenberg,Bacillariophyceae
+RHODOPHYTASP,Rhodophyta sp.,NA
+NEONDREX110091,Encyonema ventricosum (C. A. Agardh) Grunow,Bacillariophyceae
+NEONDREX30009,Diploneis ovalis (Hilse) Cleve,Bacillariophyceae
+NEONDREX37031,Gomphonema ventricosum Gregory,Bacillariophyceae
+NEONDREX65058,Surirella iowensis Lowe,Bacillariophyceae
+CYMBOPLEURASPP,Cymbopleura spp.,Bacillariophyceae
+NEONDREX9098010,Halamphora submontana (Hustedt) Levkov,Bacillariophyceae
+GYROSIGMASPP,Gyrosigma spp.,Bacillariophyceae
+NEONDREX115003,Fallacia cryptolyra (Brockmann) Stickle et Mann,Bacillariophyceae
+NEONDREX35041,Frustulia neomundana Lange-Bertalot et Rumrich,Bacillariophyceae
+PLACON,Placoneis constans (Hustedt) E.J.Cox,Bacillariophyceae
+NEONDREX204017,Adlafia drouetiana (Patrick) Metzeltin et Lange-Bertalot,Bacillariophyceae
+NEONDREX309001,Cladophora sp.,Chlorophyceae
+NEONDREX65069,Surirella amphioxys Smith,Bacillariophyceae
+NEONDREX21007,Craticula submolesta (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX46895,Navicula viridulacalcis Lange-Bertalot,Bacillariophyceae
+NEONDREX19001,"Cyclostephanos tholiformis Stoermer, Håkansson et Theriot",Bacillariophyceae
+NEONDREX34271,Fragilaria pectinalis (O.F. Müller) Lyngbye,Bacillariophyceae
+NEONDREX43006,Mastogloia elliptica (Agardh) Cleve,Bacillariophyceae
+NEONDREX64003,Stephanodiscus parvus Stoermer et Håkansson,Bacillariophyceae
+NEONDREX64018,Stephanodiscus minutulus (Kützing) Cleve et Möller,Bacillariophyceae
+NEONDREX70007,Thalassiosira pseudonana Hasle et Heimdal,Bacillariophyceae
+NEONDREX70031,Thalassiosira lacustris (Grunow) Hasle,Bacillariophyceae
+NEONDREX76001,Bacillaria paradoxa Gmelin,Bacillariophyceae
+NEONDREX16010,Cocconeis fluviatilis Wallace,Bacillariophyceae
+NEONDREX187001,Eucocconeis flexella (Kützing) Cleve,Bacillariophyceae
+NEONDREX46507,Navicula longicephala Hustedt,Bacillariophyceae
+NEONDREX66107,Synedra monodi Guermeur,Bacillariophyceae
+NEONDREX9049001,Seminavis strigosa (Hustedt) Danielidis et Economou-Amilli,Bacillariophyceae
+NEONDREX170066,Sellaphora pulchra Enache et Potapova,Bacillariophyceae
+NEONDREX23201,Cymbella neoleptoceros Krammer,Bacillariophyceae
+NEONDREX110018,Encyonema auerswaldii Rabenhorst,Bacillariophyceae
+NEONDREX115011,Fallacia insociabilis (Krasske) Mann,Bacillariophyceae
+NEONDREX14001,Capartogramma crucicula (Grunow ex Cleve) Ross,Bacillariophyceae
+NEONDREX20063,Cyclotella distinguenda Hustedt,Bacillariophyceae
+NEONDREX44260,Nitzschia lanceola var. minutula Grunow,Bacillariophyceae
+NEONDREX48197,Nitzschia brevissima Grunow ex Van Heurck,Bacillariophyceae
+NEONDREX48422,Nitzschia gessneri Hustedt,Bacillariophyceae
+NEONDREX60002,Skeletonema potamos (Weber) Hasle,Bacillariophyceae
+NEONDREX64027,Stephanodiscus agassizensis Håkansson et Kling,Bacillariophyceae
+NEONDREX35037,Frustulia erifuga Lange-Bertalot et Krammer,Bacillariophyceae
+NEONDREX38020,Gyrosigma sciotoense (Sullivant) Cleve,Bacillariophyceae
+NEONDREX37518,Gomphonema louisianarum Kalinsky,Bacillariophyceae
+NEONDREX424001,Kirchneriella lunaris (Kirchner) K. Möbius,Chlorophyceae
+NEONDREX48163,Nitzschia obtusa Smith,Bacillariophyceae
+NEONDREX48248,Nitzschia fonticola var. pelagica Hustedt,Bacillariophyceae
+NEONDREX18046,Brachysira ocalanensis Shayler et Siver,Bacillariophyceae
+NEONDREX210012,Geissleria lateropunctata (Wallace) Potapova et Winter,Bacillariophyceae
+NEONDREX216002,Microcostatus krasskei (Hustedt) Johansen et Sray,Bacillariophyceae
+NEONDREX52816,"Pinnularia saprophila Lange-Bertalot, Kobayasi et Krammer",Bacillariophyceae
+NEONDREX93566,Navicula cascadensis Sovereign,Bacillariophyceae
+NEONDREX1706001,Glaucospira sp.,Myxophyceae
+NEONDREX155035,Planothidium stewartii (Patrick) Lange-Bertalot,Bacillariophyceae
+NEONDREX33412,Eunotia metamonodon Lange-Bertalot,Bacillariophyceae
+NEONDREX46544,Navicula hanseatica Lange-Bertalot et Stachura,Bacillariophyceae
+NEONDREX65805,Surirella helvetica Brun,Bacillariophyceae
+NEONDREX16009,Cocconeis disculus (Schumann) Cleve,Bacillariophyceae
+NEONDREX170139,Sellaphora pseudopupula (Krasske) Lange-Bertalot,Bacillariophyceae
+NEONDREX212001,Chamaepinnularia begeri (Krasske) Lange-Bertalot,Bacillariophyceae
+NEONDREX248011,Naviculadicta geisslerae (Jahn) Jahn,Bacillariophyceae
+NEONDREX48173,Nitzschia pura Hustedt,Bacillariophyceae
+NEONDREX194045,Placoneis minor (Grunow) Lange-Bertalot,Bacillariophyceae
+NEONDREX34209,Fragilaria amphicephala (Kützing) Lange-Bertalot,Bacillariophyceae
+NEONDREX65100,Surirella roba Leclercq,Bacillariophyceae
+NEONDREX74001,Orthoseira roeseana (Rabenhorst) OMeara,Bacillariophyceae
+NEONDREX46350,Navicula genovefae Fusey,Bacillariophyceae
+NEONDREX9098029,Halamphora cymbifera (Gregory) Levkov,Bacillariophyceae
+NEONDREX48138,Nitzschia closterium (Ehrenberg) Smith,Bacillariophyceae
+NEONDREX48662,Nitzschia hadriatica Lange-Bertalot,Bacillariophyceae
+NEONDREX1334000,Ceratium hirundinella (Möller) Dujardin,Dinophyceae
+NEONDREX64036,Stephanodiscus binderanus (Kützing) Krieger,Bacillariophyceae
+NEONDREX2506007,"Discostella asterocostata (Lin, Xie et Cai) Houk et Klee",Bacillariophyceae
+NEONDREX185007,Tryblionella salinarum (Grunow) Pelletan,Bacillariophyceae
+NEONDREX185009,Tryblionella sp.,Bacillariophyceae
+NEONDREX2506004,Discostella stelligeroides (Hustedt) Houk et Klee,Bacillariophyceae
+NEONDREX853001,Hydrocoleum sp.,NA
+NEONDREX92013,"Nupela neglecta Ponader, Lowe et Potapova",Bacillariophyceae
+NEONDREX97001,Cymbellopsis apiculata Krammer,Bacillariophyceae
+NEONDREX214001,"Parlibellus crucicula (Smith) Witkowski, Lange-Bertalot et Metzeltin",Bacillariophyceae
+NEONDREX185038,Tryblionella coarctata (Grunow) Mann,Bacillariophyceae
+NEONDREX806001,Spirulina major Kützing,Myxophyceae
+SKELETONEMASP,Skeletonema sp.,Bacillariophyceae
+NEONDREX328006,Crucigenia truncata Smith,Chlorophyceae
+NEONDREX441010,Microspora crassior (Hansgirg) Hazen,NA
+NEONDREX335002,Crucigeniella apiculata (Lemmermann) Komárek,Chlorophyceae
+NEONDREX10017,Aulacoseira granulata var. angustissima (Müller) Simonsen,Bacillariophyceae
+NEONDREX130061,"Luticola hustedtii Levkov, Metzeltin & A. Pavlov",NA
+NEONDREX70034,Thalassiosira sp.,Bacillariophyceae
+NEONDREX913005,Symplocastrum sp.,Myxophyceae
+NEONDREX48307,Nitzschia nana Grunow ex Van Heurck,Bacillariophyceae
+NEONDREX64031,Stephanodiscus hantzschii f. tenuis (Hustedt) Håkansson et Stoermer,Bacillariophyceae
+NEONDREX10059,Aulacoseira tenella (Nygaard) Simonsen,Bacillariophyceae
+NEONDREX46002,Navicula angusta Grunow,Bacillariophyceae
+NEONDREX48348,Nitzschia bita Hohn et Hellerman,Bacillariophyceae
+NEONDREX31001,Entomoneis paludosa (Smith) Reimer,Bacillariophyceae
+NEONDREX1720001,Dolichospermum sp.,NA
+NEONDREX27012,Diatoma tenuis Agardh,Bacillariophyceae
+NEONDREX32005,Epithemia argus (Ehrenberg) Kützing,Bacillariophyceae
+NEONDREX557004,Tetrastrum glabrum (Roll) Ahlstrom et Tiffany,Chlorophyceae
+PARLIBELLUSSP,Parlibellus sp.,Bacillariophyceae
+NEONDREX44068,Melosira nummuloides (Dillwyn) Agardh,Bacillariophyceae
+NEONDREX557003,Tetrastrum elegans Playfair,Chlorophyceae
+NEONDREX103038,Pinnularia nobilis (Ehrenberg) Ehrenberg,Bacillariophyceae
+NEONDREX110044,Encyonema elginense (Krammer) Mann,Bacillariophyceae
+NEONDREX201001,Ctenophora pulchella (Ralfs ex Kützing) Williams et Round,Bacillariophyceae
+NEONDREX46560,Navicula subrhynchocephala Hustedt,Bacillariophyceae
+NEONDREX62109,Stauroneis acidoclinata Lange-Bertalot et Werum,Bacillariophyceae
+NEONDREX37336,"Gomphonema incognitum Reichhardt, Jüttner et Cox",Bacillariophyceae
+NEONDREX48381,Nitzschia filiformis var. conferta (Richter) Lange-Bertalot,Bacillariophyceae
+NEONDREX130033,Luticola ventriconfusa Lange-Bertalot,Bacillariophyceae
+NEONDREX66065,Synedra goulardi Brébisson ex Cleve and Grunow,Bacillariophyceae
+NEONDREX467004,Pediastrum biradiatum Meyen,Chlorophyceae
+NEONDREX467006,Pediastrum simplex (Meyen) Lemmermann,Chlorophyceae
+NEONDREX328003,Crucigenia sp.,Chlorophyceae
+BACILLARIASPP,Bacillaria spp.,Bacillariophyceae
+NAVKRI,Navicula kriegeri Krasske,Bacillariophyceae
+NEONDREX200001,Tabularia tabulata (Agardh) Snoeijs,Bacillariophyceae
+NEONDREX20062,Cyclotella gamma Sovereign,Bacillariophyceae
+NEONDREX54010,Pleurosigma sp.,Bacillariophyceae
+NEONDREX92015,Nupela impexiformis (Lange-Bertalot) Lange-Bertalot,Bacillariophyceae
+PLANKTOLYNGSPP,Planktolyngbya spp.,Myxophyceae
+GOMSUB,Gomphonema submehleri Kociolek & Stoermer,Bacillariophyceae
+NEONDREX66102,Synedra sp.,Bacillariophyceae
+NITEXI,Nitzschia exilis Sovereign,Bacillariophyceae
+NEONDREX48402,Nitzschia suchlandti Hustedt,Bacillariophyceae
+NEONDREX64058,Stephanodiscus sp.,Bacillariophyceae
+CYMBOPLEURASP,Cymbopleura sp.,Bacillariophyceae
+NEONDREX2128,Achnanthes inflata (Kützing) Grunow,Bacillariophyceae
+NEONDREX92007,Nupela wellneri (Lange-Bertalot) Lange-Bertalot,Bacillariophyceae
+SPIKIN,"Spicaticribra kingstonii J.Johansen, P.Kociolek & R.Lowe",Bacillariophyceae
+NEONDREX35014,Frustulia weinholdii Hustedt,Bacillariophyceae
+NEONDREX1334004,Ceratium sp.,Dinophyceae
+NEONDREX510085,Scenedesmus subspicatus Chodat,Chlorophyceae
+NEONDREX77001,Anorthoneis excentrica (Donkin) Grunow,Bacillariophyceae
+NEONDREX1044,Achnanthidium caledonicum (Lange-Bertalot) Lange Bertalot,Bacillariophyceae
+NEONDREX110093,Encyonema vulgare Krammer,Bacillariophyceae
+NEONDREX187002,Eucocconeis laevis (Østrup) Lange-Bertalot,Bacillariophyceae
+NEONDREX37270,Gomphonema acutiusculum (Müller) Cleve-Euler,Bacillariophyceae
+NEONDREX46750,Navicula cryptofallax Lange-Bertalot et Hofmann,Bacillariophyceae
+NEONDREX130062,Luticola acidoclinata Lange-Bertalot et Metzeltin,NA
+NEONDREX37070,Gomphonema apuncto Wallace,Bacillariophyceae
+NEONDREX2508004,Platessa hustedtii (Krasske) Lange-Bertalot,Bacillariophyceae
+NEONDREX46651,Navicula phyllepta Kützing,Bacillariophyceae
+SELSAP,"Sellaphora saprotolerans Lange-Bertalot, G.Hofmann & Cantonati",Bacillariophyceae
+NEONDREX446023,Monoraphidium komarkovae Nygaard,Chlorophyceae
+OSCILLATORIASPP,Oscillatoria spp.,Myxophyceae
+DESSPP1,Desmodesmus spp.,Chlorophyceae
+NEONDREX155019,Planothidium apiculatum (Patrick) Lange-Bertalot,Bacillariophyceae
+NEONDREX19000,Cyclostephanos dubius (Fricke) Round,Bacillariophyceae
+NEONDREX47286,Delicata delicatula (Kützing) Krammer,NA
+CHASUB,Characiopsis subulata (A.Braun) Borzì,Tribophyceae
+NEONDREX510105,Scenedesmus opoliensis var. mononensis Chodat,Chlorophyceae
+NEONDREX52018,Pinnularia brebissonii (Kützing) Rabenhorst,Bacillariophyceae
+GONATOZYGONSP,Gonatozygon sp.,Chlorophyceae
+NEONDREX510017,Scenedesmus brasiliensis Bohlin,Chlorophyceae
+NEONDREX552000,Tetradesmus sp.,Chlorophyceae
+CYASPP4,Cyanobium spp.,Myxophyceae
+NEONDREX335004,Crucigeniella sp.,Chlorophyceae
+NEONDREX564003,Treubaria sp.,Chlorophyceae
+NEONDREX10039,Aulacoseira nygaardii (Camburn) Camburn et Charles,Bacillariophyceae
+NEONDREX70001,Thalassiosira baltica (Grunow) Ostenfeld,Bacillariophyceae
+CYMSUB,Cymbella subleptoceros Krammer,Bacillariophyceae
+NEONDREX66005,Synedra famelica Kützing,NA
+NEONDREX46391,Navicula sanctaecrucis Østrup,Bacillariophyceae
+NEONDREX9098077,Halamphora latecostata Stepanek et Kociolek,Bacillariophyceae
+CHLAMYDOMONASSPP,Chlamydomonas spp.,Chlorophyceae
+COSMARIUMSPP,Cosmarium spp.,Chlorophyceae
+KIRCHNERIELLASPP,Kirchneriella spp.,Chlorophyceae
+NEONDREX553004,Tetraedron regulare Kützing,Chlorophyceae
+NEONQUADRICUADA,Scenedesmus quadricuada,Chlorophyceae
+TRACHELOMONASSPP,Trachelomonas spp.,Euglenophyceae
+NEONDREX210013,"Geissleria punctifera (Hustedt) Metzeltin, Lange-Bertalot et García-Rodríguez",Bacillariophyceae
+ANABAENOPSISSPP,Anabaenopsis spp.,Myxophyceae
+ANKISTRODEGSPP,Ankistrodesmus spp.,Chlorophyceae
+EUASTRUMSPP,Euastrum spp.,Chlorophyceae
+GONFAL,Goniochloris fallax Fott,Eustigmatophyceae
+NEONDREX1027,Achnanthidium kranzii (Lange-Bertalot) Round et Bukhtiyarova,Bacillariophyceae
+NEONDREX189004,Rossithidium petersennii (Hustedt) Round et Bukhtiyarova,Bacillariophyceae
+NEONDREX47006,Neidium alpinum Hustedt,Bacillariophyceae
+NEONDREX189003,Rossithidium pusillum (Grunow) Round et Bukhtiyarova,Bacillariophyceae
+NEONDREX110012,Encyonema perpusillum (Cleve-Euler) Mann,Bacillariophyceae
+NEONDREX1059,"Achnanthidium kriegeri (Krasske) Hamilton, Antoniades et Siver",Bacillariophyceae
+NEONDREX189006,Rossithidium nodosum (A. Cleve) Aboal,Bacillariophyceae
+NEONDREX48416,Nitzschia homburgiensis Lange-Bertalot,Bacillariophyceae
+NEONDREX212009,Chamaepinnularia gandrupii (Petersen) Lange-Bertalot et Krammer,Bacillariophyceae
+NEONDREX37152,Gomphonema sarcophagus Gregory,Bacillariophyceae
+NEONDREX186003,Psammothidium helveticum (Hustedt) Bukhtiyarova et Round,Bacillariophyceae
+NEONDREX33053,Eunotia septentrionalis Østrup,Bacillariophyceae
+NEONDREX33184,Eunotia muscicola Krasske,Bacillariophyceae
+NEONDREX52051,Pinnularia rupestris Hantzsch,Bacillariophyceae
+NEONDREX39003,Hannaea arcus f. recta Cleve,Bacillariophyceae
+NEONDREX46858,Navicula microcari Lange-Bertalot,Bacillariophyceae
+NEONDREX110034,Encyonema angustecapitatum Krammer,Bacillariophyceae
+NEONDREX190016,Cymbopleura lapponica (Grunow ex Cleve) Krammer,Bacillariophyceae
+NEONDREX212008,Chamaepinnularia soehrensis var. muscicola (Petersen) Lange-Bertalot et Krammer,Bacillariophyceae
+NEONDREX33045,Eunotia praerupta Ehrenberg,Bacillariophyceae
+NEONDREX52156,Pinnularia ignobilis (Krasske) Cleve-Euler,Bacillariophyceae
+NEONDREX33018,Eunotia fallax Cleve-Euler,Bacillariophyceae
+NEONDREX25002,Denticula tenuis Kützing,Bacillariophyceae
+NEONDREX12094,Caloneis fusus Hamilton et Antoniades,Bacillariophyceae
+NEONDREX18015,Brachysira zellensis (Grunow) Round et Mann,Bacillariophyceae
+NEONDREX195001,Cavinula cocconeiformis (Gregory ex Greville) Mann et Stickle,Bacillariophyceae
+NEONDREX23266,Cymbella krammeri Bahls,NA
+NEONDREX33001,Eunotia arcus Ehrenberg,Bacillariophyceae
+NEONDREX33064,Eunotia valida Hustedt,Bacillariophyceae
+NEONDREX33296,Eunotia praerupta var. curta Grunow,Bacillariophyceae
+NEONDREX33427,Eunotia paralleladubia Lange-Bertalot et S. Mayama,Bacillariophyceae
+NEONDREX33465,Eunotia ursamaioris Lange-Bertalot & Nörpel-Schempp,Bacillariophyceae
+NEONDREX44248,Encyonema obscurum (Krasske) Mann,Bacillariophyceae
+NEONDREX46502,Navicula pseudosilicula Hustedt,Bacillariophyceae
+NEONDREX47197,Cymbopleura fluminea (Patrick et Freese) Lange-Bertalot et Krammer,Bacillariophyceae
+NEONDREX52184,Pinnularia subrostrata (Cleve) Cleve-Euler,Bacillariophyceae
+NEONDREX92045,"Nupela devilensis Hamilton, Siver & Antoniades",Bacillariophyceae
+NEONDREX110049,Encyonema paucistriatum (Cleve-Euler) Mann,Bacillariophyceae
+NEONDREX110017,Encyonema latens (Krasske) Mann,Bacillariophyceae
+NEONDREX103171,Pinnularia viridiformis Krammer,Bacillariophyceae
+NEONDREX103172,Pinnularia crucifera Cleve-Euler,Bacillariophyceae
+NEONDREX1236,Pinnularia sinistra Krammer,Bacillariophyceae
+NEONDREX190006,Cymbopleura stauroneiformis (Lagerstedt) Krammer,Bacillariophyceae
+NEONDREX199008,Kobayasiella parasubtilissima (Kobayasi et Nagumo) Lange-Bertalot,Bacillariophyceae
+NEONDREX20019,Cyclotella rossii Håkansson,Bacillariophyceae
+NEONDREX249001,Navicula trophicatrix Lange-Bertalot,Bacillariophyceae
+NEONDREX33466,Eunotia botuliformis Nörpel-Schempp et Lange-Bertalot,Bacillariophyceae
+NEONDREX37306,Gomphonema distans (Cleve-Euler) Lange-Bertalot et Reichardt,Bacillariophyceae
+NEONDREX37517,Gomphonema calcifugum Lange-Bertalot et Reichardt,Bacillariophyceae
+NEONDREX44421,Pinnularia ivaloensis Krammer,Bacillariophyceae
+NEONDREX62078,Stauroneis subgracilis Lange-Bertalot et Krammer,Bacillariophyceae
+NEONDREX8998003,Neidiopsis sp.,Bacillariophyceae
+NEONDREX46150,Navicula vulpina Kützing,Bacillariophyceae
+NEONDREX103173,Pinnularia anglica Krammer,Bacillariophyceae
+NEONDREX37125,Gomphonema angustum Agardh,Bacillariophyceae
+NEONDREX16019,Cocconeis neodiminuta Krammer,Bacillariophyceae
+NEONDREX34082,Fragilaria vaucheriae var. capitellata (Grunow) Ross,Bacillariophyceae
+NEONDREX34244,Fragilaria recapitellata Lange-Bertalot et Metzeltin,Bacillariophyceae
+NEONDREX155007,Planothidium chilense (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX1028,"Achnanthidium semiapertum (Guermeur) Andresen, Stoermer et Kreis",Bacillariophyceae
+NEONDREX189002,Rossithidium linearis (Smith) Round et Bukhtiyarova,Bacillariophyceae
+NEONDREX210009,Geissleria schoenfeldii (Hustedt) Lange-Bertalot et Metzeltin,Bacillariophyceae
+NEONDREX194026,Placoneis subplacentula (Hustedt) Cox,Bacillariophyceae
+NEONDREX67013,Tabellaria ventricosa Kützing,Bacillariophyceae
+NEONDREX34118,Fragilaria gracillima Mayer,Bacillariophyceae
+NEONDREX35018,Frustulia rhomboides f. undulata Hustedt,Bacillariophyceae
+NEONDREX175006,Staurosirella pinnata var. intercedens (Grunow) Hamilton,Bacillariophyceae
+NEONDREX52033,Pinnularia intermedia (Lagerstedt) Cleve,Bacillariophyceae
+NEONDREX69001,Thalassionema nitzschioides (Grunow) Van Heurck,Bacillariophyceae
+NEONDREX110015,Encyonema tenuissimum (Hustedt) Mann,Bacillariophyceae
+NEONDREX37030,Gomphonema intricatum Kützing,Bacillariophyceae
+NEONDREX186038,Psammothidium daonense Lange-Bertalot emended Lange Bertalot,Bacillariophyceae
+NEONDREX92037,Nupela elegantula Potapova,Bacillariophyceae
+PSAMMOTHIDIUMSPP,Psammothidium spp.,Bacillariophyceae
+EUNMON,Eunotia monnieri Lange-Bertalot & Tagliaventi,Bacillariophyceae
+GOMMIC,Gomphonema micropus var. aequale (Gregory) E. Reichardt,Bacillariophyceae
+NEONDREX93181,Navicula pseudotenelloides Krasske,Bacillariophyceae
+PINBUL,Pinnularia bullacostae Krammer & Lange-Bertalot,Bacillariophyceae
+PINDIV,Pinnularia divergentissima var. minor Krammer,Bacillariophyceae
+NEONDREX52250,Pinnularia perirrorata Krammer,Bacillariophyceae
+NEONDREX210023,Geissleria sp.,Bacillariophyceae
+NEONDREX203014,Encyonopsis descripta (Hustedt) Krammer,Bacillariophyceae
+NEONDREX37013,Gomphonema tergestinum (Grunow) Fricke,Bacillariophyceae
+MERANC,Meridion anceps (Ehrenberg) D.M.Williams,Bacillariophyceae
+NEONDREX44599,Cymbopleura anglica (Lagerstedt) Krammer,NA
+NEONDREX203034,Encyonopsis cesatiformis Krammer,NA
+NEONDREX33043,Eunotia perpusilla Grunow,Bacillariophyceae
+NEONDREX81001,Didymosphenia geminata (Lyngbye) Schmidt,Bacillariophyceae
+NEONDREX10065,Aulacoseira nivalis (W. Smith) English et Potapova,Bacillariophyceae
+NEONDREX110009,Encyonema lunatum (Smith) Van Heurck,Bacillariophyceae
+NEONDREX209004,Gomphosphenia tackei (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX316035,Closterium jenneri Ralfs,Chlorophyceae
+NEONDREX33409,Eunotia meisterioides Lange-Bertalot,Bacillariophyceae
+NEONDREX63008,Stenopterobia curvula (Smith) Krammer,Bacillariophyceae
+NEONDREX852002,Homoeothrix juliana (Meneghini) Kirchner,Myxophyceae
+PLAOBL,"Platessa oblongella (Østrup) C.E.Wetzel, Lange-Bertalot & Ector",Bacillariophyceae
+NEONDREX46662,Navicula elginensis var. cuneata Kobayasi,Bacillariophyceae
+NEONDREX186022,Psammothidium rechtensis (Leclercq) Lange-Bertalot,Bacillariophyceae
+NEONDREX195008,Cavinula lapidosa (Krasske) Lange-Bertalot,Bacillariophyceae
+NEONDREX12022,Caloneis undulata (Gregory) Krammer,Bacillariophyceae
+NEONDREX12050,Caloneis pulchra Messikommer,Bacillariophyceae
+NEONDREX37080,Gomphonema rhombicum Fricke,Bacillariophyceae
+NEONDREX71006,Tetracyclus glans (Ehrenberg) Mills,Bacillariophyceae
+NEONDREX33031,Eunotia meisteri Hustedt,Bacillariophyceae
+NEONDREX33052,Eunotia rostellata Hustedt,Bacillariophyceae
+NEONDREX10031,Aulacoseira muzzanensis (Meister) Krammer,Bacillariophyceae
+NEONDREX2027,Achnanthes lutheri Hustedt,Bacillariophyceae
+NEONDREX130030,Luticola heufleriana (Grunow) Mann,Bacillariophyceae
+NEONDREX33216,Eunotia bilunaris var. linearis (Okuno) Lange-Bertalot et Nörpel,Bacillariophyceae
+NEONDREX92018,Nupela vitiosa (Schimanski) Siver et Hamilton,Bacillariophyceae
+NEONDREX316014,Closterium leibleinii Kützing,Chlorophyceae
+NEONDREX195002,Cavinula jaernefeltii (Hustedt) Mann et Stickle,Bacillariophyceae
+NEONDREX221001,Hygropetra balfouriana (Grunow ex Cleve) Krammer et Lange-Bertalot,Bacillariophyceae
+NEONDREX66026,Synedra ulna var. danica (Kützing) Grunow,Bacillariophyceae
+NEONDREX195003,Cavinula pseudoscutiformis (Hustedt) Mann et Stickle,Bacillariophyceae
+NEONDREX52062,Pinnularia subcapitata var. paucistriata (Grunow) Cleve,Bacillariophyceae
+NEONDREX186009,Psammothidium ventralis (Krasske) Bukhtiyarova et Round,Bacillariophyceae
+NEONDREX33030,Eunotia maior (Smith) Rabenhorst,Bacillariophyceae
+NEONDREX46808,Navicula medioconvexa Hustedt,Bacillariophyceae
+NEONDREX10009,Aulacoseira distans (Ehrenberg) Simonsen,Bacillariophyceae
+NEONDREX6006,Amphipleura sp.,Bacillariophyceae
+NEONDREX30018,Diploneis pseudovalis Hustedt,Bacillariophyceae
+NEONDREX854001,Hydrococcus rivularis Kützing,Myxophyceae
+NEONDREX50007,Opephora olsenii Møller,Bacillariophyceae
+NEONDREX110008,Encyonema gaeumannii (Meister) Krammer,Bacillariophyceae
+KRAKRI,Krasskella kriegerana (Krasske) R.Ross & P.A.Sims,Bacillariophyceae
+NEONDREX2508010,Platessa stewartii (Patrick) Potapova,Bacillariophyceae
+NEONDREX92040,Nupela subrostrata (Hustedt) Potapova,Bacillariophyceae
+NEONDREX93175,Navicula goersii Bahls,Bacillariophyceae
+FRUSTULIASPP,Frustulia spp.,Bacillariophyceae
+NEONDREX130003,Luticola ventricosa (Kützing) Mann,Bacillariophyceae
+NEONDREX48411,Nitzschia diversa Hustedt,Bacillariophyceae
+NEONDREX804001,Scytonema sp.,Myxophyceae
+NEONDREX185001,Tryblionella gracilis Smith,Bacillariophyceae
+NEONDREX192002,Fragilariforma constricta (Ehrenberg) Williams et Round,Bacillariophyceae
+NEONDREX125008,Karayevia ploenensis (Hustedt) Bukhtiyarova,Bacillariophyceae
+NEONDREX110023,Encyonema pergracile Krammer,Bacillariophyceae
+NEONDREX37337,Gomphonema bipunctatum Krasske,Bacillariophyceae
+BORHUS,"Boreozonacola hustedtii Lange-Bertalot, Kulikovskiy & Witkowski",Bacillariophyceae
+NUPPOT,Nupela potapovae Bahls,Bacillariophyceae
+NEONDREX328000,Crucigenia quadrata Morren,Chlorophyceae
+NEONDREX528000,Sphaerocystis schroeteri Chodat,Chlorophyceae
+NEONDREX379025,Euastrum oblongum (Greville) Ralfs,Chlorophyceae
+NEONDREX481002,Pleurotaenium ehrenbergii (Brébisson) deBary,Chlorophyceae
+NEONDREX335005,Crucigeniella irregularis (Wille) Tsarenko et John,Chlorophyceae
+NEONDREX1457000,Peridinium cinctum (Möller) Ehrenberg,Dinophyceae
+NEONDREX256003,Actinotaenium cruciferum (deBary) Teiling,Chlorophyceae
+NEONDREX33033,Eunotia microcephala Krasske,Bacillariophyceae
+NEONDREX110035,Encyonema hebridicum Grunow ex Cleve,Bacillariophyceae
+NEONDREX256005,Actinotaenium wollei (W. West et G.S. West) Teiling,Chlorophyceae
+NEONDREX316001,Closterium venus Kützing,Chlorophyceae
+NEONDREX316002,Closterium acerosum (Schrank) Ehrenberg,Chlorophyceae
+NEONDREX316038,Closterium libellula f. minus (Heimerl) Beck-Mannagetta,Chlorophyceae
+NEONDREX327009,Cosmarium trilobulatum Reinsch,Chlorophyceae
+NEONDREX327020,Cosmarium subtumidum Nordstedt ex Wittrock et Nordstedt,Chlorophyceae
+NEONDREX327073,Cosmarium phaseolus Brébisson,Chlorophyceae
+NEONDREX327144,Cosmarium sublateriundatum W. West et G.S. West,Chlorophyceae
+NEONDREX327211,Cosmarium isthmium W. West,Chlorophyceae
+NEONDREX379009,Euastrum dubium Nägeli,Chlorophyceae
+NEONDREX379019,Euastrum verrucosum Ehrenberg ex Ralfs,Chlorophyceae
+NEONDREX400003,Gonatozygon kinahani (Archer) Rabenhorst,Chlorophyceae
+NEONDREX418003,Hyalotheca mucosa (Mertens) Ehrenberg ex Ralfs,Chlorophyceae
+NEONDREX536002,Spondylosium pulchrum (Bailey) Archer,Chlorophyceae
+NEONDREX538069,Staurastrum lapponicum (Schmidle) Grönblad,Chlorophyceae
+NEONDREX538123,Staurastrum anatinum var. truncatum W. West,Chlorophyceae
+NEONDREX63016,Stenopterobia sp.,Bacillariophyceae
+NEONDREX890047,Phormidium granulatum (Gardner) Anagnostidis,Myxophyceae
+NEONDREX316041,Closterium nilssonii Borge,Chlorophyceae
+NEONDREX316090,Closterium abruptum W. West,Chlorophyceae
+NEONDREX379024,Euastrum divaricatum Lundell,Chlorophyceae
+NEONDREX380000,Eudorina elegans Ehrenberg,Chlorophyceae
+NEONDREX190015,Cymbopleura hybrida (Grunow) Krammer,Bacillariophyceae
+NEONDREX327071,Cosmarium meneghini Brébisson ex Ralfs,Chlorophyceae
+NEONDREX536001,Spondylosium planum (Wolle) W. West et G.S. West,Chlorophyceae
+NEONDREX538019,Staurastrum tetracerum Ralfs,Chlorophyceae
+NEONDREX389005,Gloeocystis ampla (Kützing) Rabenhorst,Chlorophyceae
+NEONDREX400005,Gonatozygon aculeatum Hastings,Chlorophyceae
+NEONDREX470001,Penium margaritaceum (Ehrenberg) Brébisson ex Ralfs,Chlorophyceae
+NEONDREX1457007,Peridinium wisconsinense Eddy,Dinophyceae
+NEONDREX279000,Botryococcus braunii Kützing,Chlorophyceae
+NEONDREX500004,Quadrigula closterioides (Bohlin) Printz,Chlorophyceae
+NEONDREX846002,Gomphosphaeria sp.,Myxophyceae
+NEONDREX932001,Komvophoron schmidlei (Jaag) Anagnostidis et Komárek,Myxophyceae
+NEONDREX341000,Desmidium swartzii (C.A. Agardh) C.A. Agardh ex Ralfs,Chlorophyceae
+NEONDREX46078,Navicula submuralis Hustedt,Bacillariophyceae
+NEONDREX46514,Navicula arvensis f. major Manguin,Bacillariophyceae
+NEONDREX580005,Xanthidium antilopaeum var. polymazum Nordstedt,Chlorophyceae
+NEONDREX316017,Closterium setaceum Ehrenberg,Chlorophyceae
+NEONDREX350001,Dictyosphaerium pulchellum Wood,Chlorophyceae
+NEONDREX460003,Onychonema laeve Nordstedt,Chlorophyceae
+NEONDREX438009,Micrasterias radiata Hassall,Chlorophyceae
+NEONDREX460000,Onychonema filiforme (Ehrenberg) Roy et Bissett,Chlorophyceae
+DINOPHYCEAESP,Dinophyceae sp.,Dinophyceae
+NEONDREX327193,Cosmarium margaritatum f. minor (Boldt) W. West et G.S. West,Chlorophyceae
+NEONDREX379018,Euastrum bidentatum Nägeli,Chlorophyceae
+NEONDREX538027,Staurastrum hexacerum (Ehrenberg) Wittrock,Chlorophyceae
+NEONDREX327234,Cosmarium tumidum var. tumidum f. minus Messikommer,Chlorophyceae
+NEONDREX438004,Micrasterias pinnatifida (Kützing) Ralfs,Chlorophyceae
+NEONDREX820008,Chroococcus dispersus var. minor G.M. Smith,Myxophyceae
+NEONDREX3001,Actinella punctata F.W. Lewis,Bacillariophyceae
+NEONDREX1132006,Kephyrion sp.,Chrysophyceae
+NEONDREX316004,Closterium kuetzingii Brébisson,Chlorophyceae
+NEONDREX355000,Dispora sp.,Chlorophyceae
+NEONDREX379028,Euastrum fissum W. West et G.S. West,Chlorophyceae
+NEONDREX553005,Tetraedron caudatum (Corda) Hansgirg,Chlorophyceae
+NEONDREX820004,Chroococcus minutus (Kützing) Nägeli,Myxophyceae
+NEONDREX316058,Closterium cornu Ehrenberg,Chlorophyceae
+NEONDREX12028,Caloneis molaris (Grunow) Krammer,Bacillariophyceae
+NEONDREX327040,Cosmarium pachydermum Lundell,Chlorophyceae
+NEONDREX31003,Entomoneis alata (Ehrenberg) Ehrenberg,Bacillariophyceae
+NEONDREX389001,Gloeocystis major Gerneck,Chlorophyceae
+NEONDREX316051,Closterium tumidulum Gay,Chlorophyceae
+NEONDREX33418,Eunotia neocompacta var. vixcompacta Lange-Bertalot,Bacillariophyceae
+NEONDREX379023,Euastrum affine Ralfs,Chlorophyceae
+NEONDREX67007,Tabellaria flocculosa var. linearis Koppen,Bacillariophyceae
+NEONDREX00547,Cosmarium lomnicense Lütkemüller,NA
+NEONDREX481013,Pleurotaenium verrucosum (Bailey) Lundell,Chlorophyceae
+NEONDREX824004,Coelosphaerium pallidum Lemmermann,NA
+NEONDREX327242,Cosmarium nymannianum Grunow,Chlorophyceae
+NEONDREX33133,Eunotia maior var. ventricosa Cleve-Euler,Bacillariophyceae
+NEONDREX46561,Navicula pseudoarvensis Hustedt,Bacillariophyceae
+NEONDREX47014,Neidium iridis (Ehrenberg) Cleve,Bacillariophyceae
+NEONDREX888024,Schizothrix sp.,Myxophyceae
+NEONDREX316016,Closterium intermedium Ralfs,Chlorophyceae
+NEONDREX316112,Closterium navicula (Brébisson) Lütkemüller,Chlorophyceae
+NEONDREX327027,Cosmarium circulare Reinsch,Chlorophyceae
+NEONDREX379040,Euastrum didelta Ralfs,Chlorophyceae
+NEONDREX538009,Staurastrum alternans (Brébisson) Ralfs,Chlorophyceae
+NEONDREX538100,Staurastrum cerastes Lundell,Chlorophyceae
+NEONDREX538142,Staurastrum radians West & West,Chlorophyceae
+NEONDREX00550,Staurastrum gracile var. tenuissimum Boldt,NA
+NEONDREX327038,Cosmarium regnesi Reinsch,Chlorophyceae
+NEONDREX48001,Nitzschia acicularioides Hustedt,Bacillariophyceae
+NEONDREX538113,Staurastrum johnsonii W. West et G.S. West,Chlorophyceae
+NEONDREX67008,Tabellaria quadriseptata Knudsen,Bacillariophyceae
+NEONDREX995036,Trachelomonas granulosa Playfair,Euglenophyceae
+NEONDREX538040,Staurastrum curvatum var. elongatum Smith,Chlorophyceae
+NEONDREX549000,Tetmemorus laevis (Kützing) Ralfs,Chlorophyceae
+NEONDREX327248,Cosmarium blyttii Wille,Chlorophyceae
+NEONDREX580000,Xanthidium armatum (Brébisson) Rabenhorst,Chlorophyceae
+NEONDREX327036,Cosmarium bioculatum Brébisson,Chlorophyceae
+NEONDREX379041,Euastrum sublobatum Brébisson ex Ralfs,Chlorophyceae
+NEONDREX110092,Encyonema rostratum Krammer,Bacillariophyceae
+NEONDREX18002,Brachysira procera Lange-Bertalot et Moser,Bacillariophyceae
+NEONDREX199007,Kobayasiella madumensis (JØrgensen) Lange-Bertalot,Bacillariophyceae
+NEONDREX97003,Cymbellopsis sp.,Bacillariophyceae
+NEONDREX33272,Eunotia tetraodon Ehrenberg,Bacillariophyceae
+NEONDREX44372,Pinnularia subanglica Krammer,Bacillariophyceae
+PYRRHOPHYTASP,Pyrrhophyta sp.,NA
+NEONDREX199013,Kobayasiella sp.,Bacillariophyceae
+NEONDREX33054,Eunotia serra Ehrenberg,Bacillariophyceae
+NEONDREX48380,Nitzschia bryophila (Hustedt) Hustedt,Bacillariophyceae
+NEONDREX186010,Psammothidium altaicum Bukhtiyarova,Bacillariophyceae
+NEONDREX256010,Actinotaenium sp.,Chlorophyceae
+NEONDREX500002,Quadrigula sp.,Chlorophyceae
+NEONDREX33013,Eunotia elegans Østrup,Bacillariophyceae
+NEONDREX888004,Oscillatoria princeps Vaucher,Myxophyceae
+NEONDREX316042,Closterium planum Hughes,Chlorophyceae
+NEONDREX538041,Staurastrum cuspidatum Ralfs,Chlorophyceae
+NEONDREX321011,Coelastrum proboscideum Bohlin,Chlorophyceae
+NEONDREX316047,Closterium libellula var. intermedium (Roy et Bissett) G.S. West,Chlorophyceae
+NEONDREX10060,Aulacoseira lacustris (Grunow) Krammer,Bacillariophyceae
+NEONDREX438018,Micrasterias muricata (Bailey) Ralfs,Chlorophyceae
+NEONDREX379011,Euastrum binale var. sectum Turner,Chlorophyceae
+NEONDREX455017,Oedogonium reinsheii Roy ex Hirn,Chlorophyceae
+NEONDREX190017,Cymbopleura subaequalis (Grunow) Krammer,Bacillariophyceae
+NEONDREX293001,Chaetosphaeridium globosum (Nordstedt) Klebahn,Chlorophyceae
+NEONDREX538149,Staurastrum anatinum Cooke et Wille,NA
+NEONDREX115005,Fallacia monoculata (Hustedt) Mann,Bacillariophyceae
+CHLOROPHYCEAESP,Chlorophyceae sp.,Chlorophyceae
+NEONDREX44090,Melosira dickiei (Twaites) Kützing,NA
+NEONDREX538017,Staurastrum megacanthum Lundell,Chlorophyceae
+NEONDREX536008,Spondylosium pulchellum (Archer) Archer,NA
+NEONDREX836002,Eucapsis alpina Clements and Schantz,Myxophyceae
+NEONDREX33211,"Eunotia bilunaris var. mucophila Lange-Bertalot, Norpel et Alles",NA
+NEONDREX327033,Cosmarium pyramidatum Brébisson,Chlorophyceae
+NEONDREX890002,Phormidium ambiguum Gomont,Myxophyceae
+NEONDREX21013,Craticula halophilioides (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX546003,Teilingia excavata (Ralfs ex Ralfs) Bourrelly,NA
+NEONDREX18049,Brachysira neglectissima Lange-Bertalot,NA
+NEONDREX10006,Aulacoseira perglabra (Østrup) Haworth,Bacillariophyceae
+NEONDREX10106,Aulacoseira nivaloides (Camburn) English et Potapova,NA
+NEONDREX189007,Rossithidium anastasiae (Kaczmarska) Potapova,Bacillariophyceae
+NEONDREX62018,Stauroneis smithii var. incisa Pantocsek,Bacillariophyceae
+NEONTAXICHONDRUM,Cosmarium taxichondrum,Chlorophyceae
+NEONDREX316027,Closterium striolatum Ehrenberg,Chlorophyceae
+NEONDREX537012,Staurodesmus cuspidatus (Brébisson) Teiling,NA
+BATRACHOSPGSPP,Batrachospermum spp.,Rhodophyceae
+KOBMIC,Kobayasiella micropunctata (H.Germain) Lange-Bertalot,Bacillariophyceae
+MOUGEOTIASPP,Mougeotia spp.,Chlorophyceae
+NEONDREX390003,Geminella interrupta (Turpin) Lagerheim,Chlorophyceae
+NEONDREX47198,Cymbopleura frequens Krammer,Bacillariophyceae
+APHANOTHECESPP,Aphanothece spp.,Myxophyceae
+DICTYOSPHAGSPP,Dictyosphaerium spp.,Chlorophyceae
+DINOBRYONSPP,Dinobryon spp.,Chrysophyceae
+NEONDREX34088,Fragilaria nanana Lange-Bertalot,Bacillariophyceae
+NEONDREX390000,Geminella sp.,Chlorophyceae
+NEONDREX446024,Monoraphidium mirabile (W. West et G.S. West) Lemmermann,Chlorophyceae
+OOCYSTISSPP,Oocystis spp.,Chlorophyceae
+TROSP,Trochiscia sp.,Chlorophyceae
+GEMINELLASPP,Geminella spp.,Chlorophyceae
+GLOSP,Gloeothece sp.,Myxophyceae
+NEONDREX33191,Eunotia rhynchocephala Hustedt,Bacillariophyceae
+NEONDREX52028,Pinnularia formica (Ehrenberg) Patrick,Bacillariophyceae
+STAHEI,Stauroneis heinii Lange-Bertalot & Krammer,Bacillariophyceae
+CHRSP2,Chromulina sp.,Chrysophyceae
+KEPHYRIONSPP,Kephyrion spp.,Chrysophyceae
+SPISP,Spiniferomonas sp.,Synurophyceae
+PLAGIOSELMISSPP,Plagioselmis spp.,Cryptophyceae
+CHLELL,Chlorella ellipsoidea Gerneck,Chlorophyceae
+CYASP2,Cyanodictyon sp.,Myxophyceae
+NEONDREX44095,Melosira sp.,Bacillariophyceae
+NEONDREX537003,Staurodesmus sp.,Chlorophyceae
+EUNTRI1,Eunotia trinacria Krasske,Bacillariophyceae
+NEONDREX47022,Neidium sacoense Reimer,Bacillariophyceae
+NEONDREX52815,Pinnularia rhombarea Krammer et Metzeltin,Bacillariophyceae
+MERISMOPEDIASPP,Merismopedia spp.,Myxophyceae
+NEONDREX350002,Dictyosphaerium sp.,Chlorophyceae
+NEONDREX44512,Cymbella vulgata Krammer,Bacillariophyceae
+NEONDREX1284002,Plagioselmis sp.,Cryptophyceae
+NEONDREX92027,Nupela tenuicephala (Hustedt) Lange-Bertalot,NA
+BULBOCHAETESPP,Bulbochaete spp.,Chlorophyceae
+PERIDINIUMSPP,Peridinium spp.,Dinophyceae
+STAURASTRUMSPP,Staurastrum spp.,Chlorophyceae
+STAURODESMUSSPP,Staurodesmus spp.,Chlorophyceae
+TRIBONEMASPP,Tribonema spp.,Tribophyceae
+NEONDREX1505001,Batrachospermum sp.,Rhodophyceae
+SCYTONEMASPP,Scytonema spp.,Myxophyceae
+SYNECHOCOCCUSSPP,Synechococcus spp.,Myxophyceae
+SYNUROPHYCEAESP,Synurophyceae sp.,Synurophyceae
+NEONDREX18006,Brachysira vitrea (Grunow) Ross,Bacillariophyceae
+OCHROMONASSPP,Ochromonas spp.,Chrysophyceae
+ELAACU,Elakatothrix acuta Pascher,Chlorophyceae
+BRACHYSIRASPP,Brachysira spp.,Bacillariophyceae
+CHRSP4,Chrysosphaera sp.,Chrysophyceae
+EUNNEO,Eunotia neocompacta S.Mayama,Bacillariophyceae
+GOMOLI,Gomphonella olivacea (Hornemann) Rabenhorst,Bacillariophyceae
+NEONDREX18009,Brachysira neoexilis Lange-Bertalot,NA
+NEONDREX192022,Fragilariforma sp.,Bacillariophyceae
+PERUMB,Peridinium umbonatum F.Stein,Dinophyceae
+NEONDREX295000,Characium sp.,Chlorophyceae
+NEONDREX33281,Eunotia fennica (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX542001,Stichococcus sp.,Chlorophyceae
+ENCYONOPSISSPP,Encyonopsis spp.,Bacillariophyceae
+NEONDREX9008,Asterionella sp.,Bacillariophyceae
+NEONDREX34274,Fragilaria perminuta (Grunow) Lange-Bertalot,NA
+NEONDREX93030,Navicula catalanogermanica Lange-Bertalot et Hofmann,Bacillariophyceae
+NEONDREX1025,"Achnanthidium exiguum var. constrictum (Grunow) Andresen, Stoermer et Kreis",Bacillariophyceae
+NEONDREX245004,Ulnaria lanceolata (Kützing) Compère,Bacillariophyceae
+NEONDREX48233,Nitzschia sinuata var. delognei (Grunow) Lange-Bertalot,Bacillariophyceae
+NEONDREX23801,Cymbella kolbei Hustedt,Bacillariophyceae
+NEONDREX211011,Mayamaea fossalis (Krasske) Lange-Bertalot,Bacillariophyceae
+DENOCC,Denticula occidentalis Østrup,Bacillariophyceae
+HALAMPHORASP,Halamphora sp.,Bacillariophyceae
+NAVICULACEAESP,Naviculaceae sp.,Bacillariophyceae
+NEONDREX508001,Rhizoclonium sp.,Chlorophyceae
+NEONDREX46279,Navicula wallacei Reimer,Bacillariophyceae
+NEONDREX510054,Scenedesmus intermedius Chodat,Chlorophyceae
+NEONDREX553016,Tetraedron planctonicum Smith,Chlorophyceae
+NEONDREX70003,Thalassiosira visurgis Hustedt,Bacillariophyceae
+NEONDREX158001,Pleurosira laevis (Ehrenberg) Compère,Bacillariophyceae
+NEONDREX510080,Scenedesmus soli Hortobágyi,Chlorophyceae
+NEONDREX170009,Sellaphora bacillum (Ehrenberg) Mann,Bacillariophyceae
+NEONDREX155047,Planothidium abbreviatum (Reimer) Potapova,Bacillariophyceae
+NEONDREX33041,Eunotia pectinalis var. undulata (Ralfs) Rabenhorst,Bacillariophyceae
+NEONDREX41001,Hydrosera whampoensis (Schwartz) Deby,Bacillariophyceae
+NEONDREX92012,Nupela carolina Potapova et Clason,Bacillariophyceae
+NEONDREX68001,Terpsinoe musica Ehrenberg,Bacillariophyceae
+NEONDREX195004,Cavinula scutelloides (Smith) Lange-Bertalot,Bacillariophyceae
+NEONDREX94071,Achnanthes sp.,Bacillariophyceae
+NEONDREX46537,Navicula schadei Krasske,Bacillariophyceae
+NEONDREX194009,Placoneis placentula (Ehrenberg) Mereschkowsky,Bacillariophyceae
+NEONDREX65045,Surirella stalagma Hohn et Hellerman,Bacillariophyceae
+NEONDREX16014,Cocconeis klamathensis Sovereign,Bacillariophyceae
+NEONDREX194004,Placoneis clementis (Grunow) Cox,Bacillariophyceae
+NEONDREX46090,Navicula vitabunda Hustedt,Bacillariophyceae
+NEONDREX48341,Nitzschia lacunarum Hustedt,Bacillariophyceae
+NEONDREX510018,Scenedesmus dispar Brébisson,Chlorophyceae
+NEONDREX65072,Surirella elegans Ehrenberg,Bacillariophyceae
+NEONDREX93177,Navicula ruttneri var. capitata Hustedt,Bacillariophyceae
+NEONDREX93187,Navicula hintzii Lange-Bertalot,Bacillariophyceae
+NEONDREX155016,Planothidium joursacense (Héribaud) Lange-Bertalot,Bacillariophyceae
+NEONDREX48394,Nitzschia lorenziana Grunow,Bacillariophyceae
+NEONDREX23817,Cymbella tropica Krammer,Bacillariophyceae
+NEONDREX38027,Gyrosigma reimeri Sterrenburg,Bacillariophyceae
+NEONDREX464000,Pandorina morum (Müller) Bory,Chlorophyceae
+NEONDREX46693,Navicula broetzii Lange-Bertalot et Metzeltin,Bacillariophyceae
+NEONDREX510019,Scenedesmus serratus (Corda) Bohlin,Chlorophyceae
+NEONDREX557001,Tetrastrum heteracanthum (Nordstedt) Chodat,Chlorophyceae
+NEONDREX110040,Encyonema alpinum (Grunow) Mann,Bacillariophyceae
+NEONDREX211005,Mayamaea muraliformis (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX2508002,Platessa holsatica (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX984000,Lepocinclis sp.,Euglenophyceae
+NEONDREX16013,Cocconeis scutellum Ehrenberg,Bacillariophyceae
+NEONDREX170002,Sellaphora pupula var. capitata Skvortzow et Meyer,Bacillariophyceae
+NEONDREX2506001,Discostella glomerata (Bachmann) Houk et Klee,Bacillariophyceae
+NEONDREX2508005,Platessa rupestris (Krasske) Lange-Bertalot,Bacillariophyceae
+NEONDREX510029,Scenedesmus brevispina (G.M. Smith) Chodat,Chlorophyceae
+NEONDREX52811,Pinnularia schroederii (Hustedt) Krammer,Bacillariophyceae
+NEONDREX46159,Navicula festiva Krasske,Bacillariophyceae
+NEONDREX46467,Navicula vaucheriae Petersen,Bacillariophyceae
+NEONDREX321013,Coelastrum morus W. West et G.S. West,Chlorophyceae
+BOTRYOCOCCUSSP,Botryococcus sp.,Chlorophyceae
+NEONDREX510081,Scenedesmus smithii Teiling,Chlorophyceae
+NEONDREX40007,Hantzschia distinctepunctata (Hustedt) Hustedt,Bacillariophyceae
+GYRSCA,Gyrosigma scalproides (Rabenhorst) Cleve,Bacillariophyceae
+CERSTA,Cerasterias staurastroides West & G.S. West,Chlorophyceae
+CYAFUS,Cyanotetras fusca Hindák,Myxophyceae
+MONCIR,Monoraphidium circinale (Nygaard) Nygaard,NA
+NEONDREX426006,Lagerheimia genevensis Chodat,Chlorophyceae
+NEONDREX898000,Raphidiopsis curvata Fritsch et Rich,Myxophyceae
+TETALT,Tetrachlorella alternans (G.M. Smith) Korshikov,Chlorophyceae
+NEONDREX831001,Cylindrospermopsis raciborskii (Woloszynska) Seenaya et Subba Raju,Myxophyceae
+SCEACU,Scenedesmus aculeolatus Reinsch,Chlorophyceae
+SCEALT,Scenedesmus alternans Reinsch,NA
+SUXMIT,Suxenella mitrae (G.L. Tiwari & D.C. Pandey) Fott,Chlorophyceae
+CRUCRU,Crucigenia crucifera (Wolle) Collins,Chlorophyceae
+KIROBE,Kirchneriella obesa (West) West & G.S. West,Chlorophyceae
+NEONDREX210002,Geissleria aikenensis (Patrick) Torgan et Olivera,NA
+NEONDREX933002,Tychonema sp.,Myxophyceae
+NEONDREX510032,Scenedesmus incrassatulus Bohlin,Chlorophyceae
+NEONDREX510059,Scenedesmus opoliensis Richter,Chlorophyceae
+SPESP,Spermatozopsis sp.,Chlorophyceae
+NEONDREX46405,Navicula thienemanni Hustedt,Bacillariophyceae
+NEONDREX9098004,Halamphora holsatica (Hustedt) Levkov,Bacillariophyceae
+NEONDREX1011,Achnanthidium affine (Grunow) Czarnecki,Bacillariophyceae
+NEONDREX9098040,Halamphora ghanensis Levkov,Bacillariophyceae
+NEONDREX48186,Nitzschia vermicularis (Kützing) Hantzsch,Bacillariophyceae
+NEONDREX197009,Diadesmis pantropica Lange-Bertalot,Bacillariophyceae
+NEONDREX23082,Cymbella tumidula Grunow,Bacillariophyceae
+NEONDREX875005,Merismopedia convoluta Brébisson ex Kützing,Myxophyceae
+NEONDREX186015,Psammothidium levanderi (Hustedt) Czarnecki,Bacillariophyceae
+NEONDREX3065,Naviculadicta raederae Lange-Bertalot,Bacillariophyceae
+NEONDREX48007,Nitzschia denticula Grunow,Bacillariophyceae
+NEONDREX92034,Nupela frezelii Potapova,Bacillariophyceae
+NEONDREX569001,Ulothrix zonata (Weber et Mohr) Kützing,Chlorophyceae
+NEONDREX842008,Gloeocapsa sp.,Myxophyceae
+NEONDREX37073,Gomphonema carolinense Hagelstein,Bacillariophyceae
+NEONDREX901001,Rivularia sp.,Myxophyceae
+CYMBELLACEAESP,Cymbellaceae sp.,Bacillariophyceae
+NEONDREX10001,Aulacoseira crassipunctata Krammer,Bacillariophyceae
+NEONDREX190007,Cymbopleura subcuspidata (Krammer) Krammer,Bacillariophyceae
+NEONDREX35059,"Frustulia inculta Siver, Pelczar et Hamilton",Bacillariophyceae
+NEONDREX48188,Nitzschia vitrea Norman,Bacillariophyceae
+NEONDREX316113,Closterium cornu var. upsaliense Nordstedt,Chlorophyceae
+NEONDREX23111,Cymbella schubartoides Camburn et Charles,Bacillariophyceae
+NEONDREX33017,Eunotia exigua var. tridentula Østrup,Bacillariophyceae
+NEONDREX155005,Planothidium peragalli (Brun et Héribaud) Round et Bukhtiyarova,Bacillariophyceae
+NEONDREX1711,Placoneis hambergii (Hustedt) Bruder,Bacillariophyceae
+NEONDREX192007,Fragilariforma strangulata (Zanon) Williams et Round,Bacillariophyceae
+NEONDREX48223,Nitzschia commutata Grunow,Bacillariophyceae
+NEONDREX33212,Eunotia paludosa var. trinacria (Krasske) Nörpel et Alles,Bacillariophyceae
+NEONDREX33021,Eunotia formica Ehrenberg,Bacillariophyceae
+NEONDREX219001,Decussata placenta (Ehrenberg) Lange-Bertalot,Bacillariophyceae
+NEONDREX37398,Gomphonema coronatum Ehrenberg,Bacillariophyceae
+NEONDREX65013,Surirella gracilis (Smith) Grunow,Bacillariophyceae
+NEONDREX58008,Rhopalodia acuminata Krammer,Bacillariophyceae
+NEONDREX62016,Stauroneis phoenicenteron f. gracilis (Dippel) Hustedt,Bacillariophyceae
+NEONDREX34208,Fragilaria capucina var. fragilarioides (Grunow) Ludwig et Flores,Bacillariophyceae
+NEONDREX62017,Stauroneis producta Grunow,Bacillariophyceae
+NEONDREX47113,Cymbopleura apiculata Krammer,Bacillariophyceae
+NEONDREX23265,Cymbella parva (Smith) Kirchner,Bacillariophyceae
+NEONDREX44359,Pinnularia grunowii Krammer,Bacillariophyceae
+NEONDREX37057,Gomphonema turris Ehrenberg,Bacillariophyceae
+NEONDREX1013,Achnanthidium macrocephalum (Hustedt) Round et Bukhtiyarova,Bacillariophyceae
+NEONDREX2125,Achnanthes decipiens Reimer,Bacillariophyceae
+NEONDREX170045,"Sellaphora bacilloides (Hustedt) Levkov, Krstic et Nakov",Bacillariophyceae
+NEONDREX33271,Eunotia satelles (Nörpel-Schempp et Lange-Bertalot) Nörpel-Schempp et Lange-Bertalot,Bacillariophyceae
+DELDEL,Delicatophycus delicatulus (Kützing) M.J.Wynne,Bacillariophyceae
+EUNCUR1,Eunotia curvata (Kützing) Lagerstedt,Bacillariophyceae
+NEONDREX35035,Frustulia rhomboides (Ehrenberg) deToni,NA
+ACHROS,Achnanthidium rosenstockii (Lange-Bertalot) Lange-Bertalot,Bacillariophyceae
+NEONDREX806002,Spirulina sp.,Myxophyceae
+EUNCUR,Eunotia curvula Hustedt,Bacillariophyceae
+NEONDREX73025,"Pseudostaurosira elliptica (Schumann) Edlund, Morales et Spaulding",Bacillariophyceae
+NEONDREX30020,Diploneis smithii var. pumila (Grunow) Hustedt,Bacillariophyceae
+NEONDREX23089,Cymbella cymbiformis Agardh,Bacillariophyceae
+NEONDREX37151,Gomphonema utae Lange-Bertalot et Reichardt,Bacillariophyceae
+NEONDREX538054,Staurastrum subgrande var. minor Smith,Chlorophyceae
+NEONDREX46106,Navicula praeterita Hustedt,Bacillariophyceae
+NEONDREX23202,Cymbella compacta Østrup,Bacillariophyceae
+NEONDREX34202,Fragilaria capucina var. septentrionalis (Østrup) Lange-Bertalot,Bacillariophyceae
+NEONDREX12009,Caloneis hyalina Hustedt,Bacillariophyceae
+NEONDREX37071,Gomphonema augur Ehrenberg,Bacillariophyceae
+NEONDREX34148,Fragilaria parasitica (Smith) Grunow,Bacillariophyceae
+NEONDREX7060,Amphora aequalis Krammer,Bacillariophyceae
+NEONDREX8942005,Eolimna tantula (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX8942015,Eolimna raederae (Lange-Bertalot) Lange-Bertalot et Kulikovskiy,Bacillariophyceae
+NEONDREX48134,Nitzschia bremensis Hustedt,Bacillariophyceae
+NEONDREX115019,Fallacia pseudoforcipata (Hustedt) Mann,Bacillariophyceae
+NEONDREX48661,Nitzschia rectirobusta Lange-Bertalot,Bacillariophyceae
+NEONDREX12054,Caloneis thermalis (Grunow) Krammer,Bacillariophyceae
+NEONDREX13001,Cylindrotheca gracilis (Brébisson) Grunow,Bacillariophyceae
+PERSP,Peroniella sp.,Tribophyceae
+HYESP,Hyella sp.,Myxophyceae
+NEONDREX819009,Chamaesiphon minimus Schmidle,Myxophyceae
+ENCHAM,Encyonema hamsherae D.Winter & Bahls,Bacillariophyceae
+NEONDREX48652,Nitzschia balcanica Hustedt,Bacillariophyceae
+NEONDREX12044,Caloneis aerophila Bock,Bacillariophyceae
+ENCPRO,Encyonema procerum Krammer,Bacillariophyceae
+NEONDREX850008,Heteroleibleinia kossinskajae (Elenkin) Anagnosidis et Komárek,Myxophyceae
+NEONDREX907002,Snowella sp.,Myxophyceae
+NEONDREX34126,Fragilaria fonticola Hustedt,Bacillariophyceae
+NEONDREX37083,Gomphonema bohemicum Reichelt et Fricke,Bacillariophyceae
+NEONDREX21041,Craticula sp.,Bacillariophyceae
+DIPOBL,Diploneis oblongellopsis Lange-Bertalot & A.Fuhrmann,Bacillariophyceae
+PERONIASP,Peronia sp.,Bacillariophyceae
+CYMALP,Cymbella alpestris Krammer,Bacillariophyceae
+NEONDREX46674,Navicula namibica Lange-Bertalot et Rumrich,Bacillariophyceae
+NEONDREX46807,Navicula pseudobryophila Hustedt,Bacillariophyceae
+NEONDREX316079,Closterium tumidum var. nylandicum Grönblad,Chlorophyceae
+NEONDREX52814,Pinnularia amabilis Krammer,Bacillariophyceae
+NEONDREX33451,"Eunotia papilioforma Furey, Lowe et Johansen",Bacillariophyceae
+NEONDREX888012,Oscillatoria sancta Kützing,Myxophyceae
+NEONDREX62030,Stauroneis smithii var. sagitta (Cleve) Hustedt,Bacillariophyceae
+NEONDREX37081,Gomphonema angustatum var. obtusatum (Kützing) Grunow,Bacillariophyceae
+NEONDREX62032,Stauroneis agrestis Petersen,Bacillariophyceae
+NEONDREX1100,Meridion alansmithii Brant,Bacillariophyceae
+NEONDREX130057,Luticola minor (Patrick) Mayama,Bacillariophyceae
+NEONDREX170109,Sellaphora stauroneioides (Lange-Bertalot) Veselá et Johansen,Bacillariophyceae
+NEONDREX34077,Fragilaria virescens f. clavata Grunow,Bacillariophyceae
+NEONDREX23076,Cymbella lata Grunow,Bacillariophyceae
+NEONDREX103174,Pinnularia turfosiphila Gaiser & Johansen,Bacillariophyceae
+NEONDREX12018,Caloneis bacillum var. lancettula (Schulz) Hustedt,Bacillariophyceae
+NEONDREX130058,"Luticola pseudopeguana Levkov, Metzeltin & A.Pavlov",Bacillariophyceae
+NEONDREX33005,Eunotia bigibba Kützing,Bacillariophyceae
+NEONDREX2041,Achnanthes coarctata (Brébisson ex W. Smith) Grunow,Bacillariophyceae
+NEONDREX62041,Stauroneis thermicola f. lanceolata (Hustedt) Hustedt,Bacillariophyceae
+NEONDREX92039,Nupela poconoensis (Patrick) Potapova,Bacillariophyceae
+NEONDREX210005,Geissleria ignota (Krasske) Lange-Bertalot et Metzeltin,Bacillariophyceae
+NEONDREX198001,Cosmioneis pusilla (Smith) Mann et Stickle,Bacillariophyceae
+NEONDREX33435,Eunotia subherkiniensis Lange-Bertalot,Bacillariophyceae
+NEONDREX62101,"Stauroneis reichardtii Lange-Bertalot, Cavacini, Tagliaventi et Alfinito",Bacillariophyceae
+NEONDREX170150,Sellaphora difficillima (Hustedt) Wetzel & Mann,NA
+NEONDREX44262,Pinnularia divergentissima var. subrostrata Cleve,Bacillariophyceae
+NEONDREX52242,Pinnularia parvulissima Krammer,Bacillariophyceae
+ACHSUB1,Achnanthidium subhudsonis var. kraeueselii (Cholnoky) Cantonati & Lange-Bertalot,Bacillariophyceae
+EUNVEN,Eunotia veneris (Kützing) De Toni,Bacillariophyceae
+GOMOCC,Gomphonema occultum Reichardt & Lange-Bertalot,Bacillariophyceae
+NEONDREX130009,Luticola muticoides (Hustedt) Mann,Bacillariophyceae
+NEONDREX130032,Luticola mobiliensis (Boyer) A. Mayama,Bacillariophyceae
+NEITEN,Neidium tenuissimum Hustedt,Bacillariophyceae
+NEONDREX46289,Navicula peregrina (Ehrenberg) Kützing,Bacillariophyceae
+NEONDREX99012,"Achnanthidium delmontii Pérés, Le Cohu & Barthés",NA
+NEONDREX185011,Tryblionella brunoi (Lange-Bertalot) Cantonati & Lange-Bertalot,NA
+NEONDREX22002,Cymatopleura elliptica (Brébisson ex Kützing) Smith,Bacillariophyceae
+NEONDREX23152,Cymbella lange-bertalotii Krammer,Bacillariophyceae
+NEONDREX48624,Nitzschia gisela Lange-Bertalot,Bacillariophyceae
+NEONDREX48094,Nitzschia dubia Smith,Bacillariophyceae
+NEONDREX78002,Campylodiscus hibernicus Ehrenberg,Bacillariophyceae
+GYRNOD,Gyrosigma nodiferum (Grunow) Reimer,Bacillariophyceae
+SELLIN,"Sellaphora linearis (Metzeltin & H. Lange-Bertalot) C.E. Wetzel, L. Ector, B. Van de Vijver, Compère & D.G. Mann",Bacillariophyceae
+PSAPUN,Psammothidium punctulatum Bukhtiyarova & Round,Bacillariophyceae
+STAKOE,"Stauroneis koeltzii Metzeltin, A. Witkowski & Lange-Bertalot",Bacillariophyceae
+NEONDREX78010,Campylodiscus sp.,Bacillariophyceae
+NEONDREX1061,Achnanthidium crassum (Hustedt) Potapova et Ponader,NA
+PARPLA,Paraplaconeis placentula (Ehrenberg) Kulikovskiy & Lange-Bertalot,Bacillariophyceae
+PUNMIM,Punctastriata mimetica E.A.Morales,Bacillariophyceae
+NEONDREX103178,Pinnularia schoenfelderi Krammer,NA
+NEONDREX21037,Craticula acidoclinata Lange-Bertalot et Metzeltin,Bacillariophyceae
+NEONDREX52015,Pinnularia braunii (Grunow) Cleve,Bacillariophyceae
+NEONDREX9216001,"Neidiomorpha bindodiformis (Krammer) M. Cantonati, Lange-Bertalot & N. Angeli",NA
+AUDSPP,Audouinella spp.,Florideophyceae
+PLANKTOTHRIXSPP,Planktothrix spp.,Myxophyceae
+NAVEIL,Navicula eileeniae Potapova & Ciugulea,Bacillariophyceae
+NEONDREX203011,Encyonopsis minuta Krammer et Reichardt,Bacillariophyceae
+NEONDREX46463,Navicula subfasciata Patrick,Bacillariophyceae
+CAMPYLODISCUSSPP,Campylodiscus spp.,Bacillariophyceae
+NEONDREX890028,Phormidium autumnale (Agardh) Trevisan ex Gomont,Myxophyceae
+NAVSUP,Navicula supleeorum Bahls,Bacillariophyceae
+NAVSCH,Navicula schweigeri Bahls,Bacillariophyceae
+NEONDREX481000,Pleurotaenium coronatum (Brébisson) Rabenhorst,Chlorophyceae
+NEONDREX538034,"Staurastrum anatinum f. parvum Prescott, Bicudo et Vinyard",Chlorophyceae
+NEONDREX327019,Cosmarium reniforme (Ralfs) Archer,Chlorophyceae
+NEONDREX537002,Staurodesmus incus var. ralfsii (W. West) Teiling,Chlorophyceae
+NEONDREX33397,Eunotia julma Lange-Bertalot,Bacillariophyceae
+NEONDREX62162,Stauroneis subborealis Bahls,Bacillariophyceae
+NEONDREX379007,Euastrum evolutum W. West et G.S. West,Chlorophyceae
+NEONDREX438007,Micrasterias radiosa Ralfs,Chlorophyceae
+NEONDREX538146,Staurastrum striolatum (Nägeli) Archer,Chlorophyceae
+NEONDREX538058,Staurastrum dejectum (Brébisson) Ralfs,Chlorophyceae
+NEONDREX327241,Cosmarium quinarium Lundell,Chlorophyceae
+NEONDREX379008,Euastrum ansatum Ralfs,Chlorophyceae
+NEONDREX358000,Docidium undulatum Bailey,Chlorophyceae
+NEONDREX538117,Staurastrum longispinum (Bailey) Archer,Chlorophyceae
+NEONDREX316019,Closterium ulna Focke,Chlorophyceae
+NEONDREX438023,Micrasterias denticulata Brébisson ex Ralfs,Chlorophyceae
+NEONDREX473001,Phymatodocis nordstedtiana Wolle,Chlorophyceae
+NEONDREX537010,Staurodesmus ralfsii (West) Tomaszewicz,NA
+NEONDREX52087,Pinnularia polyonca (Brébisson) Smith,Bacillariophyceae
+NEONDREX65046,Surirella brightwellii Smith,Bacillariophyceae
+NEONDREX380001,Eudorina sp.,Chlorophyceae
+NEONDREX481018,Pleurotaenium eugeneum (Turner) W. West et G.S. West,NA
+NEONDREX335000,Crucigeniella crucifera (Wolle) Komárek,Chlorophyceae
+NEONDREX62047,Stauroneis borrichii (Petersen) Lund,Bacillariophyceae
+NEONDREX879001,Microcystis sp.,Myxophyceae
+NEONDREX103177,Pinnularia subrupestris Krammer,NA
+NEONDREX1421,Stauroneis supergracilis Van de Vijver et Lange-Bertalot,NA
+CHLOROCOCCUMSPP,Chlorococcum spp.,Chlorophyceae
+GLOEOCYSTISSPP,Gloeocystis spp.,Chlorophyceae
+PANDORINASPP,Pandorina spp.,Chlorophyceae
+STIGONEMASPP,Stigonema spp.,Myxophyceae
+XANTHIDIUMSPP,Xanthidium spp.,Chlorophyceae
+BOTRYOCOCCUSSPP,Botryococcus spp.,Chlorophyceae
+COELASTRUMSPP,Coelastrum spp.,Chlorophyceae
+ULOTHRIXSPP,Ulothrix spp.,Chlorophyceae
+NEONDREX186021,Psammothidium curtissimum (Carter) Aboal,Bacillariophyceae
+BITCHO,Bitrichia chodatii (Reverdin) Chodat,Chrysophyceae
+NEONDREX397000,Golenkinia paucispina W. West et G.S. West,Chlorophyceae
+PSEPSE,Pseudokephyrion pseudospirale Bourrelly,Chrysophyceae
+CHRYSOCHROGSPP,Chrysochromulina spp.,Prymnesiophyceae
+PEDHEX,"Pedinella hexacostata Vysotskii [Vysotskij, Wysotzki, Wyssotzki]",Dictyochophyceae
+TETTRI,Tetrastrum triangulare (Chodat) Komárek,Chlorophyceae
+PSEELL,Pseudokephyrion ellipsoideum (Pascher) Conrad,Chrysophyceae
+KOLSPI,Koliella spiculiformis (Vischer) Hindák,Chlorophyceae
+CHASP4,Chattonella sp.,Raphidophyceae
+PSESP,Pseudokephyrion sp.,Chrysophyceae
+KOMCAU,Komma caudata (L.Geitler) D.R.A.Hill,Cryptophyceae
+NEONDREX275000,Binuclearia sp.,Chlorophyceae
+GOMSAP,"Gomphonema saprophilum (Lange-Bertalot & E.Reichardt) Abraca, R.Jahn, J.Zimmermann & Enke",Bacillariophyceae
+ASTLIM,Asterococcus limneticus G.M.Smith,Chlorophyceae
+CHASP1,Characiopsis sp.,Tribophyceae
+EPISP,Epipyxis sp.,Chrysophyceae
+ONYCHONEMASPP,Onychonema spp.,Chlorophyceae
+PENIUMSPP,Penium spp.,Chlorophyceae
+NEONDREX569005,Ulothrix tenerrima Kützing,Chlorophyceae
+LOBOMONASSPP,Lobomonas spp.,Chlorophyceae
+STAURONEISSPP,Stauroneis spp.,Bacillariophyceae
+NEONDREX20082,Cyclotella cyclopuncta Håkansson et Carter,Bacillariophyceae
+NEONDREX335001,Crucigeniella rectangularis (Nägeli) Komárek,Chlorophyceae
+NEONDREX807003,Aphanocapsa elachista W. West et G.S. West,Myxophyceae
+QUADRIGULASPP,Quadrigula spp.,Chlorophyceae
+STICHOCOCCUSSPP,Stichococcus spp.,Chlorophyceae
+STISP,Stichogloea sp.,Phaeothamniophyceae
+TEILINGIASPP,Teilingia spp.,Chlorophyceae
+MONMIN,Monoraphidium minutum (Nägeli) Komárková-Legnerová,Chlorophyceae
+DISLAK,"Discostella lakuskarluki (Manguin ex Kociolek & Reviers) Potapova, Aycock & Bogan",Coscinodiscophyceae
+ENCALP,Encyonopsis alpina Krammer & Lange-Bertalot,Bacillariophyceae
+ENCDES,Encyonopsis descriptiformis Bahls,Bacillariophyceae
+NEONDREX190013,Cymbopleura angustata (Smith) Krammer,Bacillariophyceae
+NEONDREX64017,Stephanodiscus alpinus Hustedt,Bacillariophyceae
+NEONDREX9215006,"Lindavia tripartita (Håkansson) Nakov, Gillory, Julius, Theriot et Alverson",NA
+CHLOROPHYCEAESPP,Chlorophyceae spp.,Chlorophyceae
+CHOSP,Chondrocystis sp.,Myxophyceae
+DINOPHYCEAESPP,Dinophyceae spp.,Dinophyceae
+PSEKAM,Pseudotetraëdriella kamillae E.Hegewald & J.Padisák,Eustigmatophyceae
+CLOSTERIOPSISSP,Closteriopsis sp.,Chlorophyceae
+SCOSP1,Scourfieldia sp.,Pedinophyceae
+PLAROS,Planothidium rostratoholarcticum Lange-Bertalot & Bak,Bacillariophyceae
+NEONDREX186018,Psammothidium grischunum (Wuthrich) Bukhtiyarova et Round,Bacillariophyceae
+NEONDREX186041,Psammothidium nivale Potapova et Enache,NA
+NEONDREX37079,Gomphonema olivaceoides var. denestriata Foged,Bacillariophyceae
+NEONDREX170153,Sellaphora arvensis (Hustedt) Wetzel & Ector,NA
+NEONDREX209016,Gomphosphenia stoermeri Kociolek et Thomas,NA
+NEONDREX33213,Eunotia perminuta (Grunow) Patrick,Bacillariophyceae
+MERHOH,Meridion hohii Rhode,Bacillariophyceae
+NEONDREX37011,Gomphonema subclavatum var. commutatum (Grunow) Mayer,Bacillariophyceae
+NEONDREX103001,Pinnularia brauniana (Grunow) Studnicka,Bacillariophyceae
+NEONDREX62013,Stauroneis obtusa Lagerstedt,Bacillariophyceae
+NEONDREX23001,Cymbella amphicephala Nägeli,Bacillariophyceae
+NEONDREX46304,Navicula occulta Krasske,Bacillariophyceae
+NEONDREX47068,Neidium bisulcatum var. subampliatum Krammer,Bacillariophyceae
+NEONDREX170138,Sellaphora wallacei (Reimer) Potapova et Ponader,Bacillariophyceae
+NEONDREX212033,Chamaepinnularia brasilianopsis Metzeltin et Lange-Bertalot,Bacillariophyceae
+NEONDREX33180,Eunotia cristagalli Cleve,Bacillariophyceae
+NEONDREX52804,Pinnularia acidophila Hofmann et Krammer,Bacillariophyceae
+NEONDREX130047,Luticola permuticoides Metzeltin et Lange-Bertalot,Bacillariophyceae
+NEONDREX1399,Stauroneis circumborealoides Van de Vijver et Lange-Bertalot,Bacillariophyceae
+NEONDREX33264,Eunotia praerupta var. bigibba (Kützing) Grunow,Bacillariophyceae
+NEONDREX46643,Navicula pupula var. aquaeductae (Krasske) Hustedt,Bacillariophyceae
+NEONDREX47122,Cymbopleura lata (Grunow) Krammer,Bacillariophyceae
+NEONDREX65001,Surirella adumbratus Hohn et Hellerman,Bacillariophyceae
+NEONDREX199003,Kobayasiella jaagii (Meister) Lange-Bertalot,Bacillariophyceae
+NEONDREX46767,Navicula suchlandtii Hustedt,Bacillariophyceae
+NEONDREX33262,Eunotia monodon var. bidens (Gregory) Hustedt,Bacillariophyceae
+NEONDREX46030,Navicula krasskei Hustedt,Bacillariophyceae
+NEONDREX10014,Aulacoseira perglabra var. florinae (Camburn) Haworth,Bacillariophyceae
+NEONDREX170142,Sellaphora alastos (Hohn et Hellerman) Lange-Bertalot & Metzeltin,Bacillariophyceae
+NEONDREX20008,Cyclotella michiganiana Skvortzow,Bacillariophyceae
+NEONDREX216003,Microcostatus maceria (Schimanski) Lange-Bertalot,NA
+NEONDREX990065,Phacus elegans Pochmann,Euglenophyceae
+NEONDREX52083,Pinnularia borealis var. rectangularis Carlson,Bacillariophyceae
+EUNPAN,Eunotia panda J.Veselá & J.R.Johansen,Bacillariophyceae
+CALVAS,Caloneis vasileyevae Lange-Bertalot Genkal & Vekhov,Bacillariophyceae
+EUNJEM,Eunotia jemtlandica (Font.) A.Berg,Bacillariophyceae
+NEONDREX993019,Strombomonas sp.,Euglenophyceae
+PINKRA,Pinnularia krammeri Metzeltin,Bacillariophyceae
+EUNKOC,Eunotia kociolekii P.C.Furey R.L.Lowe & J.R.Johansen,Bacillariophyceae
+EUNSPA,Eunotia spatulata J.Veselá & J.R.Johansen,Bacillariophyceae
+KURSTO,Kurtkrammeria stodderi (Cleve) L.L. Bahls,Bacillariophyceae
+NEONDREX33038,Eunotia parallela Ehrenberg,Bacillariophyceae
+HUMISP,Humidophila sp.,NA
+EUNPAR,Eunotia paratriundulata Lange-Bertalot & Kulikoovskiy,Bacillariophyceae
+NEONDREX74002,Orthoseira dendroteres (Ehrenberg) Crawford,Bacillariophyceae
+KURSP,Kurtkrammeria sp.,Bacillariophyceae
+NEONDREX33126,Eunotia tautoniensis Hustedt,Bacillariophyceae
+FALVIT,Fallacia vitrea (Østrup) D.G.Mann,Bacillariophyceae
+EUNCAT,Eunotia cataractarum P.C.Furey R.L.Lowe & J.R.Johansen,Bacillariophyceae
+GOMPHONITZGSPP,Gomphonitzschia spp.,Bacillariophyceae
+STICHOSIPHONSPP,Stichosiphon spp.,Myxophyceae
+NEONDREX52208,Pinnularia gibba var. linearis Hustedt,Bacillariophyceae
+GOMPHOSPHENIASPP,Gomphosphenia spp.,Bacillariophyceae
+NEONDREX46776,Navicula densilineolata (Lange-Bertalot) Lange-Bertalot,Bacillariophyceae
+NEONDREX37308,Gomphonema pala Reichardt,Bacillariophyceae
+NEONDREX48311,Nitzschia flexoides Geitler,Bacillariophyceae
+NEONDREX65103,Surirella pinnata Smith,Bacillariophyceae
+NEONDREX24003,Cymbellonitzschia sp.,Bacillariophyceae
+CYASP3,Cyanosarcina sp.,Myxophyceae
+HYDROCOCCUSSP,Hydrococcus sp.,Myxophyceae
+ANKSP,Ankyra sp.,Chlorophyceae
+REIMERIASP,Reimeria sp.,Bacillariophyceae
+NEONDREX204018,Adlafia langebertalotii Monnier & Ector,NA
+NEONDREX216004,Microcostatus naumanii (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX213016,Hippodonta sp.,Bacillariophyceae
+CHROMULINACEAESP,Chromulinaceae sp.,Chrysophyceae
+GOMCLE,Gomphonema clevei Fricke,Bacillariophyceae
+NEONDREX23207,Cymbella cleve-eulerae Krammer,NA
+NEONDREX327014,Cosmarium undulatum Corda ex Ralfs,Chlorophyceae
+NEONDREX832001,Dichothrix sp.,Myxophyceae
+NEONDREX37155,Gomphonema lagerheimii Cleve-Euler,Bacillariophyceae
+NEONDREX20023,Cyclotella comensis Grunow,Bacillariophyceae
+NEONDREX208004,Puncticulata bodanica (Grunow) Håkansson,Bacillariophyceae
+NEONDREX9215003,"Lindavia intermedia (Manguin ex Kociolek & Reviers) Nakov, Guillory, Julius, Theriot & Alverson ex W.C.Daniels, Novis & Edlund",Bacillariophyceae
+NEONDREX316024,Closterium rostratum Ehrenberg,Chlorophyceae
+NEONDREX327007,Cosmarium botrytis (Meneghini) Ralfs,Chlorophyceae
+NEONDREX327249,Cosmarium tenue var. depressum Irénée-Marie,Chlorophyceae
+NEONDREX225002,Berkeleya rutilans (Trentepohl ex Roth) Grunow,Bacillariophyceae
+NEONDREX316060,Closterium dianae var. brevius (Wittrock) Petkoff,Chlorophyceae
+NEONDREX327024,Cosmarium tenue Archer,Chlorophyceae
+NEONDREX327098,Cosmarium botrytis var. subtumidum Wittrock,Chlorophyceae
+NEONDREX203010,Encyonopsis krammeri Reichardt,Bacillariophyceae
+NEONDREX327005,Cosmarium turpinii Brébisson,Chlorophyceae
+NEONDREX33394,Eunotia incisadistans Lange-Bertalot & Sienkiewicz,NA
+NEONDREX186040,Psammothidium acidoclinatum (Lange-Bertalot) Lange-Bertalot,NA
+NEONDREX33210,Eunotia circumborealis Lange-Bertalot et Nörpel,Bacillariophyceae
+NEONDREX23263,Cymbella botellus (Lagerstedt) A. Schmidt,NA
+NEONDREX47238,Cymbopleura incerta var. spitsbergensis Krammer,NA
+NEONDREX37521,Gomphonema naviculoides W. Smith,NA
+HANSUP,Hannaea superiorensis R.J. Bixby & M.B. Edlund,Bacillariophyceae
+NEONDREX48261,Nitzschia ambigua Manguin,Bacillariophyceae
+KRASP,Krasskella sp.,Bacillariophyceae
+NEONDREX203036,Encyonopsis stafsholtii Bahls,NA
+TABULARIASPP,Tabularia spp.,Bacillariophyceae
+NEONDREX200008,Tabularia sp.,Bacillariophyceae
+NEONDREX33055,Eunotia serra var. diadema (Ehrenberg) Patrick,Bacillariophyceae
+HANNAEASP,Hannaea sp.,Bacillariophyceae
+CYMRUM,Cymbella rumrichae Krammer,Bacillariophyceae
+ENCHUS,Encyonopsis hustedtii Bahls,Bacillariophyceae
+EUCOCCONEISSPP,Eucocconeis spp.,Bacillariophyceae
+EUNCUR2,Eunotia curtagrunowii Nörpel-Schempp & Lange-Bertalot,Bacillariophyceae
+FRAPER,Fragilaria perdelicatissima Lange-Bertalot & Van de Vijver,Bacillariophyceae
+NEONDREX92008,Nupela silvahercynia (Lange-Bertalot) Lange-Bertalot,Bacillariophyceae
+NEONDREX187008,Eucocconeis sp.,Bacillariophyceae
+NEONDREX46760,Navicula difficillimoides Hustedt,Bacillariophyceae
+NEONDREX819005,Chamaesiphon amethystinus Lemmermann,Myxophyceae
+NEONDREX46741,Navicula margalithii Lange-Bertalot,Bacillariophyceae
+NEONDREX888005,Oscillatoria limosa (Dillwyn) Agardh,Myxophyceae
+NEONDREX819007,Chamaesiphon confervicolus Braun,Myxophyceae
+NEONDREX48382,Nitzschia perspicua Cholnoky,Bacillariophyceae
+NEONDREX48464,Nitzschia palustris Hustedt,Bacillariophyceae
+NEONDREX2155,Achnanthes stolida (Krasske) Krasske,Bacillariophyceae
+NEONDREX316009,Closterium lunula (Müller) Nitzsch,Chlorophyceae
+NEONDREX814001,Calothrix fusca (Kützing) Bornet et Flahault,Myxophyceae
+NEONDREX30008,Diploneis peterseni Hustedt,Bacillariophyceae
+NEONDREX37289,Gomphonema pumilum var. elegans Reichardt et Lange-Bertalot,Bacillariophyceae
+NEONDREX446018,Monoraphidium griffithii (Berkeley) Komárková-Legnerová,Chlorophyceae
+NEONDREX12011,Caloneis bacillum var. fontinalis (Grunow) Cleve,Bacillariophyceae
+NEONDREX93447,"Navicula lacuum Lange-Bertalot, Hofmann, Werum et Van de Vijver",NA
+NEONDREX46964,Navicula phylleptosoma Lange-Bertalot,Bacillariophyceae
+FRULAT,Frustulia latita C.L. Graeff & Kociolek,Bacillariophyceae
+PINERR,Pinnularia erratica Krammer,Bacillariophyceae
+HALPSE,Halamphora pseudomontana (Cholnoky) Levkov,Bacillariophyceae
+MICROCOSTATUSSP,Microcostatus sp.,Bacillariophyceae
+PININF,Pinnularia infirma Krammer,Bacillariophyceae
+DIABRE,Diadesmis brekkaensis (J.B. Petersen) D.G. Mann,Bacillariophyceae
+NEONDREX48043,Nitzschia rostellata Hustedt,Bacillariophyceae
+NEONDREX52199,Pinnularia acoricola Hustedt,Bacillariophyceae
+NEONDREX8942003,"Eolimna subadnata (Hustedt) Moser, Lange-Bertalot et Metzeltin",Bacillariophyceae
+NEONDREX93148,Navicula wiesneri Lange-Bertalot,Bacillariophyceae
+MUELLERIASP,Muelleria sp.,Bacillariophyceae
+NAVAIT,Navicula aitchelbee Bahls,Bacillariophyceae
+STABOV,Stauroneis bovbjergii Reimer,Bacillariophyceae
+DIPCAL,Diploneis calcilacustris Lange-Bertalot & A.Fuhrmann,Bacillariophyceae
+NEONDREX93172,Navicula radiosafallax Lange-Bertalot,Bacillariophyceae
+HALBIC,Halamphora bicapitata (M.H.Hohn & J.Hellerman) J.G.Stepanek & Kociolek,Bacillariophyceae
+NEONDREX46919,Navicula amphiceropsis Lange-Bertalot et Rumrich,Bacillariophyceae
+LUTSAP,"Luticola saprophila Levkov, Metzeltin & A.Pavlov",Bacillariophyceae
+NEONDREX130019,Luticola stigma (Patrick) Johansen,Bacillariophyceae
+STAPSE,Stauroneis pseudagrestis Lange-Bertalot & Werum,Bacillariophyceae
+NEONDREX29001,Ellerbeckia arenaria (Moore ex Ralfs) Crawford,Bacillariophyceae
+NEONDREX524000,Sorastrum spinulosum Nägeli,Chlorophyceae
+NEONDREX12014,Caloneis lewisii Patrick,Bacillariophyceae
+NEONDREX518001,Selenastrum sp.,Chlorophyceae
+NEONDREX206003,"Biremis lucens (Hustedt) Sabbe, Witkowski et Vyverman",Bacillariophyceae
+NEONDREX54004,Pleurosigma delicatulum Smith,Bacillariophyceae
+NEONDREX327003,Cosmarium margaritatum (Lund) Roy et Bissett,Chlorophyceae
+NEONDREX48185,Nitzschia valdestriata Aleem et Hustedt,Bacillariophyceae
+NEONDREX65065,Surirella crumena Brébisson ex Kützing,Bacillariophyceae
+NEONDREX93108,Navicula oblongella Nägeli ex Kützing,Bacillariophyceae
+NEONDREX211004,Mayamaea atomus var. permitis (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX43002,Mastogloia smithii Thwaites ex Smith,Bacillariophyceae
+NEONDREX48338,Nitzschia aurariae Cholnoky,Bacillariophyceae
+NEONDREX194019,Placoneis lata (Peragallo) Lowe,Bacillariophyceae
+NEONDREX48182,Nitzschia tryblionella var. maxima Grunow,Bacillariophyceae
+NEONDREX53001,Plagiotropis lepidoptera (Gregory) Kuntze,Bacillariophyceae
+NEONDREX170149,Sellaphora auldreekie Mann & McDonald,Bacillariophyceae
+NEONDREX30052,Diploneis krammeri Lange-Bertalot et Reichardt,Bacillariophyceae
+NEONDREX35062,Frustulia amosseana Lange-Bertalot et Rumrich,Bacillariophyceae
+CYMSTI,Cymbella stigmaphora Østrup,Bacillariophyceae
+NEONDREX185006,Tryblionella balatonis (Grunow) Mann,Bacillariophyceae
+BACILLARIACEAESP,Bacillariaceae sp.,Bacillariophyceae
+PINSCH,Pinnularia schwabei Krasske,Bacillariophyceae
+NEONDREX194003,Placoneis clementioides (Hustedt) Cox,Bacillariophyceae
+NEONDREX46904,Navicula riediana Lange-Bertalot et Rumrich,Bacillariophyceae
+SELHAR,Sellaphora harderi (Hustedt) J.Foets & C.E.Wetzel,Bacillariophyceae
+NEONDREX12012,Caloneis schumanniana var. biconstricta (Grunow) Reichelt,Bacillariophyceae
+CYCINV,"Cyclostephanos invisitatus (M.H.Hohn & Hellermann) E.C.Theriot, Stoermer & Håkasson",Bacillariophyceae
+CYMAMP,Cymbopleura amphicephala (Nägeli ex Kützing) Krammer,Bacillariophyceae
+MAYATO,Mayamaea atomus var. alcimonica (E.Reichardt) E.Reichardt,Bacillariophyceae
+NEONDREX65043,Surirella ovalis Brébisson,Bacillariophyceae
+NEONDREX213010,"Hippodonta capitata subsp. iberoamericana Metzeltin, Lange-Bertalot et García-Rodríguez",NA
+NEONDREX54002,Pleurosigma elongatum Smith,Bacillariophyceae
+NEONDREX510112,Scenedesmus semipulcher Hortobágyi,Chlorophyceae
+NEONANGLOPHILA,Placoneis anglophila,Bacillariophyceae
+NEONDREX424010,Kirchneriella subcapitata Koršikov,Chlorophyceae
+NEONDREX70009,Thalassiosira bramaputrae (Ehrenberg) Håkansson et Locker,Bacillariophyceae
+NEONDREX891001,Planktothrix agardhii (Gomont) Anagnostidis et Komárek,Myxophyceae
+NEONDREX32008,Epithemia turgida var. granulata (Ehrenberg) Brun,Bacillariophyceae
+NEONDREX890039,Phormidium chalybeum (Mertens ex Gomont) Anagnostidis et Komárek,Myxophyceae
+NEONDREX255000,Actinastrum hantzschii Lagerheim,Chlorophyceae
+NEONDREX803008,Anabaena circinalis Rabenhorst,Myxophyceae
+NEONDREX64001,Stephanodiscus niagarae Ehrenberg,Bacillariophyceae
+NEONDREX110032,Encyonema sinicum Krammer,Bacillariophyceae
+NEONDREX32010,Epithemia reichelti Fricke,Bacillariophyceae
+NEONDREX261006,Ankistrodesmus fusiformis Corda,Chlorophyceae
+NEONDREX517000,Schroederia setigera (Schröder) Lemmermann,Chlorophyceae
+NEONDREX863011,Leptolyngbya perelegans (Lemmermann) Anagnostidis et Komárek,Myxophyceae
+NEONDREX44212,Placoneis amphibola (Cleve) Cox,Bacillariophyceae
+NEONDREX1718001,"Cuspidothrix issatschenkoi (Usačev) Rajaniemi, Komárek, Williams, Hrouzek, Kastovská, Hoffmann et Sivonen",Myxophyceae
+NEONDREX986004,Monomorphina pyrum (Ehrenberg) Mereschkowsky,Euglenophyceae
+NEONDREX8971001,Brevisira arentii (Kolbe) Krammer,Bacillariophyceae
+NEONDREX245009,Ulnaria delicatissima var. angustissima (Grunow) Aboal,Bacillariophyceae
+NEONDREX424004,Kirchneriella contorta (Schmidle) Bohlin,Chlorophyceae
+NOSTOCACEAESP,Nostocaceae sp.,Myxophyceae
+NEONDREX876003,Microcrocis sp.,NA
+PHORMIDIACEAESP,Phormidiaceae sp.,Myxophyceae
+EUGACU,Euglena acus (O.F. Müller) Ehrenberg,Euglenophyceae
+GLALAX,"Glaucospira laxissima (G.S. West) Simic, Komárek & Dordevic",Myxophyceae
+NEONDREX901000,Rivularia haematites Agardh,Myxophyceae
+NEONDREX295009,Characium rostratum Reinhard ex Printz,Chlorophyceae
+CYASP1,Cyanarcus sp.,Myxophyceae
+NEONDREX43005,Mastogloia grevillei Smith,Bacillariophyceae
+NEONDREX321001,Coelastrum sphaericum Nägeli,Chlorophyceae
+NEONDREX806006,Aphanizomenon flos-aquae (Linnaeus) Ralfs,Myxophyceae
+NEONDREX194024,Placoneis significans (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX879000,Microcystis aeruginosa Kützing,Myxophyceae
+NEONDREX110046,Encyonema mesianum (Cholnoky) Mann,Bacillariophyceae
+NEONDREX12019,Caloneis schroederi Hustedt,Bacillariophyceae
+NEONDREX890033,Phormidium amoenum Kützing ex Anagnostidis et Komárek,Myxophyceae
+NEONDREX401003,Gongrosira burmanica Skuja,Chlorophyceae
+NEONDREX37107,Gomphonema variostriatum Camburn et Charles,Bacillariophyceae
+NEONDREX15002,Chaetoceros elmorei Boyer,Bacillariophyceae
+NEONDREX192006,Fragilariforma hungarica var. tumida (Cleve-Euler) Hamilton,Bacillariophyceae
+NEONDREX37383,Gomphonema brasiliense Grunow,Bacillariophyceae
+NEONDREX510015,Scenedesmus obliquus (Turpin) Kützing,NA
+NEONDREX37187,Gomphonema parallelistriatum Lange-Bertalot et Reichardt,Bacillariophyceae
+NEONDREX48049,Nitzschia amphibioides Hustedt,Bacillariophyceae
+NEONDREX93456,Navicula trilatera Bahls,NA
+NEONDREX43012,Mastogloia sp.,Bacillariophyceae
+NEONDREX1237,Chaetoceros muelleri Lemmermann,NA
+NEONDREX243899,Distrionella sp.,NA
+LEPSPI,Leptolyngbya spiralis (C.-C.Jao) Anagnostidis,Myxophyceae
+NAVLUZ,Navicula luzonensis Hustedt,Bacillariophyceae
+NEONDREX31002,Entomoneis ornata (Bailey) Reimer,Bacillariophyceae
+NEONDREX31007,Entomoneis sp.,Bacillariophyceae
+NEONDREX889005,Planktolyngbya limnetica (Lemmermann) Komárková-Legnerová et Cronberg,Myxophyceae
+OOCNOV,Oocystis novae-semliae Wille,Chlorophyceae
+NEONDREX897006,Pseudanabaena mucicola (Naumann et Huber-Pestalozzi) Schwabe,Myxophyceae
+NEONDREX807013,Aphanocapsa planctonica (Smith) Komárek et Anagnostidis,Myxophyceae
+NEONDREX46870,Navicula seibigiana Lange-Bertalot,Bacillariophyceae
+NEONDREX185025,Tryblionella littoralis (Grunow) Mann,Bacillariophyceae
+NEONDREX48392,Nitzschia thermaloides Hustedt,Bacillariophyceae
+NEONDREX48339,Nitzschia flexa Schumann,Bacillariophyceae
+NEONDREX78009,Campylodiscus noricus Ehrenberg ex Kützing,Bacillariophyceae
+PLAREI,Planothidium reichardtii Lange-Bertalot & Werum,Bacillariophyceae
+NEONDREX12025,Caloneis alpestris (Grunow) Cleve,Bacillariophyceae
+AMPCUN,Amphora cuneatiformis Levkov & Kristic,Bacillariophyceae
+NEONDREX1408000,Gyrodinium sp.,NA
+NEONDREX23199,Cymbella excisiformis Krammer,Bacillariophyceae
+NEONDREX32017,Epithemia goeppertiana Hilse,Bacillariophyceae
+NEONDREX481015,Pleurotaenium nodosum (Bailey) Lundell,Chlorophyceae
+NEONDREX837001,Fischerella musicola (Thuret) Gomont,Myxophyceae
+NEONDREX438020,Micrasterias radiosa var. ornata Nordstedt,Chlorophyceae
+NEONDREX460004,Onychonema laeve var. latum W. West et G.S. West,Chlorophyceae
+NEONDREX283000,Carteria sp.,Chlorophyceae
+NEONDREX33248,Eunotia rabenhorstiana var. elongata (Patrick) Metzeltin et Lange-Bertalot,Bacillariophyceae
+NEONDREX358001,Docidium baculum Brébisson ex Ralfs,Chlorophyceae
+GONYOSTOMUMSP,Gonyostomum sp.,Raphidophyceae
+NEONDREX9004,Asterionella ralfsii Smith,Bacillariophyceae
+NEONDREX192012,Fragilariforma virescens var. capitata (Østrup) Czarnecki,Bacillariophyceae
+NEONDREX33395,Eunotia juettnerae Lange-Bertalot,NA
+RHIHUX,Rhipidodendron huxleyi Kent,Imbricatea
+EUNRUS,"Eunotia rushforthii Furey, Lowe & Johansen",Bacillariophyceae
+RHABDOGLOEASPP,Rhabdogloea spp.,Myxophyceae
+JAAGRA,Jaaginema gracile (Böcher) Anagnostidis & Komárek,Myxophyceae
+SELCAP,Sellaphora capitata D.G.Mann & S.M.McDonald,Bacillariophyceae
+STAAMP,Stauroneis amphicephala Kützing,Bacillariophyceae
+NEONDREX890038,Phormidium breve (Kützing ex Gomont) Anagnostidis et Komárek,Myxophyceae
+HANABU,Hantzschia abundans Lange-Bertalot,Bacillariophyceae
+NEONDREX211012,Mayamaea fossalis var. obsidialis (Hustedt) Lange-Bertalot,Bacillariophyceae
+TETDIM,Tetradesmus dimorphus (Turpin) M.J.Wynne,Chlorophyceae
+NEONDREX40001,Hantzschia elongata (Hantzsch) Grunow,Bacillariophyceae
+NEONDREX48144,Nitzschia fasciculata (Grunow) Grunow,Bacillariophyceae
+NEONDREX510045,Scenedesmus ellipticus W. West et G.S. West,Chlorophyceae
+NEONDREX450000,Netrium oblongum (deBary) Lütkemüller,Chlorophyceae
+NEONDREX7059,Amphora delicatissima Krasske,Bacillariophyceae
+NEONDREX53002,Plagiotropis lepidoptera var. proboscidea (Cleve) Reimer,Bacillariophyceae
+NEONDREX52170,Pinnularia macilenta (Ehrenberg) Ehrenberg,Bacillariophyceae
+NEONDREX70005,Thalassiosira gessneri Hustedt,Bacillariophyceae
+NEONDREX35034,Frustulia spicula Amossé,Bacillariophyceae
+NEONDREX248010,Naviculadicta absoluta (Hustedt) Lange-Bertalot,Bacillariophyceae
+NEONDREX37158,Gomphonema augur var. turris (Ehrenberg) Lange-Bertalot,Bacillariophyceae
+NEONDREX48316,Nitzschia aerophila Hustedt,Bacillariophyceae
+NEONDREX48660,Nitzschia fibulafissa Lange-Bertalot,Bacillariophyceae
+NEONDREX94048,Achnanthes minuscula Hustedt,Bacillariophyceae
+NEONDREX9208013,Paraplaconeis minor (Grunow) Lange-Bertalot,NA
+BIDDULPHIASP,Biddulphia sp.,Bacillariophyceae
+FRUCAP,Frustulia capitata C.L.Graeff & Kociolek,Bacillariophyceae
+NEONDREX115015,Fallacia enigmatica (Germain) Lange-Bertalot et Werum,Bacillariophyceae
+GYRKUE,Gyrosigma kuetzingii (Grunow) Cleve,Bacillariophyceae
+SKAPER,Skabitschewskia peragalloi (Brun & Héribaud) Kuliskovskiy & Lange-Bertalot,Bacillariophyceae
+PRESTAURONEISSP,Prestauroneis sp.,Bacillariophyceae
+PLAINC,"Planothidium incuriatum C.E.Wetzel, B.van de Vijver & L.Ector",Bacillariophyceae
+NEONDREX38017,Gyrosigma macrum (Smith) Griffith et Henfrey,Bacillariophyceae
+PREPRO,Prestauroneis protracta (Grunow) I.W.Bishop Minerovic Q.Liu and Kociolek,Bacillariophyceae
+NEONDREX170026,Sellaphora fusticulus (Østrup) Lange-Bertalot,Bacillariophyceae
+NEONDREX37296,Gomphonema germainii Kociolek et Stoermer,Bacillariophyceae
+BACSP,Bacularia sp.,Myxophyceae
+CLOACI,Closteriopsis acicularis (Chodat) J.H.Belcher & Swale,Chlorophyceae
+NEONDREX1456004,Peridiniopsis sp.,Dinophyceae
+NEONDREX190011,Cymbopleura incerta (Grunow) Krammer,Bacillariophyceae
+NEONDREX20034,Cyclotella bodanica var. lemanica (Müller) Bachmann,Bacillariophyceae
+NEONDREX32002,Epithemia smithii Carruthers,Bacillariophyceae
+NEONDREX327122,Cosmarium punctulatum var. subpunctulatum (Nordstedt) Borgesen,Chlorophyceae
+NEONDREX66013,Synedra cyclopum Brutschy,Bacillariophyceae
+NEONDREX46486,Navicula detenta Hustedt,Bacillariophyceae
+NEONDREX66062,Synedra mazamaensis Sovereign,Bacillariophyceae
+NEONDREX37012,Gomphonema subtile Ehrenberg,Bacillariophyceae
+NEONDREX203013,Encyonopsis vandamii Krammer et Lange-Bertalot,Bacillariophyceae
+NEONDREX327042,Cosmarium cucumis Corda ex Ralfs,Chlorophyceae
+NEONDREX9215001,"Lindavia antiqua (W.Smith) Nakov, Guillory, Julius, Theriot & Alverson",Bacillariophyceae
+NEONDREX30002,Diploneis finnica (Ehrenberg) Cleve,Bacillariophyceae
+NEONDREX23072,Cymbella delicatula Kützing,Bacillariophyceae
+NEONDREX155026,Planothidium oestrupii (Cleve-Euler) Edlund,Bacillariophyceae
+NEONDREX186016,Psammothidium sacculum (Carter) Bukhtiyarova,Bacillariophyceae
+NEONDREX212007,Chamaepinnularia soehrensis var. hassiaca (Krasske) Lange-Bertalot,Bacillariophyceae
+NEONDREX261001,Ankistrodesmus spiralis (Turner) Lemmermann,Chlorophyceae
+NEONDREX10029,Aulacoseira valida (Grunow) Krammer,Bacillariophyceae
+NEONDREX46128,Navicula modica Hustedt,Bacillariophyceae
+NEONDREX9215007,"Lindavia comensis (Grunow) Nakov, Gillory, Julius, Theriot et Alverson",NA
+NEONDREX65056,Surirella turgida Smith,Bacillariophyceae
+BIREMISSP,Biremis sp.,Bacillariophyceae
+NAVICULADICTASP,Naviculadicta sp.,Bacillariophyceae
+NEONDREX1692,Navicula subconcentrica Lange-Bertalot,NA
+NEONDREX23267,Cymbella designata Krammer,NA
+NEONDREX48210,Nitzschia regula Hustedt,NA
+NEONDREX44500,Cymbella hantzschiana (Rabenhorst) Krammer,NA
+NEONDREX327084,Cosmarium undulatum var. wollei W. West,Chlorophyceae
+NEONDREX23099,Cymbella helvetica Kützing,Bacillariophyceae
+NEONDREX327107,Cosmarium incertum Schmidle,Chlorophyceae
+NEONDREX327251,Cosmarium borgei (Hirano) Croasdale,NA
+NEONDREX18022,Brachysira calcicola subsp. pfisteri Lange-Bertalot et Werum,NA
+ANEROS,Aneumastus rostratus (Hustedt) Lange-Bertalot,Bacillariophyceae
+ENCDAK,Encyonopsis dakotae Bahls,Bacillariophyceae
+ENCKUT,Encyonopsis kutenaiorum Bahls,Bacillariophyceae
+NEONDREX34038,Fragilaria pinnata var. acuminata Mayer,Bacillariophyceae
+NITREG,Nitzschia regula var. robusta Hustedt,Bacillariophyceae
+EUNBOO,"Eunotia boomsma Furey, Lowe and Johansen",Bacillariophyceae
+FRAGILARIACEAESP,Fragilariaceae sp.,Bacillariophyceae
+NEONDREX64035,Stephanodiscus oregonica (Ehrenberg) Håkansson,Bacillariophyceae
+NEIPSE,Neidium pseudodensestriatum Stachura-Suchoples and Kociolek,Bacillariophyceae
+NEONDREX170036,Sellaphora parapupula Lange-Bertalot,Bacillariophyceae
+NEONDREX984002,Lepocinclis ovum (Ehrenberg) Lemmermann,Euglenophyceae
+FRASAX,Fragilaria saxoplanctonica Lange-Bertalot & S.Ulrich,Bacillariophyceae
+KOLSP1,Koliella sp.,Chlorophyceae
+ULNGRU,Ulnaria grunowii (Lange-Bertalot & S.Ulrich) Cantonati & Lange-Bertalot,Bacillariophyceae
+NEONDREX37439,Gomphonema micropumilum Reichardt,Bacillariophyceae
+NEONDREX37056,Gomphonema sphaerophorum Ehrenberg,Bacillariophyceae
+NEONDREX48096,Nitzschia sinuata (Thwaites) Grunow,Bacillariophyceae
+NEONDREX65091,Surirella bohemica Maly,Bacillariophyceae
+NEONDREX18011,Brachysira aponina Kützing,Bacillariophyceae
+NEONDREX810005,Arthrospira sp.,Myxophyceae
+NEONDREX7089,Amphora eximia Carter,Bacillariophyceae
+NEONDREX170106,Sellaphora perhibita (Hustedt) Lange-Bertalot et Cantonati,Bacillariophyceae
+NEONDREX65066,Surirella hoefleri Hustedt,Bacillariophyceae
+NEONDREX103037,Pinnularia kuetzingii Krammer,NA
+CYMRUP,Cymbopleura rupicola (Grunow) Krammer,Bacillariophyceae
+NEONDREX23071,Cymbella proxima Reimer,Bacillariophyceae
+STALEP,Staurosira leptostauron (Ehrenberg) Kulikovskiy & Genkal,Bacillariophyceae
