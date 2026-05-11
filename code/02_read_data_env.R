@@ -1,7 +1,7 @@
 library(daymetr)
 
 df_meta <- neonDivData::data_algae |>
-  filter(str_detect(location_id, "CRAM\\.AOS\\.riparian\\.point\\.(01|02|03|05|05)")) |>
+  filter(str_detect(location_id, "CRAM\\.AOS\\.riparian\\.point\\.(01|02|03|04|05)")) |>
   filter(variable_name == "cell density", sampleCondition == "Condition OK") |>
   distinct(location_id, observation_datetime, latitude, longitude)
 

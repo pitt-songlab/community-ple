@@ -24,7 +24,7 @@ if (!file.exists(f_taxa)) {
 
 (
   df_phyto <- neonDivData::data_algae |>
-    filter(str_detect(location_id, "CRAM\\.AOS\\.riparian\\.point\\.(01|02|03|05|05)")) |>
+    filter(str_detect(location_id, "CRAM\\.AOS\\.riparian\\.point\\.(01|02|03|04|05)")) |>
     filter(variable_name == "cell density", sampleCondition == "Condition OK") |>
     select(location_id, unique_sample_id, observation_datetime, taxon_id, taxon_name, value)
 )

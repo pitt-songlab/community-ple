@@ -23,6 +23,12 @@ env_scaled <- env_joined |>
 # ── Run RDA ────────────────────────────────────────────────────────────────────
 
 rda_result <- rda(comm_matrix ~ ., data = env_scaled)
+# rda_result <- rda(comm_matrix ~ factor(month), data = wide |>
+#                     select(location_id, observation_datetime) |>
+#                     mutate(
+#                       doy = lubridate::yday(observation_datetime),
+#                       month = lubridate::month(observation_datetime)
+#                     ))
 summary(rda_result)
 
 # How much variance is explained?
