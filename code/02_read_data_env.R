@@ -39,6 +39,7 @@ df_daymet <- df_daymet_full |>
   select(location_id, latitude, longitude, observation_datetime, measurement, value) |>
   pivot_wider(names_from = measurement, values_from = value)
 
+df_daymet
 # Key Daymet variables you'll get:
 # tmax..deg.c.   tmin..deg.c.   prcp..mm.day.
 # srad..W.m.2.   vp..Pa.        dayl..s.
